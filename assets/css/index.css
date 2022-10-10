@@ -118,10 +118,6 @@ h2 {
 	border-radius: 8px;
 }
 
-button {
-	cursor: pointer;
-}
-
 @media only screen and (min-width: 570px) {
 	.new-title {
 		font-size: 20px;

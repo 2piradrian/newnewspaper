@@ -22,3 +22,7 @@ body {
 	background-color: var(--background);
 	text-align: center;
 }
+
+button {
+	cursor: pointer;
+}
