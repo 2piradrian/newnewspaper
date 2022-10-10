@@ -33,7 +33,7 @@
 .new {
 	height: auto;
 	max-width: 600px;
-	width: 80%;
+	width: 300px;
 	margin-top: 30px;
 	cursor: pointer;
 	transition: 500ms;
@@ -65,12 +65,13 @@
 }
 
 .new-img {
-	height: auto;
-	width: 100%;
+	height: 150px;
+	width: 300px;
 	border-radius: 10px;
 }
 
 .new-description {
+	margin: 8px 0px;
 	font-size: 12px;
 }
 
@@ -86,11 +87,13 @@
 }
 
 @media only screen and (min-width: 570px) {
-	.new-title {
-		font-size: 20px;
+	.new {
+		width: 400px;
 	}
-	.new-description {
-		font-size: 14px;
+	.new-img {
+		height: 200px;
+		width: 400px;
+		border-radius: 10px;
 	}
 	.showNew {
 		height: 40px;
@@ -98,9 +101,14 @@
 	}
 }
 
-@media only screen and (min-width: 950px) {
+@media only screen and (min-width: 700px) {
 	.new {
-		width: 400px;
+		width: 500px;
+	}
+	.new-img {
+		height: 250px;
+		width: 500px;
+		border-radius: 10px;
 	}
 }
 

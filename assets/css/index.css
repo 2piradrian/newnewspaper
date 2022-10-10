@@ -15,10 +15,17 @@
 .news-section {
 	width: 100%;
 	display: flex;
-	flex-wrap: wrap;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+}
+
+.newsContainer {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	justify-content: center;
+	gap: 20px;
 }
 
 .forYou-section {
@@ -99,6 +106,10 @@ footer {
 	.loadBtn {
 		height: 45px;
 	}
+	.newsContainer {
+		flex-direction: row;
+		flex-wrap: wrap;
+	}
 }
 
 @media only screen and (min-width: 900px) {
@@ -112,7 +123,6 @@ footer {
 }
 
 @media only screen and (min-width: 950px) {
-	.news-section,
 	.yourNews {
 		gap: 20px;
 		flex-direction: row;
