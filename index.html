@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="/assets/css/style.css" />
 		<link rel="stylesheet" href="/assets/css/header.css" />
 		<link rel="stylesheet" href="/assets/css/index.css" />
+		<link rel="stylesheet" href="/assets/css/news.css" />
 		<script src="https://kit.fontawesome.com/33f755772d.js" crossorigin="anonymous"></script>
 		<title>new-news</title>
 	</head>
@@ -37,6 +38,10 @@
 		<main class="appMain">
 			<section class="filters">
 				<div class="categories">
+					<div id="search" class="category-card">
+						<i class="fa-solid fa-magnifying-glass"></i>
+						<p class="category">Buscar</p>
+					</div>
 					<div id="allNews" class="category-card">
 						<i class="fa-solid fa-newspaper"></i>
 						<p class="category">Novedades</p>
@@ -71,7 +76,7 @@
 			<div class="category-selected-card">
 				<p class="category-selected" id="category-selected">Novedades</p>
 			</div>
-			<section class="news">
+			<section class="news-section">
 				<div class="new">
 					<img
 						src="https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/03/31175302/Lollapalooza-2019-Dia-3-Domingo-1.jpg"
@@ -106,7 +111,7 @@
 				</div>
 				<button class="loadBtn" id="moreNewsG">Cargar más noticias</button>
 			</section>
-			<section class="forYou">
+			<section class="forYou-section">
 				<h2>Noticias para ti</h2>
 				<p>Novedades personalizadas</p>
 				<div class="yourNews">
@@ -144,6 +149,32 @@
 					</div>
 				</div>
 				<button class="loadBtn" id="moreNewsP">Cargar más noticias</button>
+			</section>
+			<section class="beMember">
+				<div class="subtitles">
+					<h2>Conviertete en miembro</h2>
+					<p>y accede a todos los beneficios</p>
+				</div>
+				<p>Con tu cuenta podrás:</p>
+				<ul class="beneficts">
+					<li>
+						<img src="/assets/img/foryou.jpg" alt="crea" srcset="" />
+						<p>Acceder a contenido personalizado</p>
+					</li>
+					<li>
+						<img src="/assets/img/new.jpg" alt="no te pierdas nada" srcset="" />
+						<p>Estar al tanto de todo lo que pasa</p>
+					</li>
+					<li>
+						<img src="/assets/img/email.jpg" alt="para ti" srcset="" />
+						<p>Recibir las últimas noticias en tu correo</p>
+					</li>
+					<li>
+						<img src="/assets/img/save.jpg" alt="para ti" srcset="" />
+						<p>Guardar noticias para ver mas tarde</p>
+					</li>
+				</ul>
+				<button class="loadBtn">Crear cuenta</button>
 			</section>
 		</main>
 		<script src="/assets/js/const.js"></script>

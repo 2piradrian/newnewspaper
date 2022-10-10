@@ -23,6 +23,22 @@ body {
 	text-align: center;
 }
 
+header {
+	max-width: 1450px;
+}
+
+main {
+	max-width: 1450px;
+}
+
 button {
 	cursor: pointer;
+}
+
+@media only screen and (min-width: 1450px) {
+	body {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
 }
