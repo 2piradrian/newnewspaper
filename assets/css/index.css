@@ -62,6 +62,10 @@ h2 {
 	align-items: center;
 }
 
+.beMember a {
+	width: 80%;
+}
+
 .circleimg {
 	margin: 20px;
 	height: 100px;
@@ -83,6 +87,12 @@ h2 {
 
 .beneficts img {
 	width: 300px;
+}
+
+footer {
+	width: 100%;
+	padding: 40px;
+	background-color: var(--secondary);
 }
 
 @media only screen and (min-width: 570px) {

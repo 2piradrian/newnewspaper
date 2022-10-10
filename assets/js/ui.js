@@ -12,3 +12,9 @@ const animateBurguerMenu = () => {
 
 $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);
+
+// Guardar noticias //
+const changeStatus = (newId) => {
+	const icon = document.getElementById(newId);
+	icon.classList.toggle("fa-solid");
+};
