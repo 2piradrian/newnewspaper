@@ -8,10 +8,14 @@ const saveLocalStorage = (key, userInfo) => {
 };
 
 const renderNews = (news) => {
+	let iconClass = "fa-regular fa-bookmark";
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
+	if (newSaved.includes(news.title)) {
+		iconClass = "fa-solid fa-bookmark";
+	}
 	return `
     <div class="new">
-		<i class="fa-regular fa-bookmark" id="${news.publishedAt}" data-title="${news.title}"></i>
+		<i class="${iconClass}" id="${news.publishedAt}" data-title="${news.title}"></i>
 		<img
 			src="${news.urlToImage}"
 			alt="news images"
@@ -62,7 +66,7 @@ const newIsClicked = (e) => {
 
 const init = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
-	//loadFirstNews();
+	loadFirstNews();
 };
 
 init();
