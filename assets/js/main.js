@@ -1,4 +1,5 @@
 // Traer informacion del usuario.
+let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
 let userData = JSON.parse(localStorage.getItem("userData")) || { log: false, saved: [] };
 let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined, name: undefined };
 // Guardar elementos en local storage.
@@ -7,9 +8,10 @@ const saveLocalStorage = (key, userInfo) => {
 };
 
 const renderNews = (news) => {
+	// Si la noticia esta en las guardadas entonces carga la marca oscura
 	return `
     <div class="new">
-		<i class="fa-regular fa-bookmark" id="${news.publishedAt}"></i>
+		<i class="fa-regular fa-bookmark" id="${news.publishedAt}" data-title="${news.title}"></i>
 		<img
 			src="${news.urlToImage}"
 			alt="news images"
@@ -33,22 +35,34 @@ const mapNews = (articles) => {
 };
 
 const loadFirstNews = async () => {
-	//const firstNews = await fetchNew(2, 0);
+	const firstNews = await fetchNew(2, 0);
 	mapNews(firstNews.articles);
 };
 
 const saveNew = (e) => {
 	const filterId = e.target.id;
-	changeStatus(filterId);
+	const newTitle = e.target.dataset.title;
+	newSaved = [...newSaved, newTitle];
+	saveLocalStorage("newSaved", newSaved);
+	changeStatus(filterId, true);
+};
+
+const deleteNew = (e) => {
+	const filterId = e.target.id;
+	const newTitle = e.target.dataset.title;
+	newSaved = newSaved.filter((news) => newTitle != news);
+	saveLocalStorage("newSaved", newSaved);
+	changeStatus(filterId, false);
 };
 
 const newIsClicked = (e) => {
-	if (e.target.classList.contains("fa-bookmark")) return saveNew(e);
+	if (e.target.classList.contains("fa-bookmark") && e.target.classList.contains("fa-regular")) return saveNew(e);
+	if (e.target.classList.contains("fa-bookmark") && e.target.classList.contains("fa-solid")) return deleteNew(e);
 };
 
 const init = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
-	loadFirstNews();
+	//loadFirstNews();
 };
 
 init();

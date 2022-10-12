@@ -14,7 +14,13 @@ $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);
 
 // Guardar noticias //
-const changeStatus = (newId) => {
+const changeStatus = (newId, isSaved) => {
 	const icon = document.getElementById(newId);
-	icon.classList.toggle("fa-solid");
+	if (isSaved) {
+		icon.classList.remove("fa-regular");
+		icon.classList.add("fa-solid");
+	} else {
+		icon.classList.add("fa-regular");
+		icon.classList.remove("fa-solid");
+	}
 };
