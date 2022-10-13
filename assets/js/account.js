@@ -43,10 +43,21 @@ const renderError = (input, text) => {
 	input.style.visibility = "visible";
 	input.textContent = text;
 };
+// Funcion que cambia el estado a loggeado
+const logUser = () => {
+	if ($password.value.trim() === accounts.pass && $email.value.trim() === accounts.email) {
+		userData.log = true;
+		saveLocalStorage("userData", userData);
+		return;
+	} else {
+		return alert("Los datos no coinciden");
+	}
+};
 // Funcion que determina si nos estamos registrando o loggeando
 const isLoginOrRegister = () => {
 	if ($login) {
 		console.log(1);
+		logUser();
 	} else if ($register) {
 		console.log(2);
 	} else {
@@ -64,8 +75,7 @@ const validateForm = (e) => {
 };
 /* 
 El signo de pregunta previene el null error en caso de no existir el formulario, debido a que 
-este archivo js contendrá todas las funciones relacionadas con la administración de usuarios, y no solo 
-la generacion de cuentas
-pd: lo aprendi cuando kotlin me hacia llorar
+este archivo js contendrá todas las funciones relacionadas con la administración de usuarios, y no solo la generacion de cuentas
+pd: lo aprendi cuando kotlin me hacia llorar, usa esta informacion para que nadie mas sufra
 */
 $form?.addEventListener("submit", validateForm);

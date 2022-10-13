@@ -1,7 +1,7 @@
 // Traer informacion del usuario.
 let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
-let userData = JSON.parse(localStorage.getItem("userData")) || { log: false, saved: [] };
-let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined, name: undefined };
+let userData = JSON.parse(localStorage.getItem("userData")) || { log: false };
+let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 // Guardar elementos en local storage.
 const saveLocalStorage = (key, userInfo) => {
 	localStorage.setItem(key, JSON.stringify(userInfo));
