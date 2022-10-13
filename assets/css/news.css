@@ -70,9 +70,17 @@
 	border-radius: 10px;
 }
 
+.new-title {
+	display: flex;
+	align-items: center;
+	min-height: 100px;
+}
+
 .new-description {
-	margin: 8px 0px;
+	display: flex;
+	align-items: center;
 	font-size: 12px;
+	min-height: 100px;
 }
 
 .showNew {

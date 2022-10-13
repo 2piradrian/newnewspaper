@@ -42,6 +42,7 @@ h2 {
 }
 
 .yourNews {
+	min-height: 300px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;

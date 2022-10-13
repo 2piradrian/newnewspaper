@@ -24,3 +24,15 @@ const changeStatus = (newId, isSaved) => {
 		icon.classList.remove("fa-solid");
 	}
 };
+
+// Comprobación de inicio de sesion
+const isLogged = () => {
+	if (userData.log) {
+		loadNewsForYou();
+		$moreNewsP.style.visibility = "visible";
+	} else {
+		$moreNewsP.style.visibility = "hidden";
+		$yourNews.innerHTML = "<p>Para obtener novedades personalizadas debes iniciar sesión.</p>";
+	}
+};
+isLogged();

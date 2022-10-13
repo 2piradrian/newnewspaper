@@ -7,3 +7,7 @@ const $navBar = document.querySelector("nav");
 
 // News Container //
 const $newsContainer = document.getElementById("newsContainer");
+
+// Your News //
+const $yourNews = document.getElementById("yourNews");
+const $moreNewsP = document.getElementById("moreNewsP");
