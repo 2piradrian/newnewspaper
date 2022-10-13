@@ -48,20 +48,26 @@ const logUser = () => {
 	if ($password.value.trim() === accounts.pass && $email.value.trim() === accounts.email) {
 		userData.log = true;
 		saveLocalStorage("userData", userData);
-		return;
+		alert("Loggeo exitoso");
+		return (location.href = "/index.html");
 	} else {
 		return alert("Los datos no coinciden");
 	}
 };
+// Funcion que registra al usuario
+const regUser = () => {
+	accounts.email = $email.value.trim();
+	accounts.pass = $password.value.trim();
+	saveLocalStorage("accounts", accounts);
+	alert("Registro exitoso, ahora debes iniciar sesion");
+	return (location.href = "/login.html");
+};
 // Funcion que determina si nos estamos registrando o loggeando
 const isLoginOrRegister = () => {
 	if ($login) {
-		console.log(1);
 		logUser();
 	} else if ($register) {
-		console.log(2);
-	} else {
-		console.log(3);
+		regUser();
 	}
 };
 // Funcion que inicia la validación del formulario
