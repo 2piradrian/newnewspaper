@@ -39,9 +39,9 @@ const isLogged = () => {
 // Comprobar si existe una cuenta
 const goToAccount = () => {
 	if (userData.log) {
-		location.href = "/register.html";
-	} else {
 		location.href = "/login.html";
+	} else {
+		location.href = "/register.html";
 	}
 };
 $goToAccount.addEventListener("click", goToAccount);

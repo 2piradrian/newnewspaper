@@ -34,13 +34,18 @@ const renderNews = (news) => {
     `;
 };
 
-const mapNews = (articles) => {
-	$newsContainer.innerHTML += articles.map((article) => renderNews(article)).join("");
+const mapNews = (articles, container) => {
+	container.innerHTML += articles.map((article) => renderNews(article)).join("");
 };
 
 const loadFirstNews = async () => {
 	const firstNews = await fetchNew(2, 0);
-	mapNews(firstNews.articles);
+	mapNews(firstNews.articles, $newsContainer);
+};
+
+const loadNewsForYou = async () => {
+	const firstNews = await fetchNew(2, 2);
+	mapNews(firstNews.articles, $yourNews);
 };
 
 const saveNew = (e) => {
