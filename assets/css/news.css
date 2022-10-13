@@ -22,6 +22,10 @@
 	background-color: var(--secondary);
 }
 
+.category-card:hover {
+	color: var(--mainColor);
+}
+
 .category-card i {
 	font-size: 18px;
 }
@@ -38,6 +42,8 @@
 	cursor: pointer;
 	transition: 500ms;
 	position: relative;
+	border-radius: 20px;
+	background-color: var(--secondary);
 }
 
 .new i {

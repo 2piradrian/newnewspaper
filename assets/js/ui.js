@@ -35,4 +35,15 @@ const isLogged = () => {
 		$yourNews.innerHTML = "<p>Para obtener novedades personalizadas debes iniciar sesión.</p>";
 	}
 };
+
+// Comprobar si existe una cuenta
+const goToAccount = () => {
+	if (userData.log) {
+		location.href = "/register.html";
+	} else {
+		location.href = "/login.html";
+	}
+};
+$goToAccount.addEventListener("click", goToAccount);
+
 isLogged();

@@ -51,7 +51,7 @@ h2 {
 
 .loadBtn {
 	max-width: 600px;
-	margin: 10px;
+	margin: 20px;
 	height: 30px;
 	width: 80%;
 	border: none;
@@ -94,6 +94,7 @@ h2 {
 }
 
 .beneficts img {
+	border-radius: 10px;
 	width: 300px;
 }
 

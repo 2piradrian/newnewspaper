@@ -21,16 +21,23 @@ select {
 	border-radius: 8px;
 	border: none;
 	outline: none;
-	color: var(--background);
+	color: var(--contrast);
 	background-color: var(--mainColor);
 }
 label {
-	margin-top: 20px;
+	margin-top: 15px;
+	padding: 5px;
 }
 button {
 	margin: 30px;
 }
 
-a {
-	margin: 5px;
+.realAnchor {
+	color: var(--mainColor);
+}
+
+.error {
+	padding: 2px;
+	visibility: hidden;
+	color: brown;
 }

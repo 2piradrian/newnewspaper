@@ -27,7 +27,7 @@
 	padding: 8px;
 	background-color: var(--background);
 	border-radius: 50%;
-	z-index: 2;
+	z-index: 6;
 	cursor: pointer;
 }
 
@@ -70,6 +70,7 @@
 	left: -100%;
 	bottom: 0;
 	transition: 1s;
+	z-index: 5;
 }
 
 .nav-On {
@@ -99,6 +100,11 @@
 .header-anchor {
 	color: var(--contrast);
 	text-decoration: none;
+}
+
+.home {
+	text-decoration: none;
+	color: var(--contrast);
 }
 
 @media only screen and (min-width: 900px) {
