@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="/assets/css/style.css" />
+		<link rel="stylesheet" href="/assets/css/header.css" />
+		<link rel="stylesheet" href="/assets/css/index.css" />
+		<link rel="stylesheet" href="/assets/css/news.css" />
+		<script src="https://kit.fontawesome.com/33f755772d.js" crossorigin="anonymous"></script>
+		<title>new-news</title>
+	</head>
+	<body>
+		<header class="appHeader">
+			<div class="mobileHeaderContent">
+				<img class="isotype-m" src="/assets/isoMobile.svg" alt="brand" srcset="" />
+				<div class="barsMenu" id="barsMenu">
+					<span class="lineBarsMenu1"></span>
+					<span class="lineBarsMenu2"></span>
+					<span class="lineBarsMenu3"></span>
+				</div>
+			</div>
+			<div class="deskHeaderContent">
+				<a class="home" href="/index.html">
+					<h2 class="headerTitle">new-newspaper</h2>
+				</a>
+			</div>
+			<div class="menus">
+				<nav class="nav-Off">
+					<ul class="navBar">
+						<li><a href="#" class="header-anchor" id="goToAccount">Mi cuenta</a></li>
+						<li><a href="#" class="header-anchor">Novedades</a></li>
+						<li><a href="#" class="header-anchor">Para mi</a></li>
+						<li><a href="#" class="header-anchor">Contáctanos</a></li>
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<main class="appMain">
+			<section class="filters">
+				<div class="categories">
+					<div id="search" class="category-card">
+						<i class="fa-solid fa-magnifying-glass"></i>
+						<p class="category">Buscar</p>
+					</div>
+					<div id="allNews" class="category-card">
+						<i class="fa-solid fa-newspaper"></i>
+						<p class="category">Novedades</p>
+					</div>
+					<div id="business" class="category-card">
+						<i class="fa-solid fa-briefcase"></i>
+						<p class="category">Negocios</p>
+					</div>
+					<div id="entertainment" class="category-card">
+						<i class="fa-solid fa-gamepad"></i>
+						<p class="category">Entretenimiento</p>
+					</div>
+					<div id="health" class="category-card">
+						<i class="fa-solid fa-user-nurse"></i>
+						<p class="category">Salud</p>
+					</div>
+					<div id="science" class="category-card">
+						<i class="fa-solid fa-flask"></i>
+						<p class="category">Ciencia</p>
+					</div>
+					<div id="sports" class="category-card">
+						<i class="fa-solid fa-volleyball"></i>
+						<p class="category">Deportes</p>
+					</div>
+					<div id="technology" class="category-card">
+						<i class="fa-solid fa-microchip"></i>
+						<p class="category">Tecnologia</p>
+					</div>
+				</div>
+				<p class="userHelp">desliza para ver más categorias</p>
+			</section>
+			<div class="category-selected-card">
+				<p class="category-selected" id="category-selected">Novedades</p>
+			</div>
+			<section class="news-section">
+				<div id="newsContainer" class="newsContainer"></div>
+				<button class="loadBtn" id="moreNewsG">Cargar más noticias</button>
+			</section>
+			<section class="forYou-section">
+				<h2>Noticias para ti</h2>
+				<p>Novedades personalizadas</p>
+				<div class="yourNews" id="yourNews"></div>
+				<button class="loadBtn" id="moreNewsP">Cargar más noticias</button>
+			</section>
+			<section class="beMember">
+				<div class="subtitles">
+					<h2>Conviertete en miembro</h2>
+					<p>y accede a todos los beneficios</p>
+				</div>
+				<p>Con tu cuenta podrás:</p>
+				<ul class="beneficts">
+					<li>
+						<img src="/assets/img/foryou.jpg" alt="crea" srcset="" />
+						<p>Acceder a contenido personalizado</p>
+					</li>
+					<li>
+						<img src="/assets/img/new.jpg" alt="no te pierdas nada" srcset="" />
+						<p>Estar al tanto de todo lo que pasa</p>
+					</li>
+					<li>
+						<img src="/assets/img/email.jpg" alt="para ti" srcset="" />
+						<p>Recibir las últimas noticias en tu correo</p>
+					</li>
+					<li>
+						<img src="/assets/img/save.jpg" alt="para ti" srcset="" />
+						<p>Guardar noticias para ver mas tarde</p>
+					</li>
+				</ul>
+				<a href="/register.html">
+					<button class="loadBtn" id="createAccountBtn">Crear cuenta</button>
+				</a>
+			</section>
+		</main>
+		<footer>
+			<p>Hecho con 💖</p>
+			<p>LinkedIn: /rodriguezcadr</p>
+		</footer>
+		<script src="/assets/js/const.js"></script>
+		<script src="/assets/js/request.js"></script>
+		<script src="/assets/js/main.js"></script>
+		<script src="/assets/js/ui.js"></script>
+		<script src="/assets/js/account.js"></script>
+	</body>
+</html>

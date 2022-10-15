@@ -1,0 +1,148 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;500;700&display=swap");
+
+:root {
+	--mainColor: #4e50e4;
+	--secondary: #252525;
+	--contrast: #ffffff;
+	--background: #131415;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	font-family: "Montserrat", sans-serif;
+	scroll-behavior: smooth;
+	color: var(--contrast);
+	background-color: var(--background);
+	text-align: center;
+}
+
+header {
+	height: 100px;
+	width: 100%;
+	max-width: 1450px;
+}
+
+main {
+	max-width: 1450px;
+}
+
+button {
+	max-width: 600px;
+	margin: 20px;
+	height: 30px;
+	width: 80%;
+	border: none;
+	font-weight: 600;
+	color: var(--background);
+	background-color: var(--mainColor);
+	border-radius: 8px;
+	cursor: pointer;
+}
+
+/* Header */
+.mobileHeaderContent {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.deskHeaderContent {
+	display: none;
+}
+.isologotype {
+	height: auto;
+	width: 100px;
+	margin-top: 5px;
+}
+.headerBarsMenu {
+	height: 45px;
+	width: 45px;
+	margin-right: 15px;
+	padding: 8px;
+	background-color: var(--background);
+	border-radius: 50%;
+	z-index: 6;
+	cursor: pointer;
+}
+.deskHeaderContent {
+	display: none;
+}
+.barsMenu {
+	height: 45px;
+	width: 45px;
+	margin-right: 15px;
+	padding: 8px;
+	background-color: var(--background);
+	border-radius: 50%;
+	z-index: 6;
+	cursor: pointer;
+}
+.barsMenuFix {
+	position: fixed;
+	right: 0;
+}
+.lineBarsMenu1-On {
+	transform: rotate(45deg) translate(1px, -5px);
+}
+.lineBarsMenu2-On {
+	opacity: 0;
+	margin-left: -30px;
+}
+.lineBarsMenu3-On {
+	transform: rotate(-45deg) translate(3px, 4px);
+}
+.barsMenu span {
+	height: 2px;
+	width: 100%;
+	margin-top: 6px;
+	display: block;
+	background-color: var(--mainColor);
+	transform-origin: 0px 100%;
+	transition: all 300ms;
+}
+.appHeaderMenu-Off {
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: var(--background);
+	border: 1px solid var(--contrast);
+	position: fixed;
+	top: 0;
+	left: -100%;
+	bottom: 0;
+	transition: 1s;
+	z-index: 5;
+}
+.appHeaderMenu-On {
+	height: 100vh;
+	transform: translateX(100%);
+}
+.navBar {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	list-style: none;
+	gap: 45px;
+}
+.navBar li {
+	width: 200px;
+	text-align: center;
+	font-size: 20px;
+	background-color: var(--background);
+	color: var(--mainColor);
+	padding: 20px;
+	border-radius: 28px;
+}
+.invisibleAnchor {
+	text-decoration: none;
+	color: var(--contrast);
+}

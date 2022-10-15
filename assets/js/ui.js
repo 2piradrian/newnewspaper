@@ -5,7 +5,7 @@ const animateBurguerMenu = () => {
 	$burguerBar3.classList.toggle("lineBarsMenu3-On");
 
 	if (visualViewport.width < 900) {
-		$navBar.classList.toggle("nav-On");
+		$navBar.classList.toggle("appHeaderMenu-On");
 		$burguerMenu.classList.toggle("barsMenuFix");
 	}
 };
