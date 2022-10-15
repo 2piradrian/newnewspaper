@@ -412,6 +412,9 @@ footer {
 		justify-content: center;
 		align-items: center;
 	}
+	.bigButton {
+		width: 600px;
+	}
 }
 @media only screen and (min-width: 950px) {
 	.yourNews {
