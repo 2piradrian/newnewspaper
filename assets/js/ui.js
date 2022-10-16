@@ -10,9 +10,6 @@ const animateBurguerMenu = () => {
 	}
 };
 
-$burguerMenu.addEventListener("click", animateBurguerMenu);
-$navBar.addEventListener("click", animateBurguerMenu);
-
 // Comprobar si existe una cuenta
 const goToAccount = () => {
 	if (userData.log) {
@@ -22,5 +19,5 @@ const goToAccount = () => {
 	}
 };
 $goToAccount.addEventListener("click", goToAccount);
-
-isLogged();
+$burguerMenu.addEventListener("click", animateBurguerMenu);
+$navBar.addEventListener("click", animateBurguerMenu);
