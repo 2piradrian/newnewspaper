@@ -349,6 +349,37 @@ input[type="checkbox"] {
 	align-items: center;
 	gap: 15px;
 }
+.inputContainer {
+	width: 100%;
+}
+
+@media only screen and (min-width: 470px) {
+	.formSettings h3 {
+		display: block;
+		width: 100%;
+	}
+	.formLang,
+	.formCategories {
+		flex-direction: row;
+		flex-wrap: wrap;
+		max-width: 700px;
+	}
+	.formLang div,
+	.formCategories div {
+		gap: 10px;
+		margin: 10px;
+		background-color: var(--secondary);
+		padding: 15px;
+		border-radius: 5px;
+	}
+	.inputContainer {
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		flex-direction: column;
+	}
+}
+
 @media only screen and (min-width: 570px) {
 	.newsContainer {
 		flex-direction: row;
