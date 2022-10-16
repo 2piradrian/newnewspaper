@@ -1,12 +1,9 @@
-// Traer informacion del usuario.
-let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
-let userData = JSON.parse(localStorage.getItem("userData")) || { log: false };
-let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 // Guardar elementos en local storage.
 const saveLocalStorage = (key, userInfo) => {
 	localStorage.setItem(key, JSON.stringify(userInfo));
 };
 
+// Renderizar noticias //
 const renderNews = (news) => {
 	let iconClass = "fa-regular fa-bookmark";
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
@@ -34,20 +31,24 @@ const renderNews = (news) => {
     `;
 };
 
+// Enviar noticias a ser renderizadas //
 const mapNews = (articles, container) => {
 	container.innerHTML += articles.map((article) => renderNews(article)).join("");
 };
 
+// Cargar las novedades de hoy //
 const loadFirstNews = async () => {
 	const firstNews = await fetchNew(2, 0);
 	mapNews(firstNews.articles, $newsContainer);
 };
 
+// Cargar noticias para ti //
 const loadNewsForYou = async () => {
 	const firstNews = await fetchNew(2, 2);
 	mapNews(firstNews.articles, $yourNews);
 };
 
+// Guardar la noticia //
 const saveNew = (e) => {
 	const filterId = e.target.id;
 	const newTitle = e.target.dataset.title;
@@ -56,6 +57,7 @@ const saveNew = (e) => {
 	changeStatus(filterId, true);
 };
 
+// Borrar la noticia //
 const deleteNew = (e) => {
 	const filterId = e.target.id;
 	const newTitle = e.target.dataset.title;
@@ -64,9 +66,33 @@ const deleteNew = (e) => {
 	changeStatus(filterId, false);
 };
 
+// Comprobar si hay que guardar o borrar la noticia//
 const newIsClicked = (e) => {
 	if (e.target.classList.contains("fa-bookmark") && e.target.classList.contains("fa-regular")) return saveNew(e);
 	if (e.target.classList.contains("fa-bookmark") && e.target.classList.contains("fa-solid")) return deleteNew(e);
+};
+
+// Guardar noticias //
+const changeStatus = (newId, isSaved) => {
+	const icon = document.getElementById(newId);
+	if (isSaved) {
+		icon.classList.remove("fa-regular");
+		icon.classList.add("fa-solid");
+	} else {
+		icon.classList.add("fa-regular");
+		icon.classList.remove("fa-solid");
+	}
+};
+
+// Comprobación de inicio de sesion //
+const isLogged = () => {
+	if (userData.log) {
+		loadNewsForYou();
+		$moreNewsP.style.visibility = "visible";
+	} else {
+		$moreNewsP.style.visibility = "hidden";
+		$yourNews.innerHTML = "<p>Para obtener novedades personalizadas debes iniciar sesión.</p>";
+	}
 };
 
 const init = () => {

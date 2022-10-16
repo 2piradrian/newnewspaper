@@ -1,3 +1,8 @@
+// Traer informacion del usuario.
+let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
+let userData = JSON.parse(localStorage.getItem("userData")) || { log: false };
+let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
+
 // Nav //
 const $burguerMenu = document.getElementById("barsMenu");
 const $burguerBar1 = document.querySelector(".lineBarsMenu1");

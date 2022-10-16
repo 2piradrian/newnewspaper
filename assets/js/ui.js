@@ -13,29 +13,6 @@ const animateBurguerMenu = () => {
 $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);
 
-// Guardar noticias //
-const changeStatus = (newId, isSaved) => {
-	const icon = document.getElementById(newId);
-	if (isSaved) {
-		icon.classList.remove("fa-regular");
-		icon.classList.add("fa-solid");
-	} else {
-		icon.classList.add("fa-regular");
-		icon.classList.remove("fa-solid");
-	}
-};
-
-// Comprobación de inicio de sesion
-const isLogged = () => {
-	if (userData.log) {
-		loadNewsForYou();
-		$moreNewsP.style.visibility = "visible";
-	} else {
-		$moreNewsP.style.visibility = "hidden";
-		$yourNews.innerHTML = "<p>Para obtener novedades personalizadas debes iniciar sesión.</p>";
-	}
-};
-
 // Comprobar si existe una cuenta
 const goToAccount = () => {
 	if (userData.log) {
