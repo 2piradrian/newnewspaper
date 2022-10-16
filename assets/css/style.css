@@ -315,6 +315,40 @@ footer {
 	background-color: var(--mainColor);
 	border-radius: 8px;
 }
+.formSettings {
+	width: 100%;
+	padding: 30px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.formSettings h3 {
+	margin: 12px 0px;
+}
+.formSettings input {
+	height: 28px;
+}
+input[type="checkbox"] {
+	transform: scale(1.45);
+	padding: 10px;
+}
+.formLang,
+.formCategories {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: flex-start;
+	gap: 5px;
+}
+.formLang div,
+.formCategories div {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 15px;
+}
 @media only screen and (min-width: 570px) {
 	.newsContainer {
 		flex-direction: row;

@@ -6,7 +6,6 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<script src="https://kit.fontawesome.com/33f755772d.js" crossorigin="anonymous"></script>
 		<link rel="stylesheet" href="/assets/css/style.css" />
-		<link rel="stylesheet" href="/assets/css/forms.css" />
 		<title>newnews</title>
 	</head>
 	<body>
@@ -35,6 +34,61 @@
 			</div>
 		</header>
 		<main class="appMain">
+			<section class="settings">
+				<h2>Noticias personalizadas</h2>
+				<div class="settingsContainer">
+					<form action="" class="formSettings">
+						<div class="formLang">
+							<h3>Idioma</h3>
+
+							<div>
+								<input type="checkbox" name="lang" value="es" id="es" />
+								<label for="es">Español</label>
+							</div>
+							<div>
+								<input type="checkbox" name="lang" value="en" id="en" />
+								<label for="en">Inglés</label>
+							</div>
+							<div>
+								<input type="checkbox" name="lang" value="ru" id="ru" />
+								<label for="ru">Ruso</label>
+							</div>
+						</div>
+						<div class="formCategories">
+							<h3>Categorias</h3>
+							<div>
+								<input type="checkbox" name="general" value="general" id="general" />
+								<label for="general">General</label>
+							</div>
+							<div>
+								<input type="checkbox" name="business" value="business" id="business" />
+								<label for="business">Negocios</label>
+							</div>
+							<div>
+								<input type="checkbox" name="entertainment" value="entertainment" id="entertainment" />
+								<label for="entertainment">Entretenimiento</label>
+							</div>
+							<div>
+								<input type="checkbox" name="health" value="health" id="health" />
+								<label for="health">Salud</label>
+							</div>
+							<div>
+								<input type="checkbox" name="science" value="science" id="science" />
+								<label for="science">Ciencia</label>
+							</div>
+							<div>
+								<input type="checkbox" name="sports" value="sports" id="sports" />
+								<label for="sports">Deportes</label>
+							</div>
+							<div>
+								<input type="checkbox" name="technology" value="technology" id="technology" />
+								<label for="technology">Tecnologia</label>
+							</div>
+						</div>
+						<button>Guardar preferencias</button>
+					</form>
+				</div>
+			</section>
 			<section class="savedNews">
 				<h2>Noticias guardadas</h2>
 			</section>
