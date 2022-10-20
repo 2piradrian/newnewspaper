@@ -1,6 +1,6 @@
 // Traer informacion del usuario.
 let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
-let userData = JSON.parse(localStorage.getItem("userData")) || { log: false };
+let userData = JSON.parse(localStorage.getItem("userData")) || { log: false, preferences: {} };
 let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 
 // Nav //
@@ -29,3 +29,8 @@ const $password = document.getElementById("password");
 
 const $emailError = document.getElementById("emailError");
 const $passwordError = document.getElementById("passError");
+
+const $formSttings = document.getElementById("formSttings");
+
+// Modal //
+const $modalConfirm = document.querySelector(".modalConfirm");

@@ -353,6 +353,18 @@ input[type="checkbox"] {
 	width: 100%;
 }
 
+.modalConfirm {
+	position: fixed;
+	bottom: 0;
+	left: calc(50% - 150px);
+	font-size: 14px;
+	width: 300px;
+	border-radius: 8px 8px 0px 0px;
+	background-color: var(--background);
+	border: 1px solid var(--contrast);
+	visibility: hidden;
+}
+
 @media only screen and (min-width: 470px) {
 	.formSettings h3 {
 		display: block;

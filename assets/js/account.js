@@ -79,9 +79,57 @@ const validateForm = (e) => {
 		return;
 	}
 };
+
+// Funcion que mapea los checkbox
+const checkCheckbox = (prop) => {
+	const propertyToCheck = userData["preferences"][prop];
+	Object.keys(propertyToCheck).forEach((props) => {
+		document.getElementById(props).checked = userData["preferences"][prop][props];
+	});
+};
+
+// Funcion que recuerda el estado de las preferencias
+const restoreStatus = () => {
+	checkCheckbox("lang");
+	checkCheckbox("category");
+};
+
+// Funcion que muestra el modal
+const showConfirmModal = () => {
+	$modalConfirm.style.visibility = "visible";
+	setTimeout(() => {
+		$modalConfirm.style.visibility = "hidden";
+	}, 1500);
+};
+
+// Funcion que se encarga de guardar las preferencias del usuario
+const saveSettings = (e) => {
+	e.preventDefault();
+	userData.preferences = {
+		lang: {
+			es: document.getElementById("es").checked,
+			en: document.getElementById("en").checked,
+			ru: document.getElementById("ru").checked,
+		},
+		category: {
+			general: document.getElementById("general").checked,
+			business: document.getElementById("business").checked,
+			entertainment: document.getElementById("entertainment").checked,
+			health: document.getElementById("health").checked,
+			science: document.getElementById("science").checked,
+			sports: document.getElementById("sports").checked,
+			technology: document.getElementById("technology").checked,
+		},
+	};
+	showConfirmModal();
+	saveLocalStorage("userData", userData);
+};
+
 /* 
 El signo de pregunta previene el null error en caso de no existir el formulario, debido a que 
 este archivo js contendrá todas las funciones relacionadas con la administración de usuarios, y no solo la generacion de cuentas
-pd: lo aprendi cuando kotlin me hacia llorar, usa esta informacion para que nadie mas sufra
+pd: usa esta informacion para que nadie mas sufra
 */
 $form?.addEventListener("submit", validateForm);
+$formSttings?.addEventListener("submit", saveSettings);
+$formSttings ? restoreStatus() : console.log("we aren´t in the account manager");

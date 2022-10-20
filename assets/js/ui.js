@@ -13,7 +13,7 @@ const animateBurguerMenu = () => {
 // Comprobar si existe una cuenta
 const goToAccount = () => {
 	if (userData.log) {
-		location.href = "/login.html";
+		location.href = "/account.html";
 	} else {
 		location.href = "/register.html";
 	}
