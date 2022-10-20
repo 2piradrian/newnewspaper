@@ -34,3 +34,6 @@ const $formSttings = document.getElementById("formSttings");
 
 // Modal //
 const $modalConfirm = document.querySelector(".modalConfirm");
+
+// News //
+const $formFilterMenu = document.getElementById("formFilterMenu");

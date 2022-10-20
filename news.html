@@ -5,7 +5,8 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<script src="https://kit.fontawesome.com/33f755772d.js" crossorigin="anonymous"></script>
-		<link rel="stylesheet" href="style.css" />
+		<link rel="stylesheet" href="/assets/css/style.css" />
+		<link rel="stylesheet" href="/assets/css/forms.css" />
 		<title>newnews</title>
 	</head>
 	<body>
@@ -29,7 +30,6 @@
 						<li><a href="#" class="invisibleAnchor" id="goToAccount">Mi cuenta</a></li>
 						<li><a href="#" class="invisibleAnchor">Novedades</a></li>
 						<li><a href="#" class="invisibleAnchor">Para mi</a></li>
-						<li><a href="#" class="invisibleAnchor">Contáctanos</a></li>
 					</ul>
 				</nav>
 			</div>
@@ -94,9 +94,40 @@
 				</div>
 				<p class="scrollHelp">desliza para ver más categorias</p>
 			</section>
+			<section class="searchSection">
+				<form action="" id="formFilterMenu" class="formFilterMenu">
+					<div class="keywords">
+						<label for="keywords">Buscar noticia</label>
+						<input type="text" id="keywordsFilterMenu" name="keywords" placeholder="El tio del marido de pampita" />
+					</div>
+					<div class="dates">
+						<div>
+							<label for="desde">Noticias desde</label>
+							<input type="date" id="desde" name="desde" />
+						</div>
+						<div>
+							<label for="hasta">Noticias hasta</label>
+							<input type="date" id="hasta" name="hasta" />
+						</div>
+					</div>
+					<div class="lang">
+						<label for="lang">Idioma</label>
+						<select name="lang" id="lang">
+							<option value="">Selecciona el idioma</option>
+							<option value="">Español</option>
+							<option value="">Ingles</option>
+							<option value="">Aleman</option>
+							<option value="">Portugues</option>
+							<option value="">Chino</option>
+						</select>
+					</div>
+					<button type="submit" class="submitFilter">Filtrar noticias</button>
+				</form>
+			</section>
 		</main>
 		<script src="/assets/js/const.js"></script>
 		<script src="/assets/js/utils.js"></script>
 		<script src="/assets/js/ui.js"></script>
+		<script src="/assets/js/news.js"></script>
 	</body>
 </html>
