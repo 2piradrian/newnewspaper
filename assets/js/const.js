@@ -45,3 +45,6 @@ const $modalConfirm = document.querySelector(".modalConfirm");
 
 // News //
 const $formFilterMenu = document.getElementById("formFilterMenu");
+
+// NEWS //
+const news = [];
