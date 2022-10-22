@@ -5,10 +5,6 @@ let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefine
 
 let queryParams = {
 	section: "search",
-	since: undefined,
-	until: undefined,
-	keywords: undefined,
-	lang: undefined,
 };
 
 // Nav //
@@ -45,6 +41,3 @@ const $modalConfirm = document.querySelector(".modalConfirm");
 
 // News //
 const $formFilterMenu = document.getElementById("formFilterMenu");
-
-// NEWS //
-const news = [];
