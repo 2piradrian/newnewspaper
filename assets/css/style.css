@@ -221,6 +221,7 @@ h2 {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	flex-wrap: wrap;
 }
 .beMember {
 	width: 100%;

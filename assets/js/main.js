@@ -1,13 +1,13 @@
 // Cargar las novedades de hoy //
 const loadFirstNews = async () => {
-	const firstNews = await fetchNew(2, 0);
-	mapNews(firstNews.articles, $newsContainer);
+	const firstNews = await fetchNew(0);
+	mapNews(firstNews.data.splice(0, 6), $newsContainer);
 };
 
 // Cargar noticias para ti //
 const loadNewsForYou = async () => {
-	const firstNews = await fetchNew(2, 2);
-	mapNews(firstNews.articles, $yourNews);
+	const firstNews = await fetchNew(2);
+	mapNews(firstNews.data.splice(0, 6), $yourNews);
 };
 
 // Guardar la noticia //

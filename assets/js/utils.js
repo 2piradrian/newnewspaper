@@ -1,9 +1,10 @@
-const API_KEY = "7cb3dd21df2a4ab6be8924402641f78b";
+const API_KEY = "354ad7b1e12d5e21963e7534624e8151";
 
-const fetchNew = async (pageSize, page) => {
-	const URL = `https://newsapi.org/v2/top-headlines?apiKey=${API_KEY}&pageSize=${pageSize}&page${page}&language=es&sortBy=relevancy&category=general&country=ar`;
+const fetchNew = async (page) => {
+	const URL = `https://api.mediastack.com/v1/news?access_key=${API_KEY}&sources=es&limit=6`;
 	const res = await fetch(URL);
 	const data = await res.json();
+	console.log(data);
 	return data;
 };
 
@@ -20,10 +21,11 @@ const renderNews = (news) => {
 		iconClass = "fa-solid fa-bookmark";
 	}
 	return `
+	<a class="invisibleAnchor" href="${news.url}">
     <div class="new">
-		<i class="${iconClass}" id="${news.publishedAt}" data-title="${news.title}"></i>
+		<i class="${iconClass}" id="${news.author}${news.published_at}" data-title="${news.title}"></i>
 		<img
-			src="${news.urlToImage}"
+			src="${news.image || "/assets/img/No_image_available.png"}"
 			alt="news images"
 			class="new-img"
 			srcset=""
@@ -31,12 +33,13 @@ const renderNews = (news) => {
 		<div class="new-content">
 		    <h4 class="new-title">${news.title}</h4>
 			<p class="new-description">
-				${news.description}
+				${news.description.slice(0, 180)}...
 			</p>
 		</div>
 		<button class="showNew">Ver más</button>
 		<p>•</p>
 	</div>
+	</a>
     `;
 };
 
