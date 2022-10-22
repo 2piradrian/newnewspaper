@@ -1,11 +1,3 @@
-let queryParams = {
-	section: "search",
-	since: undefined,
-	until: undefined,
-	keywords: undefined,
-	lang: undefined,
-};
-
 // Funcion que oculta el menu de busqueda si no estamos en la seccion buscar
 const hideSearchMenu = () => {
 	if (queryParams.section === "search") {

@@ -127,9 +127,14 @@ const saveSettings = (e) => {
 
 /* 
 El signo de pregunta previene el null error en caso de no existir el formulario, debido a que 
-este archivo js contendrá todas las funciones relacionadas con la administración de usuarios, y no solo la generacion de cuentas
+este archivo js contendrá todas las funciones y no solo la generacion de cuentas
 pd: usa esta informacion para que nadie mas sufra
 */
-$form?.addEventListener("submit", validateForm);
-$formSttings?.addEventListener("submit", saveSettings);
-$formSttings ? restoreStatus() : console.log("we aren´t in the account manager");
+
+const accountInit = () => {
+	$form?.addEventListener("submit", validateForm);
+	$formSttings?.addEventListener("submit", saveSettings);
+	$formSttings ? restoreStatus() : console.log("we aren´t in the account manager");
+};
+
+accountInit();

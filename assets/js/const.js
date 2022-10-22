@@ -3,6 +3,14 @@ let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
 let userData = JSON.parse(localStorage.getItem("userData")) || { log: false, preferences: {} };
 let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 
+let queryParams = {
+	section: "search",
+	since: undefined,
+	until: undefined,
+	keywords: undefined,
+	lang: undefined,
+};
+
 // Nav //
 const $burguerMenu = document.getElementById("barsMenu");
 const $burguerBar1 = document.querySelector(".lineBarsMenu1");
