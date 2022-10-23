@@ -90,7 +90,7 @@ const checkCheckbox = (prop) => {
 
 // Funcion que recuerda el estado de las preferencias
 const restoreStatus = () => {
-	checkCheckbox("lang");
+	/* checkCheckbox("lang"); */
 	checkCheckbox("category");
 };
 
@@ -106,11 +106,6 @@ const showConfirmModal = () => {
 const saveSettings = (e) => {
 	e.preventDefault();
 	userData.preferences = {
-		lang: {
-			es: document.getElementById("es").checked,
-			en: document.getElementById("en").checked,
-			ru: document.getElementById("ru").checked,
-		},
 		category: {
 			general: document.getElementById("general").checked,
 			business: document.getElementById("business").checked,

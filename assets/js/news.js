@@ -1,5 +1,5 @@
 // Funcion que obtine los parametros de busqueda de news.html
-const getQueryParams = (firstLoad) => {
+const getQueryParams = () => {
 	const urlQuery = window.location.search;
 	const urlParams = new URLSearchParams(urlQuery);
 	// < --- --- --- --- > //

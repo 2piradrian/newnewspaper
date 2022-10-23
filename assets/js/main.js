@@ -18,10 +18,19 @@ const loadOrLogin = () => {
 };
 
 const mainInit = () => {
-	$newsContainer.addEventListener("click", newIsClicked);
-	$moreNewsP.addEventListener("click", loadOrLogin);
-	loadFirstNews();
+	$newsContainer?.addEventListener("click", newIsClicked);
+	$moreNewsP?.addEventListener("click", loadOrLogin);
 	isLogged();
 };
 
 mainInit();
+
+const carlitos = async () => {
+	const url = `/assets/database.txt`;
+	// request ->
+	const response = await fetch(url);
+	const data = await response.json();
+	console.log(data);
+	return data;
+};
+carlitos();
