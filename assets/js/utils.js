@@ -15,7 +15,7 @@ const renderNews = (news) => {
 	<i class="${iconClass}" id="${news.id}" data-title="${news.title}"></i>
 	<a class="invisibleAnchor" href="${news.url}">
 		<img
-			src="${news.image || "/assets/img/No_image_available.png"}"
+			src="${news.urlToImage || "/assets/img/No_image_available.png"}"
 			alt="news images"
 			class="new-img"
 			srcset=""
@@ -23,7 +23,7 @@ const renderNews = (news) => {
 		<div class="new-content">
 		    <h4 class="new-title">${news.title}</h4>
 			<p class="new-description">
-				${news.description.slice(0, 180)}...
+				${news.content.slice(0, 180)}...
 			</p>
 		</div>
 		<button class="showNew">Ver más</button>
@@ -94,6 +94,30 @@ const goToAccount = () => {
 		location.href = "/register.html";
 	}
 };
+
+// Funcion para dividir los productos en subarrays
+const splitProducts = (data, size) => {
+	let dividedProducts = [];
+	for (let i = 0; i < data.length; i += size) {
+		dividedProducts.push(data.slice(i, i + size));
+	}
+	return dividedProducts;
+};
+
+const productsController = {
+	dividedProducts: splitProducts(6),
+	nextProductsIndex: 1,
+	productsLimit: splitProducts(6).length,
+};
+
+// LLamada a la base de datos
+const getNews = async () => {
+	const url = `/assets/database.txt`;
+	const response = await fetch(url);
+	const data = await response.json();
+	return data;
+};
+
 $goToAccount.addEventListener("click", goToAccount);
 $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);

@@ -17,20 +17,19 @@ const loadOrLogin = () => {
 	}
 };
 
+// Funcion para cargar las noticias principales //
+const firstNews = async () => {
+	const dataArray = await getNews();
+	const news = splitProducts(dataArray, 2);
+	console.log(news);
+	mapNews(news[0], $newsContainer);
+};
+
 const mainInit = () => {
 	$newsContainer?.addEventListener("click", newIsClicked);
 	$moreNewsP?.addEventListener("click", loadOrLogin);
+	firstNews();
 	isLogged();
 };
 
 mainInit();
-
-const carlitos = async () => {
-	const url = `/assets/database.txt`;
-	// request ->
-	const response = await fetch(url);
-	const data = await response.json();
-	console.log(data);
-	return data;
-};
-carlitos();
