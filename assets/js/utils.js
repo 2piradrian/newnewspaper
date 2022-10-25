@@ -7,7 +7,7 @@ const saveLocalStorage = (key, userInfo) => {
 const renderNews = (news) => {
 	let iconClass = "fa-regular fa-bookmark";
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
-	if (newSaved.includes(news)) {
+	if (newSaved.some((n) => news.id === n.id)) {
 		iconClass = "fa-solid fa-bookmark";
 	}
 	// Si la noticia esta incompleta la omite

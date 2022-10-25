@@ -13,17 +13,6 @@ let thenews = [
 		category: "general",
 	},
 	{
-		author: null,
-		title: 'El sincericidio de Pamela David al hablar de Gran Hermano 2022: "Hubo gente que me pidió ayuda... - Ciudad Magazine',
-		description: "La conductora contó los pedidos que recibió antes de comience el nuevo reality de Telefe. ¡Mirá qué dijo!",
-		url: "https://www.ciudad.com.ar/espectaculos/sincericidio-pamela-david-hablar-gran-hermano-2022-hubo-gente-me-pidio-ayuda_207918",
-		urlToImage: "https://cdn.ciudad.com.ar/sites/default/files/styles/nota_portada_crop/public/nota/2022/10/22/pamela_david.jpg?itok=azCd34xc",
-		publishedAt: "2022-10-22T19:51:48Z",
-		content:
-			"A menos de una semana de haber debutado Gran Hermano 2022 con la conducción de Santiago del Moro, Pamela David analizó el flamante reality de Telefe y no dudó en compartir su opinión respecto a la la… [+2052 chars]",
-		category: "general",
-	},
-	{
 		author: "anónimo",
 		title: "“Cash is trash”: la experiencia de un visitante peruano a la hora de pagar en pesos en un restaurante porteño - infobae",
 		description:
@@ -417,19 +406,6 @@ let thenews = [
 		content:
 			"La Administracin Nacional de la Seguridad Social (ANSES) entregar un bono de $ 45.000 a los sectores ms necesitados\r\n.\r\n Se espera que ms de 2 millones de personas sean beneficiadas con la ayuda de e… [+3319 chars]",
 		category: "general",
-	},
-	{
-		author: "anónimo",
-		title: "“Cash is trash”: la experiencia de un visitante peruano a la hora de pagar en pesos en un restaurante porteño - infobae",
-		description:
-			"Oscar Salem, experto en tipos de cambio y fundador de la consultora Biscuit Capital, de EEUU, aconsejó a quienes visiten la Argentina usar dólares billete, no tarjetas de crédito",
-		url: "https://www.infobae.com/economia/2022/10/22/cash-is-trash-la-experiencia-de-un-visitante-peruano-a-la-hora-de-pagar-en-pesos-en-un-restaurante-porteno/",
-		urlToImage:
-			"https://www.infobae.com/new-resizer/pLCN56oh5rpTNQSC5Seqk2qT6uA=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/2QXAS73HBTRNO3G4VW2QS6L2UI.jpg",
-		publishedAt: "2022-10-22T19:18:45Z",
-		content:
-			"Cash is trash, traducible como El efectivo es basura. Así resumió su experiencia en Buenos Aires el financista de origen peruano Oscar Salem, que fotografío y posteó por Twitter la pila de billetes d… [+4278 chars]",
-		category: "business",
 	},
 	{
 		author: null,
@@ -951,17 +927,6 @@ let thenews = [
 		publishedAt: "2022-10-22T20:32:00Z",
 		content:
 			"Una triste noticia sacudió al mundo del espectáculo. A los 64 años falleció, en Córdoba, Silvana Suárez, la ex Miss Mundo argentina. De acuerdo a la información que brindó el medio Cadena 3, sufría u… [+6400 chars]",
-		category: "entertainment",
-	},
-	{
-		author: null,
-		title: 'El sincericidio de Pamela David al hablar de Gran Hermano 2022: "Hubo gente que me pidió ayuda... - Ciudad Magazine',
-		description: "La conductora contó los pedidos que recibió antes de comience el nuevo reality de Telefe. ¡Mirá qué dijo!",
-		url: "https://www.ciudad.com.ar/espectaculos/sincericidio-pamela-david-hablar-gran-hermano-2022-hubo-gente-me-pidio-ayuda_207918",
-		urlToImage: "https://cdn.ciudad.com.ar/sites/default/files/styles/nota_portada_crop/public/nota/2022/10/22/pamela_david.jpg?itok=azCd34xc",
-		publishedAt: "2022-10-22T19:51:48Z",
-		content:
-			"A menos de una semana de haber debutado Gran Hermano 2022 con la conducción de Santiago del Moro, Pamela David analizó el flamante reality de Telefe y no dudó en compartir su opinión respecto a la la… [+2052 chars]",
 		category: "entertainment",
 	},
 	{
@@ -4433,4 +4398,10 @@ let thenews = [
 			"Dicho esto, si efectivamente se produce el avance de la fase de secuencia principal, se generará que el calor aumente de manera tal que convertirá a la Tierra en un planeta inhabitable para el ser hu… [+775 chars]",
 	},
 ];
+
+thenews = thenews.map((cosa, index) => ({
+	id: index,
+	...cosa,
+}));
+
 console.log(JSON.stringify(thenews));
