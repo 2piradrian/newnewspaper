@@ -20,6 +20,8 @@ const queryParams = {
 	section: "search",
 };
 
+let news = [];
+
 // Nav //
 const $burguerMenu = document.getElementById("barsMenu");
 const $burguerBar1 = document.querySelector(".lineBarsMenu1");
@@ -48,6 +50,8 @@ const $emailError = document.getElementById("emailError");
 const $passwordError = document.getElementById("passError");
 
 const $formSttings = document.getElementById("formSttings");
+
+const $savedNews = document.getElementById("savedNews");
 
 // Modal //
 const $modalConfirm = document.querySelector(".modalConfirm");

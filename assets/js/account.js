@@ -120,6 +120,12 @@ const saveSettings = (e) => {
 	saveLocalStorage("userData", userData);
 };
 
+const loadSavedNews = async () => {
+	if (!newSaved) {
+	}
+	mapNews(newSaved, $savedNews);
+};
+
 /* 
 El signo de pregunta previene el null error en caso de no existir el formulario, debido a que 
 este archivo js contendrá todas las funciones y no solo la generacion de cuentas
@@ -130,6 +136,7 @@ const accountInit = () => {
 	$form?.addEventListener("submit", validateForm);
 	$formSttings?.addEventListener("submit", saveSettings);
 	$formSttings ? restoreStatus() : console.log("we aren´t in the account manager");
+	loadSavedNews();
 };
 
 accountInit();

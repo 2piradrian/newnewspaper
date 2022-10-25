@@ -7,7 +7,7 @@ const saveLocalStorage = (key, userInfo) => {
 const renderNews = (news) => {
 	let iconClass = "fa-regular fa-bookmark";
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
-	if (newSaved.includes(news.title)) {
+	if (newSaved.includes(news)) {
 		iconClass = "fa-solid fa-bookmark";
 	}
 	// Si la noticia esta incompleta la omite
@@ -44,8 +44,9 @@ const mapNews = (articles, container) => {
 // Guardar la noticia //
 const saveNew = (e) => {
 	const filterId = e.target.id;
-	const newTitle = e.target.dataset.title;
-	newSaved = [...newSaved, newTitle];
+	const newToBeSaved = news.filter((news) => news.title === filterId);
+	newSaved.push(newToBeSaved[0]);
+	console.log(newSaved);
 	changeStatus(filterId, true);
 	saveLocalStorage("newSaved", newSaved);
 };
@@ -53,8 +54,8 @@ const saveNew = (e) => {
 // Borrar la noticia //
 const deleteNew = (e) => {
 	const filterId = e.target.id;
-	const newTitle = e.target.dataset.title;
-	newSaved = newSaved.filter((news) => newTitle != news);
+	newSaved = newSaved.filter((n) => n.title !== filterId);
+	console.log(newSaved);
 	saveLocalStorage("newSaved", newSaved);
 	changeStatus(filterId, false);
 };
@@ -140,6 +141,7 @@ const getNews = async () => {
 	const url = `/assets/database.txt`;
 	const response = await fetch(url);
 	const data = await response.json();
+	news = data;
 	return data;
 };
 $goToAccount.addEventListener("click", goToAccount);

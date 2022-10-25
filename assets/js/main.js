@@ -26,8 +26,8 @@ const firstNews = async () => {
 
 const mainInit = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
-	$moreNewsP.addEventListener("click", newIsClicked);
-	$moreNewsP?.addEventListener("click", loadOrLogin);
+	$yourNews.addEventListener("click", newIsClicked);
+	$moreNewsP.addEventListener("click", loadOrLogin);
 	firstNews();
 	filterNewsForYou(2);
 	isLogged();

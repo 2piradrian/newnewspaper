@@ -14,12 +14,17 @@ const loadNews = async (size) => {
 	const news = splitProducts(dataArray, size);
 	mapNews(news[0], $newsContainer);
 };
-getQueryParams();
 
-if (queryParams.section !== "forMe") {
-	loadNews(20);
-} else {
-	filterNewsForYou(20);
-}
+const newsInit = () => {
+	getQueryParams();
 
-$newsContainer.addEventListener("click", newIsClicked);
+	if (queryParams.section !== "forMe") {
+		loadNews(20);
+	} else {
+		filterNewsForYou(20);
+	}
+
+	$newsContainer.addEventListener("click", newIsClicked);
+};
+
+newsInit();
