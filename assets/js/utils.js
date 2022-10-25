@@ -6,7 +6,6 @@ const saveLocalStorage = (key, userInfo) => {
 // Renderizar noticias //
 const renderNews = (news) => {
 	let iconClass = "fa-regular fa-bookmark";
-	console.log(newSaved);
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
 	if (newSaved.includes(news.title)) {
 		iconClass = "fa-solid fa-bookmark";
@@ -68,7 +67,6 @@ const newIsClicked = (e) => {
 
 // Cambia el icono
 const changeStatus = (newId, isSaved) => {
-	console.log(newId);
 	const icon = document.getElementById(newId);
 	if (isSaved) {
 		icon.classList.remove("fa-regular");

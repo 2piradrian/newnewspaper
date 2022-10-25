@@ -2645,4 +2645,1792 @@ let thenews = [
 			"22 de octubre de 202217:13La trompa del Citröen Ami 8 se distingue en el pecho detrás de dos puños enlatados que sostienen con firmeza una espada de más de cinco metros de altura que se clava en el p… [+6005 chars]",
 		category: "technology",
 	},
+	{
+		category: "technology",
+		author: "Mauricio Herrera",
+		title: "Apple Watch Ultra, Series 8 y SE 2022 llegan a Amazon México: precio y cómo hacer la preventa - Xataka México",
+		description:
+			"El pasado 7 de septiembre tuvimos un Apple Event con algunos anuncios de los nuevos productos de la compañía. Entre estos, está el iPhone 14, del cual sus...",
+		url: "https://www.xataka.com.mx/seleccion/apple-watch-ultra-series-8-se-2022-llegan-a-amazon-mexico-precio-como-hacer-preventa",
+		urlToImage: "https://i.blogs.es/a81a36/apple-watch-2022-amazon-mexico/840_560.png",
+		publishedAt: "2022-10-24T23:39:44Z",
+		content:
+			"El pasado 7 de septiembre tuvimos un Apple Event con algunos anuncios de los nuevos productos de la compañía. Entre estos, está el iPhone 14, del cual sus modelos ya se pueden apartar en Amazon Méxic… [+1703 chars]",
+	},
+	{
+		category: "technology",
+		author: "MartinPixel",
+		title: "Apple TV+ y Apple One suben sus precios en México por primera vez, estos son los nuevos costos - Xataka México",
+		description:
+			"Apple anunció un incremento del precio en sus suscripciones digitales de Apple TV+ y Apple One. En otras regiones también se incrementa el precio de Apple...",
+		url: "https://www.xataka.com.mx/streaming/apple-tv-apple-one-suben-sus-precios-mexico-primera-vez-estos-nuevos-costos",
+		urlToImage: "https://i.blogs.es/0b2d77/apple-tv-plus-nuevp-precio-mexico/840_560.png",
+		publishedAt: "2022-10-24T18:36:00Z",
+		content:
+			"Apple anunció un incremento del precio en sus suscripciones digitales de Apple TV+ y Apple One. En otras regiones también se incrementa el precio de Apple Music, pero en el caso de México no será así… [+1037 chars]",
+	},
+	{
+		category: "technology",
+		author: "Clarín.com",
+		title: 'Índice iPhone: Argentina, el "peor país del mundo" para comprar el último celular de Apple - Clarín',
+		description: "Surge a partir de un informe que estima las horas de trabajo que se necesitan para adquirir el iPhone 14.",
+		url: "https://www.clarin.com/tecnologia/indice-iphone-argentina-peor-pais-mundo-comprar-ultimo-celular-apple_0_Q6eJcDpFPM.html",
+		urlToImage: "https://www.clarin.com/img/2022/09/07/GrEhzM7L6_1200x630__1.jpg",
+		publishedAt: "2022-10-24T18:09:59Z",
+		content:
+			"Ningún usuario argentino que consuma los productos de Apple se asombra si le dicen que en su país el iPhone cuesta casi el doble que en los Estados Unidos. Lo que sí es llamativo que también sea el l… [+3071 chars]",
+	},
+	{
+		category: "technology",
+		author: "Ángel Roca",
+		title: "iOS 16.1 ya disponible: estas son todas las novedades que llegan a tu iPhone - iPadizate",
+		description: "La primera gran actualización de iOS 16 ya está disponible, Apple acaba de lanzar iOS 16.1 para todos los iPhone compatibles.",
+		url: "https://ipadizate.com/ios/ios-16-1-ya-disponible-estas-son-todas-las-novedades-que-llegan-a-tu-iphone",
+		urlToImage: "https://ipadizate.com/hero/2022/10/iPhone-14-azul-ios-16.jpg?width=1200",
+		publishedAt: "2022-10-24T17:02:28Z",
+		content:
+			"Apple acaba de lanzar de forma oficial iOS 16.1 para iPhone, la primera gran actualización del sistema operativo que llega con importantes mejoras y novedades, además de solucionar algunos que otro e… [+3231 chars]",
+	},
+	{
+		category: "technology",
+		author: "anónimo",
+		title: "Apple añade más anuncios en su App Store - Infobae America",
+		description: "Los desarrolladores de aplicaciones podrán pagar por estar en alguna de las nuevas dos secciones con publicidad",
+		url: "https://www.infobae.com/america/tecno/2022/10/24/apple-anade-mas-anuncios-en-su-app-store/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/4Gi7JJKAbvC0qDZOOVcbOiMH8zU=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/WMVSP3EESNAARCTWAAA4NQXOHY.webp",
+		publishedAt: "2022-10-24T14:06:58Z",
+		content:
+			"Apple cumple su promesa y aumentará los anuncios en App Store. Una decisión bastante controvertida que no ha sido bien recibida por parte de los desarrolladores.\r\nA partir del 25 de octubre, Apple co… [+3582 chars]",
+	},
+	{
+		category: "technology",
+		author: "Steve Saldaña",
+		title: "Como el iPhone 14 Plus se vende poco, la solución para Apple pinta ser elevar los precios de los iPhone... - Xataka México",
+		description:
+			"Apple tiene un problema con el iPhone 14 Plus. La configuración del nuevo iPhone con especificaciones estándar, pero con el tamaño del iPhone 14 Pro, no está...",
+		url: "https://www.xataka.com.mx/celulares-y-smartphones/como-iphone-14-plus-se-vende-poco-solucion-para-apple-pinta-ser-elevar-precios-iphone-pro-gurman",
+		urlToImage: "https://i.blogs.es/5a0d30/iphone14-iphone-14-iphone14plus/840_560.jpeg",
+		publishedAt: "2022-10-23T18:30:00Z",
+		content:
+			"Apple tiene un problema con el iPhone 14 Plus. La configuración del nuevo iPhone con especificaciones estándar, pero con el tamaño del iPhone 14 Pro, no está convenciendo, y los reportes indican que … [+1672 chars]",
+	},
+	{
+		category: "technology",
+		author: "Redacción El Esquiu",
+		title: "WhatsApp se despide de estos móviles en diez días - Diario El Esquiu",
+		description:
+			"El 31 de octubre será el último día en que la empresa Meta funcionará correctamente en teléfonos con Android y Apple,  ya que por las nuevas actualizaciones estos sistemas dejarán de ser compatibles.",
+		url: "https://www.elesquiu.com/curiosidades/2022/10/23/whatsapp-se-despide-de-estos-moviles-en-diez-dias-453111.html",
+		urlToImage: "https://www.elesquiu.com/u/fotografias/m/2022/10/23/f1280x720-440718_572393_5050.jpg",
+		publishedAt: "2022-10-23T16:40:34Z",
+		content:
+			"domingo, 23 de octubre de 202213:40\r\nWhatsApp sigue adelante con el proceso de restringir el servicio de mensajería a millones de usuarios de todo el mundo. La popular plataforma, propiedad de Meta, … [+1593 chars]",
+	},
+	{
+		category: "technology",
+		author: "Yúbal Fernández",
+		title: "Guía de cuenta hackeada: cómo prevenir y recuperar tu cuenta de Apple, Google, Microsoft, Facebook,... - Xataka",
+		description:
+			"Te traemos una guía con los pasos para recuperar tus cuentas de redes sociales como Facebook, Twitter, Instagram, Snapchat, Twitch y TikTok, pero también las...",
+		url: "https://www.xataka.com/basics/guia-cuenta-hackeada-como-prevenir-recuperar-tu-cuenta-apple-google-microsoft-facebook-twitter-instagram-tiktok-whatsapp",
+		urlToImage: "https://i.blogs.es/9b4c63/hacker/840_560.jpeg",
+		publishedAt: "2022-10-23T12:02:00Z",
+		content:
+			"Te traemos una guía con los pasos para recuperar tus cuentas de redes sociales como Facebook, Twitter, Instagram, Snapchat, Twitch y TikTok, pero también las de Google, Apple, WhatsApp o Microsoft. D… [+18813 chars]",
+	},
+	{
+		category: "technology",
+		author: "Alex Hidalgo",
+		title: "Comprar un iPhone reacondicionado en una Apple Store ¿es la mejor idea? - Apple 5x1",
+		description:
+			"Apple, al igual que muchas tiendas de terceros, vende productos reacondicionados, los cuáles, han tenido algún defecto de fábrica y han sufrido un proceso de reparación o un usuario ha entregado su viejo dispositivo para obtener una rebaja del precio sustanci…",
+		url: "https://lamanzanamordida.net/noticias/one-more-thing/comprar-iphone-reacondicionado-apple-store-mejor-idea/",
+		urlToImage: "https://lamanzanamordida.net/app/uploads-lamanzanamordida.net/2022/10/Portada_iphone-oficial-reacondicionado-1.jpg",
+		publishedAt: "2022-10-23T07:01:30Z",
+		content:
+			"¿Dónde se compran los productos reacondicionados?\r\nLos productos reacondicionados se adquieren en la tienda oficial de Apple cuyo enlace adjuntamos a continuación: https://www.apple.com/es/shop/refur… [+3107 chars]",
+	},
+	{
+		category: "technology",
+		author: "anónimo",
+		title: "Ahora 30: la lista completa de los celulares, televisores, heladeras y otros productos que se puede comprar en cuotas - infobae",
+		description: "El ministro Sergio Massa presentó oficialmente el programa en un acto en un local de electrodomésticos de Lomas de Zamora",
+		url: "https://www.infobae.com/economia/2022/10/25/ahora-30-la-lista-completa-de-los-celulares-televisores-heladeras-y-otros-productos-que-se-puede-comprar-en-cuotas/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/ZWpcYSKfGhtOodlpnWJ_kFyEQ58=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/HWNDYCEQXFFD5D5UJQ63FMV2R4.jpg",
+		publishedAt: "2022-10-25T00:27:09Z",
+		content:
+			"Esta tarde el ministro de Economía Sergio Massa lanzó oficialmente el plan Ahora 30. \r\nComo detalló Infobae, se trata de un plan de cuotas fijas que incluye una lista de 270 productos de marcas y mod… [+10979 chars]",
+	},
+	{
+		category: "technology",
+		author: "ámbito.com",
+		title: "Cyber Monday 2022: las mejores ofertas en celulares - ámbito.com",
+		description:
+			"El evento de venta online se llevará a cabo desde el 31 de octubre hasta el 2 de noviembre inclusive. A través de la página oficial del Cyber Monday podrás comprar los mejores celulares.",
+		url: "https://www.ambito.com/informacion-general/cyber-monday/2022-las-mejores-ofertas-celulares-n5566180",
+		urlToImage:
+			"https://media.ambito.com/p/3669443d5f6c7417f7becba017ba2ccb/adjuntos/239/imagenes/040/235/0040235028/1200x675/smart/cyber-monday-2webp.png",
+		publishedAt: "2022-10-24T12:46:31Z",
+		content:
+			"Celular Xiamo Redmi 9C: el teléfono ya está publicado en la página oficial de Cyber Monday y cuenta con dos cámaras traseras de 13 Mpx/2 Mpx te permitirán tomar imágenes con más detalles y lograr efe… [+1038 chars]",
+	},
+	{
+		category: "technology",
+		author: null,
+		title: "Qué celulares ya no tendrán WhatsApp a partir del 31 de octubre - El Universal",
+		description:
+			"WhatsApp, la aplicación de mensajería instantánea más utilizada, dejará de funcionar en ciertos dispositivos a partir del 31 de octubre. Conoce si tu teléfono está en la lista",
+		url: "https://www.eluniversal.com.mx/techbit/que-celulares-ya-no-tendran-whatsapp-partir-del-31-de-octubre",
+		urlToImage: "https://www.eluniversal.com.mx/sites/default/files/2022/10/20/adios-whats.jpg",
+		publishedAt: "2022-10-23T16:00:00Z",
+		content:
+			"WhatsApp es la aplicación de mensajería instantánea más utilizada por los usuarios en la actualidad. Y para seguir en la preferencia se actualiza constantemente para brindar una mejor calidad, añadie… [+3138 chars]",
+	},
+	{
+		category: "technology",
+		author: "Javier Marquez",
+		title: "Apple redobla su apuesta en el sector publicitario: desde hoy la App Store tendrá más anuncios - Xataka",
+		description:
+			"Si tienes un iPhone, prepárate para ver más anuncios en la App Store. El negocio publicitario es tan jugoso que Apple no está dispuesta a dejarlo pasar. Y...",
+		url: "https://www.xataka.com/aplicaciones/apple-redobla-su-apuesta-sector-publicitario-hoy-app-store-tendra-anuncios",
+		urlToImage: "https://i.blogs.es/b0a3a8/apple-mas-anuncios-en-app-store-1/840_560.jpeg",
+		publishedAt: "2022-10-24T22:34:00Z",
+		content:
+			"Si tienes un iPhone, prepárate para ver más anuncios en la App Store. El negocio publicitario es tan jugoso que Apple no está dispuesta a dejarlo pasar. Y parece no importar que el teléfono inteligen… [+3646 chars]",
+	},
+	{
+		category: "technology",
+		author: "Steve Saldaña",
+		title: "Estas 16 apps tienen virus y se descargaron 20 millones de veces desde la Play Store: McAfee - Xataka México",
+		description:
+			"Retomado por Bleeping Computer, el último informe de McAfee sobre seguridad en Android detalla cómo se halló código malicioso en 16 aplicaciones que, en...",
+		url: "https://www.xataka.com.mx/seguridad/estas-16-apps-tienen-virus-se-descargaron-20-millones-veces-play-store-mcafee",
+		urlToImage: "https://i.blogs.es/66f88b/virus-google-play-store-android/840_560.jpeg",
+		publishedAt: "2022-10-23T22:00:37Z",
+		content:
+			"Retomado por Bleeping Computer, el último informe de McAfee sobre seguridad en Android detalla cómo se halló código malicioso en 16 aplicaciones que, en conjunto, acumularon 20 millones de descarga e… [+2055 chars]",
+	},
+	{
+		category: "technology",
+		author: "Yúbal Fernández",
+		title: "Guía de cuenta hackeada: cómo prevenir y recuperar tu cuenta de Apple, Google, Microsoft, Facebook,... - Xataka",
+		description:
+			"Te traemos una guía con los pasos para recuperar tus cuentas de redes sociales como Facebook, Twitter, Instagram, Snapchat, Twitch y TikTok, pero también las...",
+		url: "https://www.xataka.com/basics/guia-cuenta-hackeada-como-prevenir-recuperar-tu-cuenta-apple-google-microsoft-facebook-twitter-instagram-tiktok-whatsapp",
+		urlToImage: "https://i.blogs.es/9b4c63/hacker/840_560.jpeg",
+		publishedAt: "2022-10-23T12:02:00Z",
+		content:
+			"Te traemos una guía con los pasos para recuperar tus cuentas de redes sociales como Facebook, Twitter, Instagram, Snapchat, Twitch y TikTok, pero también las de Google, Apple, WhatsApp o Microsoft. D… [+18813 chars]",
+	},
+	{
+		category: "health",
+		author: "Analítica",
+		title: "En un 40% aumentaron las enfermedades cardiovasculares en Venezuela - Analítica.com",
+		description:
+			"Recuperados de covid-19 que confían en supuestas mejorías y pacientes sin poder controlarse los valores en hipertensión o diabetes figuran en ese incremento de 40% de casos de enfermedades cerebrovasc",
+		url: "https://www.analitica.com/entretenimiento/bienestar/en-un-40-aumentaron-las-enfermedades-cardiovasculares-en-venezuela/",
+		urlToImage: "https://www.analitica.com/wp-content/uploads/2015/12/Pulmones-1.jpg",
+		publishedAt: "2022-10-24T17:49:07Z",
+		content:
+			"Recuperados de covid-19 que confían en supuestas mejorías y pacientes sin poder controlarse los valores en hipertensión o diabetes figuran en ese incremento de 40% de casos de enfermedades cerebrovas… [+3001 chars]",
+	},
+	{
+		category: "health",
+		author: "The New York  Times",
+		title: "Científicos advierten sobre una posible triple pandemia de covid, influenza y virus sincicial respiratorio - TN - Todo Noticias",
+		description:
+			"Por Apoorva Mandavilli | Durante más de dos años, el cierre de escuelas y oficinas, el distanciamiento social y los cubrebocas dieron a la gente un descanso de la influenza y de casi todas las demás infecciones respiratorias. Es probable que este invierno la …",
+		url: "https://tn.com.ar/salud/noticias/2022/10/24/cientificos-advierten-sobre-una-posible-triple-pandemia-de-covid-influenza-y-virus-sincicial-respiratorio/",
+		urlToImage:
+			"https://tn.com.ar/resizer/OMXPPtlU4ynM-0txiAeEc9wPbls=/1023x0/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/artear/6ID4JVSS2JAQPEIWEHQAMWBYEE.jpg",
+		publishedAt: "2022-10-24T17:18:54Z",
+		content:
+			"Ya con pocas restricciones, o ninguna, y el restablecimiento de los viajes y la sociabilización en pleno apogeo otra vez, parece que un esperado aumento del COVID-19 está a punto de encontrarse con u… [+7788 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "¿Se avecina una tripledemia? Médicos en EU alertan por virus que se suma al Covid-19 y la influenza - El Universal",
+		description:
+			"Los hospitales estadounidenses están viendo un aumento en los casos de virus respiratorio sincitial, o virus del resfriado común, que ya se aproximan a los n...",
+		url: "https://www.youtube.com/watch?v=ORqD0itKZ1s",
+		urlToImage: "https://i.ytimg.com/vi/ORqD0itKZ1s/maxresdefault.jpg",
+		publishedAt: "2022-10-23T20:50:17Z",
+		content: null,
+	},
+	{
+		category: "health",
+		author: "María Luisa SantilláN, Ciencia UNAM-DGDC*",
+		title: "Necesario impulsar la formación de especialistas en medicina del dolor - La Crónica de Hoy",
+		description:
+			"La designación de un infierno nada nos dice, desde luego, sobre cómo sacar a la gente de ese infierno, cómo mitigar sus llamas.",
+		url: "https://www.cronica.com.mx/academia/necesario-impulsar-formacion-especialistas-medicina-dolor.html",
+		urlToImage: "https://www.cronica.com.mx/uploads/2022/10/24/63572f7ded986.png",
+		publishedAt: "2022-10-25T00:58:54Z",
+		content:
+			'La designación de un infierno nada nos dice, desde luego, sobre cómo sacar a la gente de ese infierno, cómo mitigar sus llamas.\r\nSusan Sontag, "Ante el dolor de los demás"\r\nPara que un médico que viv… [+19962 chars]',
+	},
+	{
+		category: "health",
+		author: "Luis Arellano",
+		title: "Capacitan en medicina legal a personal del municipio de Mexicali - PregoneroBaja",
+		description: "Por: Gobierno de Mexicali Mexicali, B.C. A lunes 24 de octubre de 2022- En el marco de conmemoración",
+		url: "https://pregonerobaja.com.mx/2022/10/24/capacitan-en-medicina-legal-a-personal-del-municipio-de-mexicali/",
+		urlToImage: "https://pregonerobaja.com.mx/wp-content/uploads/2022/10/WhatsApp-Image-2022-10-24-at-3.43.48-PM-640x330.jpeg",
+		publishedAt: "2022-10-24T23:45:14Z",
+		content:
+			"Por: Gobierno de Mexicali\r\nMexicali, B.C. A lunes 24 de octubre de 2022- En el marco de conmemoración por el Día del Médico, la Oficialía Mayor del Ayuntamiento de Mexicali a través de Servicios Médi… [+2098 chars]",
+	},
+	{
+		category: "health",
+		author: "https://www.facebook.com/canalseisposadas",
+		title: "Cabo 1° representó al Servicio Penitenciario provincial en Curso de Medicina Táctica en Corrientes - Noticiasdel6.com",
+		description:
+			"El Cabo 1° Alfredo Fritzen, enfermero táctico perteneciente al Grupo de Intervenciones Especiales Penitenciarias (GIEP) del Servicio Penitenciario Provincial,",
+		url: "https://www.noticiasdel6.com/cabo-1-represento-al-servicio-penitenciario-provincial-en-curso-de-medicina-tactica-en-corrientes/",
+		urlToImage: "https://www.noticiasdel6.com/wp-content/uploads/2022/10/92bd459b-0b21-4539-a6c9-ac006b27060e.jpg",
+		publishedAt: "2022-10-24T23:17:57Z",
+		content:
+			"El Cabo 1° Alfredo Fritzen, enfermero táctico perteneciente al Grupo de Intervenciones Especiales Penitenciarias (GIEP) del Servicio Penitenciario Provincial, participó y aprobó el 2° Curso de Medici… [+994 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Cuatro métodos para eliminar las flemas y la mucosidad - Revista Semana",
+		description: "Es importante consultar a un doctor antes de recurrir a tratamientos caseros.",
+		url: "https://www.semana.com/vida-moderna/articulo/cuatro-metodos-para-eliminar-las-flemas-y-la-mucosidad/202219/",
+		urlToImage:
+			"https://www.semana.com/resizer/-IBfr5b2lSUmPrpm1oBe5pV7pGo=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/75EN6VOEZVE7PLCOXQR5UQCVCQ.jpg",
+		publishedAt: "2022-10-24T22:51:18Z",
+		content:
+			"La mucosidad está relacionada directamente con las gripas y los resfriados. Sin embargo, son importantes para el cuerpo humano y siempre están presentes, solo que no en la misma cantidad.\r\nLa mucosid… [+3589 chars]",
+	},
+	{
+		category: "health",
+		author: "JCC",
+		title: "Cuál es el estado de salud de El Ruso Auer, el agenciero baleado - LM Neuquén",
+		description: "El hombre que fue atacado en un departamento céntrico permanece internado en el hospital Castro Rendón.",
+		url: "https://www.lmneuquen.com/cual-es-el-estado-salud-el-ruso-auer-el-agenciero-baleado-n960033",
+		urlToImage:
+			"https://media.lmneuquen.com/p/19f46d6b7c88e776b35c587c5a3b2134/adjuntos/195/imagenes/007/321/0007321906/1200x675/smart/sfp-balean-al-ruso-auer-3jpg.png",
+		publishedAt: "2022-10-24T22:30:00Z",
+		content:
+			'El agenciero neuquino, Miguel "El Ruso" Auer, quien fue baleado con al menos dos disparos en pleno centro de la ciudad, salió del quirófano. El hombre permanece internado en el hospital Castro Rendón… [+1981 chars]',
+	},
+	{
+		category: "health",
+		author: null,
+		title: "El consumo de estas vitaminas puede afectar los riñones - Revista Semana",
+		description: "Todos los seres humanos pierden parte de la función renal mientras van envejeciendo.",
+		url: "https://www.semana.com/vida-moderna/articulo/el-consumo-de-estas-vitaminas-puede-afectar-los-rinones/202220/",
+		urlToImage:
+			"https://www.semana.com/resizer/V5ZugPQBNXr0UITX8F_Oq7x8omQ=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/3GP2OTORBNEBFDHYY5WI4XQJF4.jpg",
+		publishedAt: "2022-10-24T22:29:27Z",
+		content:
+			"Los riñones filtran los desechos y el exceso de agua de la sangre, lo que se vuelve orina, de acuerdo con MedlinePlus, la Biblioteca Nacional de Medicina de Estados.\r\nAdicionalmente, el Instituto Nac… [+3216 chars]",
+	},
+	{
+		category: "health",
+		author: "Lucía Córdova",
+		title: "Ni tan Ambiguo: Con la migración venezolana, EEUU está recibiendo una cucharada de su propia medicina (+Video) - Venezuela News - Le verdad de Venezuela",
+		description:
+			"El capítulo de Ni tan Ambiguo que se estrenó este lunes en las redes sociales de Venezuela News está dedicado a la migración venezolana.",
+		url: "https://venezuela-news.com/ni-tan-ambiguo-migracion-venezolana-eeuu-recibiendo-cucharada-propia-medicina/",
+		urlToImage: "https://venezuela-news.com/wp-content/uploads/2022/10/ni.jpg",
+		publishedAt: "2022-10-24T22:15:19Z",
+		content:
+			"El capítulo de Ni tan Ambiguo que se estrenó la tarde de este lunes en las redes sociales de la agencia Venezuela News está dedicado a la migración venezolana, tan en boga por estas horas. El espacio… [+2107 chars]",
+	},
+	{
+		category: "health",
+		author: "Osiris",
+		title: "Hacen falta médicos: urgen a ampliar la matrícula de Medicina en UMSNH para atención primaria - La Voz de Michoacán",
+		description:
+			"Juan Bustos / La Voz de Michoacán Morelia, Michoacán. La pandemia de la enfermedad del coronavirus (COVID-19) demostró la necesidad de mayor número de personal de salud, por ello sería importante que",
+		url: "https://www.lavozdemichoacan.com.mx/michoacan/salud/hacen-falta-medicos-urgen-a-ampliar-la-matricula-de-medicina-en-umsnh-para-atencion-primaria/",
+		urlToImage: "https://www.lavozdemichoacan.com.mx/wp-content/uploads/2021/09/Cirugía-operación-trasplante-IMSS-quirófano-médico-1.jpeg",
+		publishedAt: "2022-10-24T22:03:00Z",
+		content:
+			"Juan Bustos / La Voz de Michoacán\r\nMorelia, Michoacán. La pandemia de\r\nla enfermedad del coronavirus (COVID-19) demostró la necesidad de mayor número\r\nde personal de salud, por ello sería importante … [+4869 chars]",
+	},
+	{
+		category: "health",
+		author: "Zonacero.com",
+		title: '"La poliomielitis quedó erradicada de Colombia, pero se mantiene vigilancia" - Zona Cero',
+		description: "La vacunación en niños y niñas menores de un año para el 2021 fue del 86,1 %, dice Minsalud.",
+		url: "https://zonacero.com/sociales/la-poliomielitis-quedo-erradicada-de-colombia-pero-se-mantiene-vigilancia-201944",
+		urlToImage: "https://zonacero.com/sites/default/files/2022/10/24/foto_detalle/vacunacion_polio.jpg",
+		publishedAt: "2022-10-24T21:47:00Z",
+		content:
+			"El Ministerio de Salud destacó este lunes el cumplimiento en el compromiso de Colombia en la erradicación de esta enfermedad contagiosa que afecta sobre todo a los menores de 5 años.\r\nA propósito del… [+1836 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Mundial 2022: emiten Aviso Preventivo de Viaje para mexicanos que acudan a Qatar - Uno TV Noticias",
+		description:
+			"Ante enfermedades como COVID-19, viruela del mono y Síndrome Respiratorio de Oriente Medio, hay un aviso para quienes acudan a Qatar.",
+		url: "https://www.unotv.com/nacional/mundial-2022-emiten-aviso-preventivo-de-viaje-para-mexicanos-que-acudan-a-qatar/",
+		urlToImage: "https://www.unotv.com/uploads/2022/10/qatar-191346.jpg",
+		publishedAt: "2022-10-24T21:40:52Z",
+		content:
+			"La Secretaría de Salud federal emitió un Aviso Preventivo de Viaje para los mexicanos que viajarán al Mundial de Futbol, en Qatar, el próximo 20 noviembre, ante la pandemia de COVID-19, viruela del m… [+3307 chars]",
+	},
+	{
+		category: "health",
+		author: "anónimo",
+		title: "Gran Hermano 2022: la mamá de Tomás Holder reveló el problema de salud que su hijo ocultó en la casa por vergüenza - infobae",
+		description:
+			"El incluencer rosarino se convirtió en el primer eliminado de la casa más famosa del país. “Se perjudicó solo”, sostuvo Gisela Gordillo en una entrevista por televisión",
+		url: "https://www.infobae.com/teleshow/2022/10/24/gran-hermano-2022-la-mama-de-tomas-holder-revelo-el-problema-de-salud-que-su-hijo-oculto-en-la-casa-por-verguenza/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/T7IylvZLY0FhWc-HoNVU9eTrM-Q=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/CN3JK7AUDJC5TLIWZT6KTVJXMM.jpg",
+		publishedAt: "2022-10-24T21:19:38Z",
+		content:
+			"La madre de Tomás Holder contó el problema de salud que su hijo prefirió ocultar en la casa\r\nEste domingo, se vivió la primera gala de eliminación en Gran Hermano 2022. En ese marco, Tomás Holder se … [+3049 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "¿Cómo desayunar y a qué hora para poder adelgazar? - Revista Semana",
+		description: "Se recomienda consumir alimentos que le den energía al cuerpo, para que este cumpla satisfactoriamente sus funciones.",
+		url: "https://www.semana.com/vida-moderna/articulo/como-desayunar-y-a-que-hora-para-poder-adelgazar/202222/",
+		urlToImage:
+			"https://www.semana.com/resizer/Hua4r9xFqZJgCBtglZXfDC7TKqs=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/YL3THQ3DEFFTHHP2QNYT2WKIZM.jpg",
+		publishedAt: "2022-10-24T21:01:03Z",
+		content:
+			"Hay quienes creen que eliminando el desayuno de su rutina van a perder peso, pero lo que esto ocasiona es un efecto contraproducente, porque esta comida es importante para el organismo, ya que le bri… [+3355 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Agua de avena con limón para perder peso: así se prepara - Revista Semana",
+		description: "Tiene tanto la capacidad para apoyar la pérdida de peso, como bajar los niveles del colesterol.",
+		url: "https://www.semana.com/vida-moderna/articulo/agua-de-avena-con-limon-para-perder-peso-asi-se-prepara/202233/",
+		urlToImage:
+			"https://www.semana.com/resizer/51nhzl1guVtL-DgAoXHS7_8Nh9M=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/DVGSXG44YVA65K7C3MMGMGQW5A.png",
+		publishedAt: "2022-10-24T20:48:49Z",
+		content:
+			"La avena es un alimento muy saludable que además de funcionar como una especie de regulador metabólico, ayuda a cuidar del corazón y los intestinos, sin olvidar que es un gran aliado para perder peso… [+3876 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Arriban plantas de oxígeno medicinal para hospitales de Holguín - CubaDebate",
+		description:
+			"Los tres hospitales provinciales de Holguín contarán con una nueva fortaleza en la asistencia médica a los pacientes, una vez que sean instaladas las cinco modernas plantas procesadoras de oxígeno medicinal que desde la semana pasada comenzaron a llegar a ese…",
+		url: "http://www.cubadebate.cu/noticias/2022/10/24/arriban-plantas-de-oxigeno-medicinal-para-hospitales-de-holguin/",
+		urlToImage: "http://media.cubadebate.cu/wp-content/uploads/2022/10/Descarga-planta-oexigeno-hptal-lenin-holguin.jpg",
+		publishedAt: "2022-10-24T20:48:31Z",
+		content:
+			"En el hospital Lenin, trabajadores de Cedai en el proceso de desmonte de la primera planta de oxígeno que llegó a la provincia, de las cinco previstas. Foto: Tomada de ¡Ahora!\r\nLos tres hospitales pr… [+2590 chars]",
+	},
+	{
+		category: "health",
+		author: "",
+		title: "Top 5 de las vías con más bulla en Cartagena: así afectan a la salud - El Universal",
+		description:
+			"Ciudadanos se quejan por los ruidos, el mal uso del espacio público y los carros mal parqueados en estas calles. Te explicamos las consecuencias.",
+		url: "https://www.eluniversal.com.co/ambiente/top-5-de-las-vias-con-mas-bulla-en-cartagena-asi-afectan-a-la-salud-BL7397289",
+		urlToImage: "https://www.eluniversal.com.co/binrepository/1218x686/251c0/800d686/none/13704/GJLM/ruido_6900593_20221024154221.png",
+		publishedAt: "2022-10-24T20:42:20Z",
+		content:
+			"Hay ruidos que son insoportables, y si a estos se le sumas las hora pico y el agotamiento acumulado del día, podría resultar devastador para un cartagenero que transita por las vías más ruidosas de l… [+3405 chars]",
+	},
+	{
+		category: "health",
+		author: "Luisa Ochoa",
+		title: "¿Por qué se desarrolla la diabetes?, esta es la función de la insulina - Medicina y Salud Publica",
+		description: "La administración de la insulina debe ser inyectable para que su funcionalidad sea la esperada.",
+		url: "https://medicinaysaludpublica.com/noticias/endocrinologia-diabetes/por-que-se-desarrolla-la-diabetes-esta-es-la-funcion-de-la-insulina/16343",
+		urlToImage:
+			"https://medicinaysaludpublica.blob.core.windows.net.optimalcdn.com/images/2022/10/24/formato-sacs---2022-10-24t143330838-cc77c135.png",
+		publishedAt: "2022-10-24T20:38:46Z",
+		content:
+			"La administración de la insulina debe ser inyectable para que su funcionalidad sea la esperada.\r\n La diabetes se desarrolla principalmente por una insuficiencia en la secreción de insulina, esta sust… [+2341 chars]",
+	},
+	{
+		category: "health",
+		author: "Hector Garcia Sr.",
+		title: "Destacan aportes ofrecidos en el Congreso Medicina Deportiva - Momento Deportivo RD",
+		description:
+			"l doctor Víctor Figueroa fue el presidente del comité organizador en su calidad de miembro de la Federación Dominicana de Medicina Deportiva (Fedomede), que preside el doctor Milton Pinedo.",
+		url: "https://momentodeportivord.com/destacan-aportes-ofrecidos-en-el-congreso-medicina-deportiva/",
+		urlToImage:
+			"https://i0.wp.com/momentodeportivord.com/wp-content/uploads/2022/10/Fedomede_Conferecistas-del-congreso-medicina-del-deporte_22.10.22.jpg?resize=1000%2C600&ssl=1",
+		publishedAt: "2022-10-24T20:35:24Z",
+		content:
+			"En la imagen parte de los conferencistas que participaron en las conferencias en el Congreso Internacional de Medicina Deportiva. Fuente Externa.Santo Domingo. La excelente participación de invitados… [+3577 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "La vitamina que ayuda a mantener los huesos fuertes y sanos - Revista Semana",
+		description: "La vitamina D previene la osteoporosis. Sin ella, el calcio y el fósforo no se fijan en los huesos",
+		url: "https://www.semana.com/vida-moderna/articulo/la-vitamina-que-ayuda-a-mantener-los-huesos-fuertes-y-sanos/202251/",
+		urlToImage:
+			"https://www.semana.com/resizer/nxQT_syva8BF3nOUiq6lgkBf3fk=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/D4OOYOGTE5BZXOV64OPWNAQ24I.jpg",
+		publishedAt: "2022-10-24T20:32:29Z",
+		content:
+			"Los factores que aumentan el riesgo de tener niveles bajos de vitamina D incluyen una baja ingesta dietética y una baja exposición al sol, que a menudo ocurre en climas más fríos. Pero, ¿por qué afec… [+3272 chars]",
+	},
+	{
+		category: "health",
+		author: "María Camila Sánchez",
+		title: "Para aliviar el dolor en los músculos o articulaciones ¿es mejor aplicar frío o calor? - Medicina y Salud Publica",
+		description:
+			"Ambos pueden calmarse, pero debe saber cuando resulta más conveniente optar por uno u otro. Es distinto si se acaba de hacer una lesión o si le duele desde hace unos días.",
+		url: "https://medicinaysaludpublica.com/noticias/reumatologia/para-aliviar-el-dolor-en-los-musculos-o-articulaciones-es-mejor-aplicar-frio-o-calor/16345",
+		urlToImage: "https://medicinaysaludpublica.blob.core.windows.net.optimalcdn.com/images/2022/10/24/calor-o-frio-web-60ea76d9.jpg",
+		publishedAt: "2022-10-24T20:31:00Z",
+		content:
+			"Ambos pueden calmarse, pero debe saber cuando resulta más conveniente optar por uno u otro. Es distinto si se acaba de hacer una lesión o si le duele desde hace unos días.\r\n El frío y calor aplicados… [+3271 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Destacan estudiantes de Medicina de la BUAP en foros nacionales » Oronoticias - Oronoticias",
+		description: "Con una profunda vocación y sentido humanista, los estudiantes de la carrera de Medicina de la BUAP ponen en alto el nombre de",
+		url: "https://www.oronoticias.com.mx/destacan-estudiantes-de-medicina-de-la-buap-en-foros-nacionales/",
+		urlToImage: "https://www.oronoticias.com.mx/wp-content/uploads/2022/10/A_Medicina_36.jpg",
+		publishedAt: "2022-10-24T20:26:42Z",
+		content:
+			"Con una profunda vocación y sentido humanista, los estudiantes de la carrera de Medicina de la BUAP ponen en alto el nombre de la institución y demuestran una vez más que es líder en la formación de … [+2725 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Defesa promove I Workshop de Saúde Operacional - GOV.BR",
+		description: "",
+		url: "https://www.gov.br/defesa/pt-br/centrais-de-conteudo/noticias/defesa-promove-i-workshop-de-saude-operacional-2",
+		urlToImage:
+			"https://www.gov.br/defesa/pt-br/centrais-de-conteudo/noticias/defesa-promove-i-workshop-de-saude-operacional-2/i_workshop_saude_operacional_banner_site.png/@@images/02ee448a-9544-4272-a6b4-9d8ad951ec78.png",
+		publishedAt: "2022-10-24T20:15:00Z",
+		content:
+			"Brasília (DF) 24/10/2022 - O Ministério da Defesa, por meio da Chefia de Logística e Mobilização (CHELOG) promove, no mês de novembro, o I Workshop de Saúde Operacional. A finalidade do evento é cont… [+1139 chars]",
+	},
+	{
+		category: "health",
+		author: "anónimo",
+		title: "Guía práctica para hacer sentadillas y aprovechar al máximo su beneficio - infobae",
+		description:
+			"Es uno de los ejercicios más completos para entrenar la parte inferior del cuerpo. Cinco consejos para tener en cuenta y evitar lesiones",
+		url: "https://www.infobae.com/america/tendencias-america/2022/10/24/guia-practica-para-hacer-sentadillas-y-aprovechar-al-maximo-su-beneficio/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/ns0Wjx8a20QYKu40biOyafEPAuI=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/LEOAXZCON5FUFN7DVRWFJXU3PE.jpg",
+		publishedAt: "2022-10-24T20:03:55Z",
+		content:
+			"Las sentadillas forman parte de cualquier rutina básica de entrenamiento físico. También conocidas como squats, se tratan un ejercicio funcional o de fuerza muy efectivo a la hora de trabajar el tren… [+3634 chars]",
+	},
+	{
+		category: "health",
+		author: "Rafa Molina",
+		title: 'El exposoma, una mezcla de salud y Big Data, cambiará nuestra vida: "Medicina más personalizada y predictiva" - COPE',
+		description:
+			"No nos preocupamos del humo, del ruido, de la luz o el estrés; pero realmente, un nuevo término acuñado por la ciencia nos dice que, al menos,...",
+		url: "https://www.cope.es/programas/lo-que-viene/noticias/exposoma-una-mezcla-salud-big-data-cambiara-nuestra-vida-medicina-mas-personalizada-predictiva-20221024_2360567",
+		urlToImage: "https://cope-cdnmed.agilecontent.com/resources/jpeg/7/6/1666641289267.jpeg",
+		publishedAt: "2022-10-24T19:59:25Z",
+		content:
+			"El ruido de los coches, el humo de los tubos de escape, la luz artificial de las luces y el estrés de un atasco. Todo esto es nuestro día a día y lo tenemos tan asumido, que no nos preocupamos. Pero … [+3544 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Vitamina E: ¿qué pasa si se toma todos los días? - Revista Semana",
+		description: "Es un nutriente importante para la visión, la reproducción, la salud de la sangre, el cerebro y la piel en general.",
+		url: "https://www.semana.com/vida-moderna/articulo/vitamina-e-que-pasa-si-se-toma-todos-los-dias/202212/",
+		urlToImage:
+			"https://www.semana.com/resizer/ML9mQ3RcqDFIpf8UpKfsbKHzSz4=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/KGTIEUGCYNEXJPSJTXH6QELOJE.jpg",
+		publishedAt: "2022-10-24T19:51:56Z",
+		content:
+			"La vitamina E o tocoferol pertenece al grupo de las vitaminas liposolubles y muchas de sus funciones están relacionadas con su acción antioxidante. Por eso, se le considera ideal para mantener el cue… [+3329 chars]",
+	},
+	{
+		category: "health",
+		author: "Analista",
+		title: "FVL ganador Congreso Bancos de Sangre y Medicina Transfusional - Fundación Valle del Lili",
+		description:
+			"El Banco de Sangre de la Fundación Valle del Lili se destacó con sus trabajos científicos en las categorías Hemovigilancia y Terapia Transfusional durante el 12° Congreso Colombiano Acobasmet de Bancos de Sangre y Medicina Transfusional",
+		url: "https://valledellili.org/banco-de-sangre-fvl-ganador-en-el-12-congreso-colombiano-de-bancos-de-sangre-y-medicina-transfusional/",
+		urlToImage: "https://valledellili.org/wp-content/uploads/2022/10/premio-banco-de-sangre.jpg",
+		publishedAt: "2022-10-24T19:44:17Z",
+		content:
+			"El Banco de Sangre de la Fundación Valle del Lili se destacó con sus trabajos científicos en las categorías Hemovigilancia y Terapia Transfusional durante el 12° Congreso Colombiano Acobasmet de Banc… [+1857 chars]",
+	},
+	{
+		category: "health",
+		author: "Grisel García",
+		title: "Elementos que puedes entrenar para incrementar tu bienestar, según científica - Metro World News",
+		description: "Tanto las emociones positivas como el sentido o propósito se puede entrenar.",
+		url: "https://www.metroworldnews.com/noticias/2022/10/24/elementos-que-puedes-entrenar-para-incrementar-tu-bienestar-segun-cientifica/",
+		urlToImage:
+			"https://www.metroworldnews.com/resizer/2MbgHPixnMMNSl8JYTlUYbdzIXU=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/L5D36NFSUFAPVFYSOCH2ZKTTLI.jpg",
+		publishedAt: "2022-10-24T19:41:00Z",
+		content:
+			"Principalmente, la realización de ejercicios, control del estrés, dormir bien y alimentación balanceada son los hábitos que suelen prevalecer en la mente al hablar sobre la manera de permanecer sano.… [+2223 chars]",
+	},
+	{
+		category: "health",
+		author: "El Colombiano",
+		title: "Tecnologías para el bienestar corporal, las claves de estos unicornios - El Colombiano",
+		description: "CVAC System y Forte se proyectan como las próximas empresas “unicornio” luego de desarrollar soluciones innovadoras...",
+		url: "https://www.elcolombiano.com/unicorn_hunters/tecnologias-para-el-bienestar-corporal-las-claves-de-estos-unicornios-PE18949600",
+		urlToImage:
+			"https://www.elcolombiano.com/binrepository/1200x830/0c0/1200d627/none/11101/TLRG/forte-y-cvac-innovacion-en-fitness_40932356_20221024144837.png",
+		publishedAt: "2022-10-24T19:23:46Z",
+		content:
+			"CVAC System y Forte se proyectan como las próximas empresas unicornio luego de desarrollar soluciones innovadoras para el bienestar físico y las actividades deportivas.\r\nQueremos trabajar con gimnasi… [+3282 chars]",
+	},
+	{
+		category: "health",
+		author: "Redacción La Guajira Hoy.com",
+		title: "Capturan exsecretaria de Salud de la alcaldía de Riohacha - La Guajira Hoy.com",
+		description:
+			"Vanessa Ramírez Pugliesse, quien se desempeñó como secretaria de Salud distrital hasta el 6 de diciembre del 2018, fue arrestada cuando iba llegando a la puerta de su nueva oficina, por miembros de una comisión del Cuerpo Técnico de Investigación de la Fiscal…",
+		url: "https://laguajirahoy.com/judiciales/capturan-exsecretaria-de-salud-de-la-alcaldia-de-riohacha.html",
+		urlToImage: "https://laguajirahoy.com/wp-content/uploads/2022/10/Vanessa-Ramirez-Pugliesse-copia.jpg",
+		publishedAt: "2022-10-24T19:01:02Z",
+		content:
+			"Vanessa Ramírez Pugliesse, quien se desempeñó como secretaria de Salud distrital hasta el 6 de diciembre del 2018, fue arrestada cuando iba llegando a la puerta de su nueva oficina, por miembros de u… [+2725 chars]",
+	},
+	{
+		category: "health",
+		author: "Arturo Ramírez Hernández",
+		title: "Continúan destrozos en planteles de la UNAM, ahora tocó a la Facultad de Medicina - El Capitalino",
+		description:
+			"Más de 20 Escuelas y Facultades de la Universidad Nacional Autónoma de México (UNAM) han estallado en paro estudiantil en las últimas semanas.",
+		url: "https://elcapitalino.mx/nacion/continuan-destrozos-en-planteles-de-la-unam-ahora-toco-a-la-facultad-de-medicina/",
+		urlToImage: null,
+		publishedAt: "2022-10-24T18:38:16Z",
+		content:
+			"Los paros y destrozos a instituciones de nivel medio superior y superior en la Universidad Nacional Autónoma de México (UNAM) continúan y en muchos de los casos de manera sorpresiva. Hasta el momento… [+2893 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Esta es la enfermedad silenciosa de transmisión sexual; uno de cada dos adultos la tiene, según experto - Revista Semana",
+		description: "Los profesionales de la salud recomiendan hacerse chequeos médicos con frecuencia, ya que no hay síntomas de alarma.",
+		url: "https://www.semana.com/vida-moderna/articulo/esta-es-la-enfermedad-silenciosa-de-transmision-sexual-uno-de-cada-dos-adultos-la-tiene-segun-experto/202230/",
+		urlToImage:
+			"https://www.semana.com/resizer/BtqJxLO_FtFH5fVy5_-ZwGpTHj0=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/XVO2X4BQBVHSZLMFRB73BWOORM.jpg",
+		publishedAt: "2022-10-24T18:27:13Z",
+		content:
+			"A lo largo de la historia se han desarrollado diferentes enfermedades causadas por diversas razones y que afectan distintas partes del organismo humano.\r\nUna de las que tanto ha sonado por décadas es… [+4364 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "Informe Epidemiológico Monkeypox – 24/10/2022 - Secretaria de Estado de Saúde de Minas Gerais",
+		description: "Informe Epidemiológico Monkeypox – 24/10/2022",
+		url: "https://www.saude.mg.gov.br/fornecimento-de-medicamentos/story/17358-informe-epidemiologico-monkeypox-24-10-2022",
+		urlToImage: null,
+		publishedAt: "2022-10-24T18:15:27Z",
+		content:
+			"A Secretaria de Estado de Saúde de Minas Gerais (SES-MG) informa que dados do estado, atualizados em 24/10/2022, registram 545 (quinhentos e quarenta e cinco) casos de Monkeypox confirmados por exame… [+846 chars]",
+	},
+	{
+		category: "health",
+		author: "Nekane Lauzirika",
+		title: '“El Valor debe de tener como objetivo el bienestar" - El médico interactivo - El Médico Interactivo',
+		description: "Según Gotzone Sagardui, consejera de Salud del Gobierno Vasco, en el encuentro de SEDISA",
+		url: "https://elmedicointeractivo.com/el-valor-debe-de-tener-como-objetivo-el-bienestar/",
+		urlToImage: "https://elmedicointeractivo.com/wp-content/uploads/2022/10/sedis.png",
+		publishedAt: "2022-10-24T18:14:00Z",
+		content:
+			"“El Valor debe de tener como objetivo el bienestar”, subrayó Gotzone Sagardui, consejera de Salud del Gobierno Vasco, quien participó en el ciclo de conferencias de Sociedad Española de Directivos de… [+5507 chars]",
+	},
+	{
+		category: "health",
+		author: "M.L.M. / ICAL.",
+		title: "El PSOE «no espera otra cosa que no sea un sí» a la creación de una Facultad de Medicina en Burgos - Burgos Conecta",
+		description:
+			"Peña dice que «Mañueco y su holgazanería tienen el dinero encima de la mesa» que «las medidas las pone el PSOE», por lo que «tiene que ser un si y más pronto que tarde en esta ciudad»",
+		url: "https://www.burgosconecta.es/burgos/psoe-espera-creacion-20221024195104-nt.html",
+		urlToImage: "https://static3.burgosconecta.es/www/multimedia/202210/24/media/cortadas/facultadmedicina-kGCH--984x468@Burgosconecta.jpg",
+		publishedAt: "2022-10-24T17:52:03Z",
+		content:
+			"El PSOE de Burgos «no espera otra cosa que no sea un sí» de la Junta de Castilla y León a la creación de una Facultad de Medicina en la capital burgalesa, según exclamó su secretaria general, Esther … [+5792 chars]",
+	},
+	{
+		category: "health",
+		author: null,
+		title: "“Medicina Legal confirmó que no hubo irregularidad”: cirujano Alan González rompe el silencio tras señalamientos por supuesto mal procedimiento - Revista Semana",
+		description:
+			"SEMANA conversa con el reconocido médico, quien enfrenta un proceso judicial por el fallecimiento de una paciente  llamada Cecilia Peña Herrera. Su defensa alega falta de pruebas en el expediente.",
+		url: "https://www.semana.com/nacion/articulo/medicina-legal-confirmo-que-no-hubo-irregularidad-cirujano-alan-gonzalez-rompe-el-silencio-tras-senalamientos-por-supuesto-mal-procedimiento/202223/",
+		urlToImage:
+			"https://www.semana.com/resizer/6E0ztRQWwRfD5VALXtkkm0jWKoM=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/SZJVP3VU6JDOXOHJDOXRZOV47M.jpg",
+		publishedAt: "2022-10-24T17:48:39Z",
+		content:
+			"El pasado 20 de octubre se realizó, en el juzgado 17 de Bogotá, una de las audiencias de formulación e imputación de cargos en contra de uno de los cirujanos plásticos más reconocidos de Colombia: Al… [+3565 chars]",
+	},
+	{
+		category: "technology",
+		author: "Ricardo Aguilar",
+		title: "Los Xiaomi Redmi Note 12 ya tienen fecha de presentación. Y todo apunta a que se vienen curvas - Xataka",
+		description:
+			"Xiaomi no sería Xiaomi sin un ritmo alto de presentaciones. Una de las familias más importantes para la compañía es Redmi, su segmento de terminales medios...",
+		url: "https://www.xataka.com/moviles/xiaomi-redmi-note-12-tienen-fecha-presentacion-todo-apunta-a-que-se-vienen-curvas",
+		urlToImage: "https://i.blogs.es/725f95/captura-de-pantalla-2022-10-24-a-las-08.05.48-a.-m./840_560.jpeg",
+		publishedAt: "2022-10-24T06:30:32Z",
+		content:
+			"Xiaomi no sería Xiaomi sin un ritmo alto de presentaciones. Una de las familias más importantes para la compañía es Redmi, su segmento de terminales medios ajustados en relación calidad-precio. Los R… [+1577 chars]",
+	},
+	{
+		category: "technology",
+		author: "Fran Castañeda",
+		title: "Amazon baja al mínimo este móvil Xiaomi en su versión más potente - TopesDeGama",
+		description:
+			"Cambiar de móvil es algo que nos toca cada cierta cantidad años. En algunos casos puede ser por gusto y en otros por necesidad. Ya sea porque se haya roto o simplemente esté anticuado y su manejo sea insufrible, nos tocará pasar por caja. Si no queremos gasta…",
+		url: "https://topesdegama.com/ofertas/amazon/xiaomi-redmi-10c-octubre-2022",
+		urlToImage: "https://topesdegama.com/app/uploads-topesdegama.com/2022/10/Xiaomi-Redmi-10C-en-oferta.jpg",
+		publishedAt: "2022-10-23T20:16:37Z",
+		content:
+			"Xiaomi se ha convertido por méritos propios es una marca muy popular. Y es que si por algo se caracteriza es por ofrecer productos con una buena relación calidad-precio. En su catálogo de smartphone … [+2545 chars]",
+	},
+	{
+		category: "technology",
+		author: "Javier Moya",
+		title: "10 móviles Xiaomi con mejor batería en 2022 - El Grupo Informático",
+		description:
+			"El catálogo de móviles Xiaomi es realmente amplio, tanto es que puede que no sepas qué móvil comprar con buena batería. Hoy podrás ...",
+		url: "https://www.elgrupoinformatico.com/moviles-xiaomi/moviles-xiaomi-mejor-bateria/",
+		urlToImage: "https://www.elgrupoinformatico.com/static/Noticias/2022/10/moviles-xiaomi-con-mejor-bateria-1200x675.jpg",
+		publishedAt: "2022-10-23T14:00:00Z",
+		content:
+			"El catálogo de móviles Xiaomi es realmente amplio, tanto es que puede que no sepas qué móvil comprar con buena batería. Hoy podrás salir de dudas, ya que te mostraremos cuáles son los 10 móviles con … [+4956 chars]",
+	},
+	{
+		category: "technology",
+		author: "Carlos Pedrós",
+		title: "Así puedes crear tu avatar en WhatsApp con tu móvil Xiaomi - Mundo Xiaomi",
+		description:
+			"WhatsApp acaba de incorporar una novedad muy interesante. En su última beta, podemos crear nuestro propio avatar, una imagen de nosotros mismos en 3D que...",
+		url: "https://www.mundoxiaomi.com/tutoriales/asi-puedes-crear-tu-avatar-whatsapp-tu-movil-xiaomi",
+		urlToImage: "https://i.blogs.es/a353c2/450_1000-1-/840_560.jpeg",
+		publishedAt: "2022-10-23T09:01:58Z",
+		content:
+			"WhatsApp acaba de incorporar una novedad muy interesante. En su última beta, podemos crear nuestro propio avatar, una imagen de nosotros mismos en 3D que podemos compartir, y su funcionamiento es muy… [+1691 chars]",
+	},
+	{
+		category: "technology",
+		author: "Eric Ramirez",
+		title: "Paquete de focos inteligentes desde menos de 100 pesos cada uno en Amazon México: compatibles con Alexa... - Xataka México",
+		description:
+			"Entre tantas opciones para tener una casa inteligente, los focos son de los productos más llamativos por su versatilidad y por lo que nos facilitan la vida al...",
+		url: "https://www.xataka.com.mx/seleccion/paquete-focos-inteligentes-100-pesos-cada-uno-tres-modos-colores-compatibles-alexa-google-assistant",
+		urlToImage: "https://i.blogs.es/5629e4/foco-inteligente-amazon-mexico-alexa/840_560.png",
+		publishedAt: "2022-10-24T14:58:35Z",
+		content:
+			"Entre tantas opciones para tener una casa inteligente, los focos son de los productos más llamativos por su versatilidad y por lo que nos facilitan la vida al apagar y prender luces con nuestra voz.\r… [+1807 chars]",
+	},
+	{
+		category: "technology",
+		author: "Joseph Hall",
+		title: "Cómo no usar Bitcoin: un usuario paga 1,000 veces la tarifa de transacción por enviar 4 BTC - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+		description:
+			"Una transacción de Bitcoin pagó más de USD 200 para enviar USD 63,000 en BTC. La tarifa de transacción fue 1,000 veces más alta que una tarifa típica",
+		url: "https://es.cointelegraph.com/news/how-not-to-bitcoin-user-pays-1000x-fee-to-send-4-btc",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvMWM3NGYwMmUtMTE1ZS00MzIwLWIwMjAtZWQzMjMwODBhYTJlLmpwZw==.jpg",
+		publishedAt: "2022-10-24T14:35:00Z",
+		content:
+			"Un usuario de Bitcoin (BTC) gastó más de USD 200 para realizar una transacción, pagando astronómicamente por encima de la tarifa media. \r\nEn una transacción que entró en el bloque 760,077 de Bitcoin,… [+3691 chars]",
+	},
+	{
+		category: "technology",
+		author: "William Suberg",
+		title: "Bitcoin estaría a unas 6 u 8 semanas de repuntar, mientras el Hang Seng se hace eco de la caída de Lehman Brothers - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+		description:
+			"La volatilidad se está acercando, pero los traders podrían tener que esperar hasta finales de año si la historia se repite, advierte un analista.",
+		url: "https://es.cointelegraph.com/news/bitcoin-6-8-weeks-from-breakout-as-hang-seng-echoes-lehman-brothers-dip",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvZWI0ZDljYTItODg1YS00OWMxLWJmZDctOGM1MGY3ZjRmYzYwLmpwZw==.jpg",
+		publishedAt: "2022-10-24T13:55:00Z",
+		content:
+			"Bitcoin (BTC) esperó las señales en la apertura de Wall Street del 24 de octubre, ya que las expectativas de una ruptura eran altas.\r\nGráfico de velas de 1 hora del par BTC/USD. Fuente: TradingView\r\n… [+3967 chars]",
+	},
+	{
+		category: "technology",
+		author: "20minutos",
+		title: "Una inteligencia artificial consigue resultados alucinantes tras retratar a las caras más conocidas de Twitch, de Cristinini a Ibai - 20minutos.es",
+		description:
+			"Algunos de los streamers más famosos de la comunidad hispanohablante se han sorprendido estos últimos días al descubrir por Twitter unos preciosos retratos de ellos mismos hechos con Inteligencia Artificial.",
+		url: "https://www.20minutos.es/gonzoo/noticia/5071116/0/una-inteligencia-artificial-consigue-resultados-alucinantes-tras-retratar-a-las-caras-mas-conocidas-de-twitch/",
+		urlToImage:
+			"https://imagenes.20minutos.es/files/og_thumbnail_panoramic/files/og_20m/uploads/imagenes/2022/10/24/ibai-llanos-cristinini-y-thegrefg-retratados-por-una-ia.jpeg",
+		publishedAt: "2022-10-24T12:35:56Z",
+		content:
+			"Algunos de los streamers más famosos de la comunidad hispanohablante se han sorprendido estos últimos días al descubrir por Twitter unos preciosos retratos de ellos mismos hechos con Inteligencia Art… [+1025 chars]",
+	},
+	{
+		category: "technology",
+		author: "Noticias de Israel",
+		title: "¿Israel proporciona a Ucrania información sobre drones iraníes? - Noticias de Israel",
+		description: "Un informe reciente afirma que Israel ha ayudado a Ucrania con inteligencia para desarmar los drones rusos de tipo iraní.",
+		url: "https://israelnoticias.com/editorial/israel-proporciona-a-ucrania-informacion-sobre-drones-iranies/",
+		urlToImage: "https://israelnoticias.com/wp-content/uploads/2022/10/rusia-iran-dron-il.webp",
+		publishedAt: "2022-10-24T10:27:20Z",
+		content:
+			"Según un informe reciente, Israel ha compartido información de inteligencia con Ucrania para ayudar a sus fuerzas armadas a contrarrestar el uso de drones de tipo iraní por parte de Rusia contra Kiev… [+5670 chars]",
+	},
+	{
+		category: "technology",
+		author: "Daniel O'Keeffe",
+		title: "El precio de bitcoin se disparará en 2023, pero ten cuidado con lo que deseas - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+		description: "Dependiendo de a quién escuches, el precio de bitcoin llegará el año que viene a USD 3,500 o a USD 1 millón",
+		url: "https://es.cointelegraph.com/news/bitcoin-will-surge-in-2023-but-be-careful-what-you-wish-for",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvZmZlZjUwODMtNDdhNy00MDM5LTg1ZDUtZmRhMjc4YWI0OGMyLmpwZw==.jpg",
+		publishedAt: "2022-10-23T23:55:00Z",
+		content:
+			"La comunidad de bitcoin (BTC) está dividida sobre si el precio del token va a subir o a estrellarse en el próximo año. La mayoría de los analistas e indicadores técnicos sugieren que podría tocar fon… [+8607 chars]",
+	},
+	{
+		category: "technology",
+		author: "ABC Tecnología",
+		title: "Esta torreta inteligente puede acabar con enjambres enteros de drones: así funciona - ABC.es",
+		description: "El RAPIDFire es efectivo contra objetivos de todo tipo y es compatible con cinco tipos de munición diferentes",
+		url: "https://www.abc.es/tecnologia/informatica/soluciones/torreta-inteligente-puede-acabar-enjambres-enteros-drones-20221024112122-nt.html",
+		urlToImage: "https://s2.abcstatics.com/abc/www/multimedia/tecnologia/2022/10/23/torreta-Rj0DbSiqOtSow99X3VHnF6K-1024x512@abc.jpg",
+		publishedAt: "2022-10-23T23:17:00Z",
+		content:
+			"El consorcio de empresas dedicadas a la tecnología militar Nexter y Thales han anunciado la creación de una nueva torreta inteligente, pensada para su uso en tierra y mar, capaz de «identificar y des… [+1630 chars]",
+	},
+	{
+		category: "technology",
+		author: null,
+		title: "CNN obtiene acceso a taller secreto de drones militares en Ucrania - CNN en Español",
+		description:
+			"La inteligencia tecnológica militar de #Ucrania afirma estar nivelando el campo de batalla mediante la creación de drones militares. Fred Pleitgen, enviado e...",
+		url: "https://www.youtube.com/watch?v=vG_6WmKxNzY",
+		urlToImage: "https://i.ytimg.com/vi/vG_6WmKxNzY/maxresdefault.jpg",
+		publishedAt: "2022-10-23T22:00:32Z",
+		content: null,
+	},
+	{
+		category: "technology",
+		author: "William Suberg",
+		title: 'El precio de bitcoin alcanza los USD 19,500 en el cierre semanal mientras un trader vaticina una "semana verde" - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)',
+		description: "El precio de BTC alcanza máximos de varios días y los traders de bitcoin predicen una semana de ganancias",
+		url: "https://es.cointelegraph.com/news/bitcoin-price-hits-19-5k-into-weekly-close-as-trader-predicts-green-week",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvNDFlOTg0OTQtMTJhYi00MDA2LTkwMGMtZjkwMzJhNDdmZDYzLmpwZw==.jpg",
+		publishedAt: "2022-10-23T19:35:00Z",
+		content:
+			"Bitcoin (BTC) ha experimentado nuevas ganancias el 23 de octubre, mientras el fin de semana ha supuesto una posible plataforma de despegue para los alcistas.\r\nGráfico de velas de 1 hora para el par B… [+3154 chars]",
+	},
+	{
+		category: "technology",
+		author: "Prashant Jha",
+		title: "Cómo CZ construyó Binance y se convirtió en la persona más rica en el sector de las criptos - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+		description:
+			"CZ dejó su lucrativo trabajo para crear su propia empresa en 2005 y se trasladó a Shanghai, China. Después de 8 años construyendo su empresa, en 2013, CZ finalmente se encontró con Bitcoin, lo que cambió todo",
+		url: "https://es.cointelegraph.com/news/how-cz-built-binance-and-became-the-richest-person-in-crypto",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvMDA5OTI1ZmEtOGFhYS00NTEzLTljZDUtYjVlMjcwYjllZDQ0LmpwZw==.jpg",
+		publishedAt: "2022-10-23T17:00:00Z",
+		content:
+			"Changpeng Zhao (CZ), fundador y director de operaciones del exchange mundial de criptomonedas Binance, es una de las personalidades más influyentes de la actualidad en el ámbito de las criptomonedas,… [+2158 chars]",
+	},
+	{
+		category: "technology",
+		author: "Yashu Gola",
+		title: "Los pequeños inversores de BTC evitan que las ballenas lleven el precio de bitcoin por debajo de los USD 18 mil - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)",
+		description:
+			"El precio de bitcoin ha evitado una mayor caída por debajo de los USD 18,000 en los últimos meses, aumentando las expectativas de que se esté formando un fondo en el mercado",
+		url: "https://es.cointelegraph.com/news/small-bitcoin-investors-stop-whales-from-crashing-btc-price-below-18k",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvMjYyNDQwNjAtY2ZkNy00MTZjLWE5MmUtYmUwZGZmNDNkODU5LmpwZw==.jpg",
+		publishedAt: "2022-10-23T16:45:00Z",
+		content:
+			"Un ejército de pequeños inversores de bitcoin (BTC) lleva meses luchando con sus homólogos más grandes para mantener el precio por encima de los 18,000 dólares.\r\nLa acumulación de bitcoin es importan… [+4721 chars]",
+	},
+	{
+		category: "technology",
+		author: "Ricardo Fernández",
+		title: "Móviles chinos VS móviles americanos: ¿en qué se diferencian? - MovilZona.es",
+		description:
+			"El sector de la telefonía inteligente está compuesto por un enorme número de fabricantes que provienen, principalmente, de China y Estados Unidos. A priori, este rasgo puede pasar desapercibido, pero lo cierto es que los móviles de ambos países presentan dife…",
+		url: "https://www.movilzona.es/noticias/smartphones/moviles-chinos-americanos-diferencias/",
+		urlToImage: "https://www.movilzona.es/app/uploads-movilzona.es/2022/10/moviles-chinos-americanos-diferencias.jpg",
+		publishedAt: "2022-10-23T16:03:00Z",
+		content:
+			"En Estados Unidos hay empresas como Apple, Google y Motorola; mientras que, por otro lado, en China predominan marcas como Xiaomi, OPPO, OnePlus y un largo etcétera. Es importante mencionar que Samsu… [+2936 chars]",
+	},
+	{
+		category: "technology",
+		author: "Juan Carlos López",
+		title: "Esta es la herramienta perfecta para exprimir la última gota de jugo a los procesadores 'Raptor Lake' de... - Xataka",
+		description:
+			"Los nuevos microprocesadores de Intel y AMD ya están aquí. El incremento del rendimiento que nos proponen tanto los Ryzen 7000 como los Core de 13ª generación...",
+		url: "https://www.xataka.com/componentes/esta-herramienta-perfecta-para-exprimir-ultima-gota-jugo-a-procesadores-raptor-lake-intel",
+		urlToImage: "https://i.blogs.es/08b269/intelraptorlake-ap/840_560.jpeg",
+		publishedAt: "2022-10-23T10:06:00Z",
+		content:
+			"Los nuevos microprocesadores de Intel y AMD ya están aquí. El incremento del rendimiento que nos proponen tanto los Ryzen 7000 como los Core de 13ª generación frente a sus predecesores es muy importa… [+8988 chars]",
+	},
+	{
+		category: "technology",
+		author: "William Suberg",
+		title: 'El precio de bitcoin se disparará por encima de los USD 100,000 en 2023 antes del "más largo mercado bajista", opina un trader - Cointelegraph en Español (Noticias sobre Bitcoin, Blockchain y el futuro del dinero)',
+		description: "El precio de bitcoin verá nuevos máximos históricos el próximo año, pero los bajistas de BTC tomarán el control hasta 2025",
+		url: "https://es.cointelegraph.com/news/bitcoin-will-shoot-over-100k-in-2023-before-largest-bear-market-trader",
+		urlToImage:
+			"https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMTAvMTBhNjJjOGItMGVkZS00OWE2LWE3OGMtODExNjUxYzYwMzc5LmpwZw==.jpg",
+		publishedAt: "2022-10-22T18:00:00Z",
+		content:
+			"El precio de bitcoin (BTC) superará los 100,000 dólares el próximo año, pero le seguirá un mercado bajista que batirá récords, según la opinión de un popular trader.\r\nEn una discusión en Twitter el 2… [+3700 chars]",
+	},
+	{
+		category: "sports",
+		author: "Ubaldo Kunz",
+		title: 'Alonso: "River hizo lo correcto, tenía que ganar" - La Página Millonaria',
+		description:
+			"El ídolo de River se metió de lleno en la polémica definición de la Liga Profesional y bancó la postura de Marcelo Gallardo y sus dirigidos, que salieron a ganar el partido frente a Racing.",
+		url: "https://lapaginamillonaria.com/riverplate/Beto-Alonso-River-hizo-lo-correcto-tenia-que-ganar-20221024-0011.html",
+		urlToImage: "https://lapaginamillonaria.com/__export/1666664653806/sites/lpm/img/2022/10/24/alonso_crop1666664653345.jpg_242310155.jpg",
+		publishedAt: "2022-10-25T02:24:29Z",
+		content:
+			"El Mundo River se encuentra inmerso en una grieta que dividió las aguas entre los que están a favor y en contra de la postura que asumió el equipo de Marcelo Gallardo, de salir a buscar los tres punt… [+2598 chars]",
+	},
+	{
+		category: "sports",
+		author: "France 24",
+		title: "Alcaraz se reencuentra con la victoria en Basilea - FRANCE 24 Español",
+		description:
+			"Carlos Alcaraz, número uno del mundo, se clasificó este lunes con más problemas de los esperados a la segunda ronda del torneo ATP 500 de Basilea, al vencer al británico Jack Draper por 3-6, 6-2, 7-5.",
+		url: "https://www.france24.com/es/minuto-a-minuto/20221025-alcaraz-se-reencuentra-con-la-victoria-en-basilea",
+		urlToImage:
+			"https://s.france24.com/media/display/3f4ba3a0-53f3-11ed-a333-005056a97e36/w:1280/p:16x9/9fdb597c7f0e4cbafd439148e3edf15e586a8296.jpg",
+		publishedAt: "2022-10-25T02:16:11Z",
+		content:
+			"Basilea (Suiza) (AFP) Carlos Alcaraz, número uno del mundo, se clasificó este lunes con más problemas de los esperados a la segunda ronda del torneo ATP 500 de Basilea, al vencer al británico Jack Dr… [+943 chars]",
+	},
+	{
+		category: "sports",
+		author: "León Lecanda",
+		title: "Fuentes: Cruz Azul tiene primeras tres bajas rumbo al Clausura 2023 - ESPN",
+		description:
+			"Ángel Romero, Luis Abram y Alejandro Mayorga se perfilan como las primeras bajas para el próximo semestre, pero hay otros nombres en la lista.",
+		url: "https://www.espn.com.mx/futbol/mexico/nota/_/id/11131792/cruz-azul-tiene-primeras-tres-bajas-rumbo-al-clausura-2023",
+		urlToImage: "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1025%2Fr1080850_1296x729_16%2D9.jpg",
+		publishedAt: "2022-10-25T02:04:08Z",
+		content:
+			"MÉXICO -- Cruz Azul ya tiene sus primeras bajas de cara al Clausura 2023 con los sudamericanos Ángel Romero y Luis Abram, y el lateral Alejandro Mayorga como los primeros en encabezar la lista de ele… [+1733 chars]",
+	},
+	{
+		category: "sports",
+		author: "Guillermo",
+		title: "OFICIAL: MLB anunció fecha, horario y trasmisiones de la Serie Mundial 2022 - Swing Completo LLC",
+		description: "¡El Clásico de Otoño ya está aquí! La MLB World Series 2022 ha llegado",
+		url: "https://swingcompleto.com/oficial-mlb-anuncio-fecha-horario-serie-mundial-2022-filadelfia-vs-houston-sl-221024/",
+		urlToImage: "https://swingcompleto.com/wp-content/uploads/2022/10/Copia-de-SwingCompleto-2022-10-24T193303.850.jpg",
+		publishedAt: "2022-10-25T02:03:10Z",
+		content:
+			"Por Guillermo Sánchez\r\n¡El Clásico de Otoño ya está aquí! La MLB World Series 2022 ha llegado de la mano de Philadelphia Phillies y Houston Astros y aquí te traemos los horarios para que disfrutes de… [+1806 chars]",
+	},
+	{
+		category: "sports",
+		author: "José A. Espina",
+		title: "Una final para seguir en Europa - AS ",
+		description:
+			"Si gana, el Sevilla seguirá al menos en la Europa League a partir de febrero. Si pierde quedará fuera de todo. El Copenhague llega con varias bajas.",
+		url: "https://as.com/futbol/champions/una-final-para-seguir-en-europa-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/lJAhWRiA9xNb9KinZWLqOBiw880=/644x362/filters:focal(278x109:288x119)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/2GUKI4FEFAAJUN6CAYNZHSSIGU.jpg",
+		publishedAt: "2022-10-25T02:00:19Z",
+		content:
+			"Ni la buena imagen durante algunos momentos en el Santiago Bernabéudisipa la destartalada sensación en la que sigue envuelto este Sevilla que, tras la disputa de la última jornada de LaLiga, se ha qu… [+2456 chars]",
+	},
+	{
+		category: "sports",
+		author: "AP",
+		title: "Extrañar el juego, hace volver a dirigir a Bruce Bochy, que tomará a Texas Rangers - ESPN Deportes",
+		description:
+			"Bruce Bochy no ha dirigido un equipo desde 2019, cuando se retiró después de 13 temporadas y tres títulos de Serie Mundial con los San Francisco Giants.",
+		url: "https://espndeportes.espn.com/beisbol/nota/_/id/11131873/extranar-el-juego-hace-volver-a-dirigir-a-bruce-bochy-que-tomara-a-texas-rangers",
+		urlToImage: "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1025%2Fr1080852_1296x729_16%2D9.jpg",
+		publishedAt: "2022-10-25T01:59:30Z",
+		content:
+			"ARLINGTON, Texas -- Bruce Bochy ganó una Serie Mundial en Texas, algo que los Rangers no han hecho. Ahora está volviendo de un retiro de tres años con la esperanza de que el equipo local regrese a es… [+2375 chars]",
+	},
+	{
+		category: "sports",
+		author: "ESPN Digital",
+		title: "Reporte: Luis Rojas entre candidatos para dirigente de Marlins - ESPN Deportes",
+		description:
+			"El coach de tercera base de New York Yankees figura entre las cuatro personas entrevistadas para la posición vacante de mánager en Miami.",
+		url: "https://espndeportes.espn.com/beisbol/nota/_/id/11131533/luis-rojas-yankees-entre-candidatos-para-dirigente-de-miami-marlins",
+		urlToImage: "https://a2.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1024%2Fr1080820_1296x729_16%2D9.jpg",
+		publishedAt: "2022-10-25T01:51:11Z",
+		content:
+			"Skip Schumaker, Joe Espada y Matt Quataro han sido los tres principales nombres asociados a la posición de dirigente de los Miami Marlins. A ese selecto grupo, habrá que unir al dominicano y exmánage… [+1518 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Emma Lattus - Adolescente y futbolista profesional - DW Español",
+		description:
+			"Emma Lattus está viviendo su #sueño. Empezó a jugar a los 4 años, enfrentándose a los varones y luchando contra los #prejuicios, incluso de las propias #niña...",
+		url: "https://www.youtube.com/watch?v=FNyIvr3ybpw",
+		urlToImage: "https://i.ytimg.com/vi/FNyIvr3ybpw/maxresdefault.jpg",
+		publishedAt: "2022-10-25T01:45:00Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: "https://meridiano.net",
+		title: "MLB: Statcast y la explicación sobre el error de Gleyber Torres ante los Astros (+Video) - Meridiano",
+		description:
+			"La plataforma de análisis ofreció su interpretación sobre esa jugada, en la que dieron a entender que Isiah Kiner-Falefa igualmente no ayudó del modo más apropiado",
+		url: "https://meridiano.net/beisbol/beisbol-grandes-ligas/253434/mlb--statcast-y-la-explicacion-sobre-el-error-de-gleyber-torres-ante-los-astros---video-.html",
+		urlToImage: "https://meridiano.net/fotos_meridiano/16666611941421945849.jpg",
+		publishedAt: "2022-10-25T01:35:09Z",
+		content:
+			"Durante el séptimo inning del cuarto choque en la Serie de Campeonato de la Liga Americana, Gleyber Torres lamentablemente incurrió en un error que abrió una brecha que los Astros de Houston aprovech… [+2623 chars]",
+	},
+	{
+		category: "sports",
+		author: "TyC Sports.com",
+		title: "Tigre vs. Arsenal, por la Liga Profesional: goles y resumen - Rumbo a Tokio",
+		description:
+			"El de Sarandí, con la despedida de Madelón, goleó por 4-1 en Victoria al Matador y le pinchó el sueño de Libertadores en el adiós a Galmarini.",
+		url: "https://www.tycsports.com/liga-profesional-de-futbol/tigre-vs-arsenal-en-vivo-hora-donde-ver-y-formaciones-id472944.html",
+		urlToImage: "https://media.tycsports.com/files/2022/10/24/496994/arsenal-festejo_1440x810_wmk.webp?v=1",
+		publishedAt: "2022-10-25T01:30:00Z",
+		content:
+			"El de Sarandí, con la despedida de Madelón, goleó por 4-1 en Victoria al Matador y le pinchó el sueño de Libertadores en el adiós a Galmarini.\r\nArsenal sorprendió en Victoria y goleó por 4-1 a Tigre,… [+6958 chars]",
+	},
+	{
+		category: "sports",
+		author: "Andrés Onrubia",
+		title: "Un trámite entre tanto lío - AS ",
+		description:
+			"El PSG espera poder cerrar el pase a octavos de final después de dos días muy polémicos por la filtración del sueldo de Mbappé. Verratti es baja por sanción",
+		url: "https://as.com/futbol/champions/un-tramite-entre-tanto-lio-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/Bvfczhe-IWogfGHO3kT0YgsvUU0=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/DF3FOX2Z23QNSIE2HD2FE4D4Z4.jpg",
+		publishedAt: "2022-10-25T01:28:50Z",
+		content:
+			"En diez años bajo el mandato de QSI (Qatar Sports Investments), el PSG ha hecho pleno de clasificación a los octavos de la Champions League. En el camino quedan descalabros, tristeza, alegría en 2020… [+2528 chars]",
+	},
+	{
+		category: "sports",
+		author: "Sergio Picos",
+		title: "Simeone tiene nuevo cinturón de seguridad en el centro del campo - AS ",
+		description:
+			"El doble pivote formado por Kondogbia y Witsel aporta músculo y fuerza al medio. Ante el Betis completaron 101 pases (90% de acierto) y sumaron 15 robos.",
+		url: "https://as.com/futbol/primera/simeone-tiene-nuevo-cinturon-de-seguridad-en-el-centro-del-campo-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/KbTXlnOScjaoBaehGOXAbBxiIzg=/644x362/filters:focal(2701x1411:2711x1421)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/7CIJ7P5HBMKMCZDZIRCUDKOMR4.JPG",
+		publishedAt: "2022-10-25T01:10:37Z",
+		content:
+			"El Atlético ha puesto cemento armado a su centro del campo. La lesión de Koke, sumada a la baja de Llorente y Lemar, ha llevado a Simeone a modificar su esquema y apostar por un doble pivote con los … [+3658 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Mac Jones va a la banca de Patriots tras un primer cuarto desastroso; Bailey Zappe genera touchdown inmediato - ESPN Deportes",
+		description:
+			"El cambio de mariscal de campo surtió efectos inmediatos para New England, que consiguieron sus primeros puntos del juego con Zappe.",
+		url: "https://espndeportes.espn.com/futbol-americano/nota/_/id/11131908/mac-jones-va-a-la-banca-de-patriots-tras-un-primer-cuarto-desastroso-bailey-zappe-genera-touchdown-inmediato",
+		urlToImage: "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1025%2Fr1080864_1296x729_16%2D9.jpg",
+		publishedAt: "2022-10-25T01:02:56Z",
+		content:
+			"Los New England Patriots no demoraron mucho en hace un cambio de quarterback, con Bailey Zappe ingresando al 11:55 del segundo periodo luego de un inicio de partido desastroso para Mac Jones frente a… [+2014 chars]",
+	},
+	{
+		category: "sports",
+		author: "Guillermo Sandoval",
+		title: "¡Atención! En materia de refuerzos, Cruz Azul tiene una máxima prioridad - Vamos Azul",
+		description: "Lesiones, término de contrato y la fatídica estadística, las razones que obligan a la Máquina a reforzar una línea en especial",
+		url: "https://vamoscruzazul.bolavip.com/noticias/Atencion-En-materia-de-refuerzos-Cruz-Azul-tiene-una-maxima-prioridad-20221024-0010.html",
+		urlToImage: "https://bolavip.com/__export/1666651904238/sites/bolavip/img/2022/10/24/imago-refuerzos-cruz-azul-defensa.jpg_1139723090.jpg",
+		publishedAt: "2022-10-25T01:02:55Z",
+		content:
+			"Cruz Azul trabaja en la planificación del Clausura 2023. A poco más de dos meses del inicio del nuevo torneo de la Liga MX, la Máquinaapunta a reforzar su plantel en todas sus líneas en busca de su d… [+2347 chars]",
+	},
+	{
+		category: "sports",
+		author: "Oscar Torres",
+		title: "¿Indirectas desde Televisa a José Ramón Fernández por culpa del América? - El Universal",
+		description:
+			'Durante el Apertura 2022, sobre todo en la recta final de la fase regular y el inicio de la Liguilla, José Ramón Fernández insinuó que todo estaba "arreglado" para que el América fuera campeón.\r\n\r\nPero tras la eliminación de las Águilas en las semifinales, an…',
+		url: "https://www.eluniversal.com.mx/universal-deportes/america-indirectas-desde-televisa-jose-ramon-fernandez-por-culpa-de-las-aguilas",
+		urlToImage: "https://www.eluniversal.com.mx/sites/default/files/2022/10/24/joserra_tudn.jpg",
+		publishedAt: "2022-10-25T01:02:47Z",
+		content:
+			'Durante el Apertura 2022, sobre todo en la recta final de la fase regular y el inicio de la Liguilla, José Ramón Fernández insinuó que todo estaba "arreglado" para que el América fuera campeón.\r\nPero… [+718 chars]',
+	},
+	{
+		category: "sports",
+		author: "anónimo",
+		title: "La extraña jugada de Luka Doncic que generó discusiones en la NBA: ¿asistencia o tiro errado? - infobae",
+		description:
+			"La estrella eslovena protagonizó una escena que generó polémica en el duelo de Dallas Mavericks y Memphis Grizzlies. Las imágenes",
+		url: "https://www.infobae.com/america/deportes/2022/10/25/la-extrana-jugada-de-luka-doncic-que-genero-discusiones-en-la-nba-asistencia-o-tiro-errado/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/aMwWaYmLgfDcWB4h7-v2JUqf0ZY=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/IQYBDBXGDTEUJEKKJXBRPMTZGI.jpg",
+		publishedAt: "2022-10-25T01:02:34Z",
+		content:
+			"El jugador dijo que buscó a su compañero en lugar de hacer la bandeja\r\nUn extraordinario primer parcial del esloveno Luka Doncic, que acabó con una marca de 32 puntos y diez asistencias, definió el p… [+2572 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: '¡LA PELOTA A LA "10" ! Gol de Dani Espinosa | Tigres 2-2 Tijuana | Liga Mx Femenil AP2022 -J17| TUDN - TUDN USA',
+		description:
+			"La defensa de Tigres se quedó parada ante el taso largo y la delantera no perdonó al 43’.Síguenos en nuestras redes sociales:https://www.facebook.com/tudnusa...",
+		url: "https://www.youtube.com/watch?v=FwB3eoVkPs0",
+		urlToImage: "https://i.ytimg.com/vi/FwB3eoVkPs0/maxresdefault.jpg",
+		publishedAt: "2022-10-25T01:00:35Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: "TyC Sports.com",
+		title: "Sin vueltas: la condición que puso Tevez para continuar en Rosario Central - Rumbo a Tokio",
+		description:
+			'El Apache aseguró que ya planeó la pretemporada, pero le pidió a la dirigencia armar un equipo "competitivo" para 2023. "Estos 15 días son importantes", expresó tras el empate con Colón en el Gigante de Arroyito.',
+		url: "https://www.tycsports.com/liga-profesional-de-futbol/la-condicion-que-puso-tevez-para-continuar-en-rosario-central-id473254.html",
+		urlToImage: "https://media.tycsports.com/files/2022/10/24/496957/carlos-tevez_1440x810_wmk.webp",
+		publishedAt: "2022-10-25T00:58:33Z",
+		content:
+			'El Apache aseguró que ya planeó la pretemporada, pero le pidió a la dirigencia armar un equipo "competitivo" para 2023. "Estos 15 días son importantes", expresó tras el empate con Colón en el Gigante… [+2270 chars]',
+	},
+	{
+		category: "sports",
+		author: "Daniel Lagos",
+		title: "Fekir, una luz entre las sombras - AS ",
+		description:
+			"El brillante regreso del francés ante el Atlético ilusiona a un Betis que suma sólo cinco puntos de los últimos quince posibles. La Champions se aleja.",
+		url: "https://as.com/futbol/primera/fekir-una-luz-entre-las-sombras-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/r3_pH8J0o90OxcscKsaOXhcYHuw=/644x362/filters:focal(2014x686:2024x696)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/Q2NWA3NVQFD32R5TQ3Y6CUTNTU.JPG",
+		publishedAt: "2022-10-25T00:50:26Z",
+		content:
+			"EI regreso de Nabil Fekir es el mejor amago de sonrisa de un Betis que cedió ante el Atlético de Madrid otra pequeña batalla en su afán por crecer en sus aspiraciones de Champions. El francés volvió … [+1428 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Comienza el miedo de perderse el Mundial: El Chiringuito - Fox Deportes",
+		description: "A pocos días del Mundial, algunos jugadores podrían comenzar a 'guardarse' algunas acciones para no lesionarse.",
+		url: "https://www.youtube.com/watch?v=lXdo-BcWXSQ",
+		urlToImage: "https://i.ytimg.com/vi/lXdo-BcWXSQ/maxresdefault.jpg",
+		publishedAt: "2022-10-25T00:24:22Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: "TyC Sports.com",
+		title: "Bombazo en Boca: la decisión que tomó el club por el futuro de Agustín Rossi - Rumbo a Tokio",
+		description:
+			"Tal como había anticipado Riquelme, desde el club se comunicaron con el agente del arquero, figura en el campeonato que acaba de ganar el Xeneize, para lograr que extienda el vínculo que se le vence en junio de 2023.",
+		url: "https://www.tycsports.com/boca-juniors/boca-se-contacto-con-el-representante-de-agustin-rossi-para-negociar-su-continuidad-id473256.html",
+		urlToImage: "https://media.tycsports.com/files/2022/10/24/496964/rossi_1440x810_wmk.webp",
+		publishedAt: "2022-10-25T00:22:00Z",
+		content:
+			"Tal como había anticipado Riquelme, desde el club se comunicaron con el agente del arquero, figura en el campeonato que acaba de ganar el Xeneize, para lograr que extienda el vínculo que se le vence … [+3392 chars]",
+	},
+	{
+		category: "sports",
+		author: "https://meridiano.net",
+		title: "LVBP: Este es el mensaje que envió Omar Vizquel a los fanáticos melenudos - Meridiano",
+		description: "El once veces gandor del Guante de Oro envió un mensaje a toda la fanticada de los Leones del Caracas.",
+		url: "https://meridiano.net/beisbol-venezolano/253426/lvbp--este-es-el-mensaje-que-envio-omar-vizquel-a-los-fanaticos-melenudos.html",
+		urlToImage: "https://meridiano.net/fotos_meridiano/16666569071379773646.jpg",
+		publishedAt: "2022-10-25T00:15:12Z",
+		content:
+			"Una de las luminarias de los Leones del Caracas, Omar Vizquel envió un mensaje a través de un video en las redes oficiales del equipo con motivo de la celebración de los Leones del Caracas por sus 80… [+881 chars]",
+	},
+	{
+		category: "sports",
+		author: "France 24",
+		title: 'Djokovic jugará en París y en Turín para cerrar una "complicada" temporada - FRANCE 24 Español',
+		description:
+			'Novak Djokovic anunció este lunes que participará en el Masters 1000 de París (31 octubre - 6 noviembre), del que es vigente campeón, y después en las ATP Finals 2022 de Turín, los dos últimos objetivos de su temporada "inhabitual y bastante complicada", indi…',
+		url: "https://www.france24.com/es/minuto-a-minuto/20221025-djokovic-jugar%C3%A1-en-par%C3%ADs-y-en-tur%C3%ADn-para-cerrar-una-complicada-temporada",
+		urlToImage:
+			"https://s.france24.com/media/display/d8e08f58-53f8-11ed-8771-005056a90284/w:1280/p:16x9/7eb7681fb29774027873df24620b2c29a2c6cb92.jpg",
+		publishedAt: "2022-10-25T00:06:17Z",
+		content:
+			"Belgrado (AFP) Novak Djokovic anunció este lunes que participará en el Masters 1000 de París (31 octubre - 6 noviembre), del que es vigente campeón, y después en las ATP Finals 2022 de Turín, los dos… [+1508 chars]",
+	},
+	{
+		category: "sports",
+		author: "Pablo Checa",
+		title: "Todos los caminos conducen a Jonathan Viera - AS ",
+		description:
+			"Otra exhibición del capitán de Las Palmas, líder indiscutible de Segunda División, le dio la victoria a su equipo, que sigue invicto, ante el Cartagena.",
+		url: "https://as.com/futbol/segunda/todos-los-caminos-conducen-a-jonathan-viera-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/L2VVgDYuTLaJNYQ0eUNDZhVPEc0=/644x362/filters:focal(1049x556:1059x566)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/BJPH2YH3KVDEHOL4ZWBHHAY5GY.jpg",
+		publishedAt: "2022-10-25T00:06:06Z",
+		content:
+			"Por ser, es Jonathan Viera un futbolista distinto, de aquellos que levantan ánimos propios y ajenos solo con verle sobre el césped, un virtuoso del balón, acaso capaz de generar un criterio unánime s… [+2538 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Reynoso se refirió a la localía de Perú durante las próximas Eliminatorias sudamericanas - DIRECTV Sports",
+		description: "El Cabezón explicó que la Bicolor va a comenzar como local en Lima y luego estudiará otras alternativas.",
+		url: "https://www.directvsports.com/noticia/reynoso-se-refirio-a-la-localia-de-peru-durante-las-proximas-eliminatorias-sudamericanas",
+		urlToImage: "https://dtvsportsimages.akamaized.net/images/9e089dd1-7905-46aa-af59-f15ffac763c6",
+		publishedAt: "2022-10-24T23:52:39Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Momento mundialista: Así fue una de las derrotas más dolorosas para 'El Tri' en un Mundial - Noticias Telemundo",
+		description:
+			"Con su derrota ante EE.UU., la selección mexicana vio desvanecerse sus ilusiones de avanzar en la Copa Mundial de Corea/Japón 2002. El equipo del célebre Raf...",
+		url: "https://www.youtube.com/watch?v=uweus79srkE",
+		urlToImage: "https://i.ytimg.com/vi/uweus79srkE/maxresdefault.jpg",
+		publishedAt: "2022-10-24T23:48:45Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: "Casa Editorial El Tiempo",
+		title: "Vélez criticó a Borja por darle el título a Boca y lo consideró ídolo - FutbolRed",
+		description: "El delantero colombiano le entregó la victoria a River Plate sobre Racing en Liga Argentina.",
+		url: "https://www.futbolred.com/curiosidades-de-futbol/carlos-antonio-velez-dijo-que-miguel-angel-borja-fue-el-mejor-jugador-de-boca-juniors-168563",
+		urlToImage: "https://www.futbolred.com/files/og_thumbnail/uploads/2022/10/23/6355f7870c70a.jpeg",
+		publishedAt: "2022-10-24T23:48:23Z",
+		content:
+			"Boca Juniors fue el campeón de la Liga Argentina al empatar 2-2 contra Independiente en el estadio La Bombonera, pero todas las miradas fueron hacia River Plate, que ganó a Racing con doblete de Migu… [+1016 chars]",
+	},
+	{
+		category: "sports",
+		author: "María Ramos",
+		title: "El PSG quiere renovar a Messi por un año más y otro opcional - Okdiario",
+		description: "",
+		url: "https://okdiario.com/deportes/psg-quiere-renovar-messi-ano-mas-otro-opcional-9874435",
+		urlToImage: "https://okdiario.com/img/2022/10/24/inda2play-1.jpg",
+		publishedAt: "2022-10-24T23:43:00Z",
+		content:
+			"El PSG quiere seguir contando con los servicios de Leo Messi. Por ello, el club francés tratará de renovar al astro argentino por una temporada, más otra opcional. Hay que recordar que el delantero d… [+1979 chars]",
+	},
+	{
+		category: "sports",
+		author: "Ramiro Scandolo",
+		title: "La bajada de línea de Marcos Rojo a sus compañeros - Olé",
+		description:
+			'"Gente disfruten, esto es Boca y esto recién comienza, tenemos un equipo de la concha de la madre con una banda de pibes que tienen hambre, y vamos por todo loco, vamos por todo, ¡salud!".Marcos Rojo agarró con la mano derecha el micrófono y con la izquierda,…',
+		url: "https://www.ole.com.ar/boca-juniors/boca-rojo-vamos_0_jnBOtoKaFN.html",
+		urlToImage: "https://images.ole.com.ar/2022/10/24/gmG28GVWt_1200x630__1.jpg",
+		publishedAt: "2022-10-24T23:41:27Z",
+		content:
+			'"Gente disfruten, esto es Boca y esto recién comienza, tenemos un equipo de la concha de la madre con una banda de pibes que tienen hambre, y vamos por todo loco, vamos por todo, ¡salud!".\r\nMarcos Ro… [+5081 chars]',
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Se cumplen 20 años del 'Alcorconazo' del Real Madrid: El Chiringuito - Fox Deportes",
+		description: "Eduardo Inda recuerda la portada que hizo cuando el Real Madrid de Pellegrini cayó con el Alcrocón en la Copa del Rey.",
+		url: "https://www.youtube.com/watch?v=WYokP0VN5Hs",
+		urlToImage: "https://i.ytimg.com/vi/WYokP0VN5Hs/maxresdefault.jpg",
+		publishedAt: "2022-10-24T23:36:54Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "¡TREMENDA ATAJADA! Evita el tercero | Necaxa 0-2 Atl. San Luis | Liga Mx Femenil AP2022 -J17 | TUDN - TUDN USA",
+		description:
+			"Natalia prendió el balón desde fuera del área y estrelló el esférico en el metalSíguenos en nuestras redes sociales:https://www.facebook.com/tudnusa/https://...",
+		url: "https://www.youtube.com/watch?v=nIceOAfd-OI",
+		urlToImage: "https://i.ytimg.com/vi/nIceOAfd-OI/maxresdefault.jpg",
+		publishedAt: "2022-10-24T23:36:48Z",
+		content: null,
+	},
+	{
+		category: "sports",
+		author: "Marco González",
+		title: "La decisión de Jonas Vingegaard: Tour de Francia o Giro de Italia - AS ",
+		description:
+			"Vingegaard valora correr el próximo Giro, por lo que renunciaría a defender su título de campeón en el Tour. La decisión, pocas veces vista en el pasado.",
+		url: "https://as.com/ciclismo/la-decision-de-jonas-vingegaard-tour-de-francia-o-giro-de-italia-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/72YeieZASY1kekZZMXIYYQ8kWzw=/644x362/filters:focal(934x551:944x561)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/D6YMPBJGVFGX7OHTMWHLKIPWIY.JPG",
+		publishedAt: "2022-10-24T23:36:22Z",
+		content:
+			"Tour de Francia, Giro de Italia, Grande Boucle, Corsa Rosa... Como si deshojara una margarita, Jonas Vingegaard deberá tomar una decisión que puede marcar su temporada en 2023: defender su corona de … [+2773 chars]",
+	},
+	{
+		category: "sports",
+		author: "https://meridiano.net",
+		title: 'Este caballo "extranjero" reta a los de La Rinconada en el Clásico Internacional Simón Bolívar - Meridiano',
+		description: "El seisañero hijo de Gold Dollar en Las Carmelias reaparece en el óvalo de Coche después de 36 días sin correr",
+		url: "https://meridiano.net/hipismo/hipismo/253425/este-caballo--extranjero--reta-a-los-de-la-rinconada-en-el-clasico-internacional-simon-bolivar.html",
+		urlToImage: "https://meridiano.net/fotos_meridiano/16666540631249979964.jpg",
+		publishedAt: "2022-10-24T23:36:12Z",
+		content:
+			"Ricardo Rengifo Peñalver / [email protected]\r\nEste próximo domingo 30 de octubre se estará celebrando la reunión 44 en el hipódromo La Rinconada, jornada en la cual se estará disputando el Clásico In… [+1101 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "Celta de Vigo empata con el Getafe y se aleja del descenso - The Associated Press - en Español",
+		description:
+			"MADRID (AP) — El defensa ghanés Joseph Aidoo anotó el tanto del empate a los 89 minutos y el Celta de Vigo empató 1-1 con el Getafe y puso fin el lunes a una racha de tres derrotas en la liga española.",
+		url: "https://apnews.com/22faf00dfebd19edff298608f29d711f",
+		urlToImage: "https://storage.googleapis.com/afs-prod/media/afs:Medium:751921853724/700.png",
+		publishedAt: "2022-10-24T23:32:31Z",
+		content:
+			"MADRID (AP) El defensa ghanés Joseph Aidoo anotó el tanto del empate a los 89 minutos y el Celta de Vigo empató 1-1 con el Getafe y puso fin el lunes a una racha de tres derrotas en la liga española.… [+1047 chars]",
+	},
+	{
+		category: "sports",
+		author: "anónimo",
+		title: "La crítica de Mario Pergolini tras el título de Boca Juniors en la Liga Profesional - infobae",
+		description:
+			"El comunicador y ex vicepresidente  del club usó un irónico comentario para criticar al equipo a cargo de Ibarra y las redes estallaron",
+		url: "https://www.infobae.com/deportes/2022/10/24/la-critica-de-mario-pergolini-tras-el-titulo-de-boca-juniors-en-la-liga-profesional/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/KLKkdZqyS1KMoFfLPSaal8lBtTc=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/UYV4MJIXRZH6LHAE3W6NP5QAJY.jpg",
+		publishedAt: "2022-10-24T23:31:40Z",
+		content:
+			"Mario Pergolini ironizó en su crítica al equipo conducido por Hugo Ibarra, que se consagró campeón de la Liga Profesional \r\nLa Liga Profesional tiene un nuevo campeón y es Boca Juniors,que se consagr… [+760 chars]",
+	},
+	{
+		category: "sports",
+		author: "As.com",
+		title: "“Con Luis Díaz y Diogo Jota, el resultado sería diferente” - AS Colombia",
+		description:
+			"John Aldridge, exjugador de Liverpool, se refirió a los problemas que ha tenido Jürgen Klopp por las lesiones, entre ellas, la de Luis Díaz.",
+		url: "https://colombia.as.com/futbol/colombianos-por-el-mundo/con-luis-diaz-y-diogo-jota-el-resultado-seria-diferente-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/8FgZ224GRL2PMjxO6l37rXzNtXo=/644x362/filters:focal(288x227:298x237)/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/U77GESHOMU3QAGW6SWCPNTB7NI.jpg",
+		publishedAt: "2022-10-24T23:30:35Z",
+		content:
+			"Liverpool sumó seis puntos en dos juegos antes de esto, y ahora parece que han vuelto un poco al punto de partida. Esto fue parte de la crítica que le hizo John Aldridge, exjugador de Liverpool, al e… [+1612 chars]",
+	},
+	{
+		category: "sports",
+		author: "TyC Sports.com",
+		title: "Cómo vivió el vestuario de Racing la derrota frente a River - Rumbo a Tokio",
+		description:
+			"La Academia perdió 2-1 frente al Millonario, desperdició una chance inmejorable de ser campeón, y los futbolistas sintieron el golpe.",
+		url: "https://www.tycsports.com/racing-club/como-vivio-el-vestuario-de-racing-la-derrota-frente-a-river-id473250.html",
+		urlToImage: "https://media.tycsports.com/files/2022/10/24/496943/racing_1440x810_wmk.webp?v=1",
+		publishedAt: "2022-10-24T23:28:32Z",
+		content:
+			"La Academia perdió 2-1 frente al Millonario, desperdició una chance inmejorable de ser campeón, y los futbolistas sintieron el golpe.\r\nRacing perdió 2-1 frente a River en la última fecha de la Liga P… [+2473 chars]",
+	},
+	{
+		category: "sports",
+		author: "TyC Sports.com",
+		title: "Cómo cayó en Racing el posteo de Cardona - Rumbo a Tokio",
+		description:
+			"El colombiano le puso like a una foto que subió a Instagram la cuenta oficial del Xeneize, luego de la derrota de Racing ante River, y no cayó para nada en el vestuario de la Academia.",
+		url: "https://www.tycsports.com/racing-club/como-cayo-en-el-plantel-de-racing-el-posteo-de-cardona-id473244.html",
+		urlToImage: "https://media.tycsports.com/files/2022/10/24/496929/edwin-cardona_1440x810_wmk.webp?v=1",
+		publishedAt: "2022-10-24T23:26:55Z",
+		content:
+			"El colombiano le puso like a una foto que subió a Instagram la cuenta oficial del Xeneize, luego de la derrota de Racing ante River, y no cayó para nada en el vestuario de la Academia.\r\nLuego de la c… [+2791 chars]",
+	},
+	{
+		category: "sports",
+		author: null,
+		title: "¿Barcelona está 'secuestrado' por su estilo de juego del pasado?: El Chiringuito - Fox Deportes",
+		description: 'En el plató creen que "por ser Xavi", el Barcelona le está teniendo paciencia y está secuestrado por un sueño del pasado.',
+		url: "https://www.youtube.com/watch?v=fFM2AnFCqC4",
+		urlToImage: "https://i.ytimg.com/vi/fFM2AnFCqC4/maxresdefault.jpg",
+		publishedAt: "2022-10-24T23:13:19Z",
+		content: null,
+	},
+	{
+		category: "science",
+		author: "Caracol Radio",
+		title: "Eclipse solar octubre 2022: qué es, tipo y cómo verlo este 25 de octubre en Colombia - Caracol Radio",
+		description: "Un eclipse solar es el espectáculo astronómico que se genera cuando la Luna oculta al Sol visto desde la Tierra.",
+		url: "https://caracol.com.co/2022/10/24/eclipse-solar-octubre-2022-que-es-tipo-y-como-verlo-este-25-de-octubre-en-colombia/",
+		urlToImage:
+			"https://caracol.com.co/resizer/woybrleZENdrTLCol5valFBGMIw=/2460x1219/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/prisaradioco/6T4EG32OTBFL7KSBJBTLEJZQFU.jpg",
+		publishedAt: "2022-10-25T02:40:02Z",
+		content:
+			"El cielo siempre ha sido motivo de estudio de la humanidad para entender el origen y funcionamiento del universo. El firmamento es escenario de varios fenómenos, como eclipses, que antiguamente eran … [+2253 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción Depor MX",
+		title: "Escoge la luna que llame más tu atención y el test de personalidad revelará los resultados - Diario Depor",
+		description: "El siguiente test de personalidad tiene la facultad de mostrarte aspectos increíbles sobre tu forma de ser que no conocías.",
+		url: "https://depor.com/mexico/tendencias-mx/escoge-la-luna-que-llame-mas-tu-atencion-y-el-test-de-personalidad-revelara-los-resultados-test-psicologico-virales-nnda-nnrt-noticia/",
+		urlToImage:
+			"https://depor.com/resizer/6bUpgr41hry5fnZ_SHnK6AmivyY=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/ZSY5T7UM5BEOVDM2RHWQ7GV5VI.jpg",
+		publishedAt: "2022-10-25T01:00:00Z",
+		content:
+			"Miles de usuarios han quedado sin palabras al descubrir los resultados que arroja este test de personalidad. Esta prueba se encarga de mostrarnos aspectos únicos de nuestra forma de ser que no conocí… [+1985 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción Depor MX",
+		title: "¿Qué viste primero? ¿Mano azul o amarilla? Test de personalidad revelará algo increíble sobre ti - Diario Depor",
+		description:
+			"Si buscas conocer más sobre tu forma de ser, pues te recomendamos resolver el siguiente test de personalidad. Tan solo tendrás que decirnos que viste primero.",
+		url: "https://depor.com/mexico/tendencias-mx/que-viste-primero-mano-azul-o-amarilla-test-de-personalidad-revelara-algo-increible-sobre-ti-test-psicologico-virales-nnda-nnrt-noticia/",
+		urlToImage:
+			"https://depor.com/resizer/SugUy-BhpVxoPItcaaLL4AhuhN0=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/XKBWI5KP45ATXNOJF52S7VZWWI.jpg",
+		publishedAt: "2022-10-25T00:15:00Z",
+		content:
+			"Los test de personalidad continúan acaparando la atención de miles de usuarios en las redes sociales. Estas pruebas se encargan de revelarnos detalles únicos sobre nuestra forma de ser que no conocem… [+1647 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "La ciencia revela que estos son los videojuegos más aterradores de todos los tiempos - Enséñame de Ciencia",
+		description:
+			"El avance que ha tenido el mundo digital ha hecho posible crear proyecciones que parecen sacadas de otro mundo. Esto ha revolucionado por completo la forma de hacer cine y videojuegos. La industria…",
+		url: "https://ensedeciencia.com/2022/10/24/la-ciencia-revela-que-estos-son-los-videojuegos-mas-aterradores-de-todo-los-tiempos/",
+		urlToImage: "https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2022/10/EdeCiencia-Destacada-50.jpg?fit=1200%2C630&ssl=1",
+		publishedAt: "2022-10-25T00:10:06Z",
+		content:
+			"El avance que ha tenido el mundo digital ha hecho posible crear proyecciones que parecen sacadas de otro mundo. Esto ha revolucionado por completo la forma de hacer cine y videojuegos.\r\nLa industria … [+3332 chars]",
+	},
+	{
+		category: "science",
+		author: "Alicia KelseyLópez Medina",
+		title: "Señales de que hay violencia psicológica y emocional en la relación de pareja - Soy Carmín",
+		description:
+			"Un factor clave en los lazos amorosos dañinos es la violencia psicológica y emocional. Esta se presenta de varias maneras, y hoy en Soy Carmín te decimos las principales señales que la delatan",
+		url: "https://www.soycarmin.com/buenavida/senales-violencia-psicologica-emocional-relacion-de-pareja-20221024-0040.html",
+		urlToImage:
+			"/__export/1666653961917/sites/debate/img/2022/10/24/sexales_de_que_hay_violencia_psicolxgica_y_emocional_en_tu_relacixn_de_pareja.png_242310155.png",
+		publishedAt: "2022-10-24T23:30:22Z",
+		content:
+			"Los vínculos amorosos pueden ser tan bonitos como caóticos. Esto depende de cómo se inicia y desarrolla la relación, ya que influye el actuar de ambas partes. En el caso de las relaciones dañinas, un… [+2865 chars]",
+	},
+	{
+		category: "science",
+		author: "anónimo",
+		title: "Coinfecciones: por primera vez identifican in vitro cómo interactúan dos virus en una misma persona - infobae",
+		description:
+			"Un estudio reciente de la Universidad de Glasgow analizó la unión entre la influenza A, que genera la gripe, y el patógeno responsable de la bronquiolitis. Cuáles son las consecuencias según los especialistas",
+		url: "https://www.infobae.com/salud/ciencia/2022/10/24/coinfecciones-por-primera-vez-identifican-in-vitro-como-interactuan-dos-virus-en-una-misma-persona/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/Yt0C0aQxYoLMn490TqQtmVrRN_4=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/UXQUOHIGDVGAVDEJQ46IZ5CFF4.jpg",
+		publishedAt: "2022-10-24T22:40:11Z",
+		content:
+			"La pandemia desatada por el COVID-19 puso en alerta a la población y especialmente a la comunidad científica, que aún con la relajación del aislamiento y de los contagios continúa investigando la act… [+4476 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Éstas son 5 formas de saber si una persona te bloqueó de WhatsApp - Uno TV Noticias",
+		description:
+			"Si quieres saber si alguien te bloqueó en WhatsApp, éstas son 5 señales para saberlo, aunque también se podría deber a otras razones.",
+		url: "https://www.unotv.com/ciencia-y-tecnologia/whatsapp-5-formas-saber-persona-bloqueo-red-social/",
+		urlToImage: "https://www.unotv.com/uploads/2022/10/whatsapp-bloqueo-165447.jpg",
+		publishedAt: "2022-10-24T22:34:49Z",
+		content:
+			"WhatsApp no notifica a una persona que fue bloqueada, como parte de sus lineamientos de privacidad; sin embargo, el bloqueo de un contacto provoca ciertas señales que puedes observar si sospechas que… [+2836 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción Depor MX",
+		title: "Lo que veas en la imagen del test de personalidad revelará esos rasgos ocultos que posees - Diario Depor",
+		description:
+			"Mira con rapidez la imagen que te dejaremos líneas más abajo y de acuerdo a lo que tus ojos capten conocerás esos rasgos ocultos que tienes.",
+		url: "https://depor.com/mexico/tendencias-mx/lo-que-veas-en-la-imagen-del-test-de-personalidad-revelara-esos-rasgos-ocultos-que-posees-test-psicologico-virales-nnda-nnrt-noticia/",
+		urlToImage:
+			"https://depor.com/resizer/eO2LVAt12HGw7Wd9482o8HyUYgo=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MNCRL5BT5VFEFOIUA7ZTXWG53I.jpg",
+		publishedAt: "2022-10-24T22:30:00Z",
+		content:
+			"¿Quieres conocer más sobre tu forma de ser? Pues que te parece si responder el siguiente test de personalidad. Esta prueba es capaz de revelarte aspectos increíbles sobre ti que no conocías o que por… [+1765 chars]",
+	},
+	{
+		category: "science",
+		author: "Napsix",
+		title: "Test visual: solo el 2% de personas lograron descifrar cuál es el número escondido - MDZ Online",
+		description: "En el próximo desafío visual deberás adivinar cuál es la cifra de números que esconde la imagen.",
+		url: "https://www.mdzol.com/napsix/2022/10/24/test-visual-solo-el-2-de-personas-lograron-descifrar-cual-es-el-numero-escondido-285337.html",
+		urlToImage: "https://www.mdzol.com/u/fotografias/m/2022/5/11/f1280x720-1219205_1350880_5050.jpg",
+		publishedAt: "2022-10-24T22:28:48Z",
+		content:
+			"A partir de este test visual nos damos cuenta de lo que vemos según la forma en que nuestro cerebro lo organiza. En el próximo acertijo verás una imagen con la cuál podrás descifrar el reto. Quizás a… [+1600 chars]",
+	},
+	{
+		category: "science",
+		author: "Raquel Alcolea",
+		title: "Cómo identificar a las personas que merecen la pena - ABC.es",
+		description:
+			"Identificar algunos puntos importantes en las personas de tu entorno puede ayudar a aclarar quienes forman parte de tu grupo de amistades y quienes forman parte de tu grupo de conocidos",
+		url: "https://www.abc.es/bienestar/psicologia-sexo/psicologia/abci-como-identificar-personas-merecen-pena-202210242352_noticia.html",
+		urlToImage: "https://static3.abc.es/media/bienestar/2022/10/25/amigos-merecen-pena-1-kQ3C--1024x512@abc.jpg",
+		publishedAt: "2022-10-24T21:52:48Z",
+		content:
+			"Vivimos rodeados de personas. Familiares, amigos, vecinos, compañeros de trabajo... Somos 'animales sociales' y sentirnos conectados a estas personas nos resulta muy beneficioso a todos los niveles, … [+6019 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Ciudad de Leiden apaga las luces para ver las estrellas | Video - CNN en Español",
+		description:
+			"El motivo de esta acción simultánea no fue por una manifestación, sino para tener una mejor vista del cielo y observar las estrellas. Esto fue parte de un | Tecnología | CNN",
+		url: "https://cnnespanol.cnn.com/video/luces-apagaron-leiden-holanda-estrellas-tecnologia-clix-cnn/",
+		urlToImage: "https://cnnespanol.cnn.com/wp-content/uploads/2022/10/221024132757-clix-turning-lights-off-full-169.jpg?quality=100&strip=info",
+		publishedAt: "2022-10-24T20:27:00Z",
+		content:
+			"El motivo de esta acción simultánea no fue por una manifestación, sino para tener una mejor vista del cielo y observar las estrellas. Esto fue parte de un proyecto que además se documentó en un corto… [+45 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción",
+		title: "“De pesadilla”: Científicos logran una representación sonora del campo magnético de la Tierra - RPP Noticias",
+		description: "Sonidos representan cómo reacciona frente a una erupción solar.",
+		url: "https://rpp.pe/ciencia/espacio/esa-cientificos-logran-una-representacion-sonora-del-campo-magnetico-de-la-tierra-noticia-1441781",
+		urlToImage: "https://e.rpp-noticias.io/large/2022/10/24/324032_1334191.jpg",
+		publishedAt: "2022-10-24T20:00:09Z",
+		content:
+			"El campo magnético de la Tierra que nos protege de la radiación cósmica y partículas cargadas que fluyen desde el Sol. Esta parte esencial de nuestro planeta no se puede ver, ni escuchar hasta ahora.… [+1247 chars]",
+	},
+	{
+		category: "science",
+		author: "José Luis Jacobo",
+		title: "Marea roja: ciencia mata especulación - MDZ Online",
+		description:
+			"Tras los reportes de treinta muertes de ballenas en el sur del país, se alzaron voces que pretendían ligar este acontecimiento con la explotación petrolera u otras actividades productivas. Una investigación científica permitió determinar sin lugar a dudas que…",
+		url: "https://www.mdzol.com/sociedad/2022/10/24/marea-roja-ciencia-mata-especulacion-285349.html",
+		urlToImage: "https://www.mdzol.com/u/fotografias/m/2022/9/30/f1280x720-1291158_1422833_5050.jpg",
+		publishedAt: "2022-10-24T19:48:07Z",
+		content:
+			'La muerte de treinta ballenas en el mar Argentino encendió las alarmas de las autoridades y exacerbó a diferentes grupos autodefinidos como "ambientalistas", que no dudaron en endilgar la causa de es… [+2281 chars]',
+	},
+	{
+		category: "science",
+		author: "Redacción Ciencia",
+		title: "Los perros serían capaces de reconocer la incompetencia de algunas personas - El Espectador",
+		description: "La capacidad de evaluación social de estos animales estaría mediada por la presencia de comida.",
+		url: "https://www.elespectador.com/ciencia/los-perros-serian-capaces-de-reconocer-la-incompetencia-de-algunas-personas-noticias-hoy/",
+		urlToImage:
+			"https://www.elespectador.com/resizer/dG2h9JmghF8JoMzMA6xTzkBH4Gk=/657x0/filters:format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/6PEFI54TFZA6BPIVVJQ4YT5BZE.jpg",
+		publishedAt: "2022-10-24T19:12:00Z",
+		content:
+			"Desde hace algunos años, la ciencia sabe que los perros son muy sensibles al comportamiento de los seres humanos. Por ejemplo, hace unas semanas, un estudio publicado en la revista Plos One encontró … [+2204 chars]",
+	},
+	{
+		category: "science",
+		author: "Carlos Montes",
+		title: "La Nasa se embarca en un inesperado viaje: ahora analizará los fenómenos aéreos no identificados - La Tercera",
+		description: "",
+		url: "https://www.latercera.com/que-pasa/noticia/la-nasa-se-embarca-en-un-inesperado-viaje-ahora-analizara-los-fenomenos-aereos-no-identificados/T3LVWTJK6BAMZI6GFQDQ5IIZUQ/",
+		urlToImage:
+			"https://www.latercera.com/resizer/BV4-MuD1kEmNoUR3aXl6j0no8ZA=/900x600/smart/cloudfront-us-east-1.images.arcpublishing.com/copesa/5BPZR7JRUZDJXJ3LZUOXD6KNV4.webp",
+		publishedAt: "2022-10-24T18:53:17Z",
+		content:
+			"La Administración Nacional de Aeronáutica y el Espacio (Nasa) no descansa en su afán por investigar y analizar el espacio. Recientemente reveló que el rover Curiosity,tras un extenuante viaje de 10 a… [+3352 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "El 99% falló el reto visual: Descubre los GRAVES errores en menos de 7 segundos - Enséñame de Ciencia",
+		description:
+			"Durante esta nota conocerás un acertijo de máxima dificultad, donde no cualquiera puede triunfar en este acertijo y conseguir un buen tiempo, si te consideras todo un experto capaz de percibir todo…",
+		url: "https://ensedeciencia.com/2022/10/24/el-99-fallo-el-reto-visual-descubre-los-graves-errores-en-menos-de-7-segundos/",
+		urlToImage:
+			"https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2022/10/Copia-de-Ensename-de-Ciencia-Principal-1-48.jpg?fit=1200%2C630&ssl=1",
+		publishedAt: "2022-10-24T18:48:44Z",
+		content:
+			"Durante esta nota conocerás un acertijo de máxima dificultad, donde no cualquiera puede triunfar en este acertijo y conseguir un buen tiempo, si te consideras todo un experto capaz de percibir todos … [+1702 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Identifican una nueva especie de homínido que coexistió con el humano moderno - Enséñame de Ciencia",
+		description:
+			"Los científicos no han dejado de estudiar los restos fósiles encontrados de nuestros antepasados, intentando comprender mejor la evolución de nuestra especie. En búsqueda de respuestas, se llevó a …",
+		url: "https://ensedeciencia.com/2022/10/24/identifican-una-nueva-especie-de-hominido-que-coexistio-con-el-humano-moderno/",
+		urlToImage: "https://i0.wp.com/ensedeciencia.com/wp-content/uploads/2022/10/EdeCiencia-Destacada-47.jpg?fit=1200%2C630&ssl=1",
+		publishedAt: "2022-10-24T18:24:38Z",
+		content:
+			"Los científicos no han dejado de estudiar los restos fósiles encontrados de nuestros antepasados, intentando comprender mejor la evolución de nuestra especie.\r\nEn búsqueda de respuestas, se llevó a c… [+3556 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción",
+		title: "Y hablando de Hallowen, ¿por qué ‘se te sube el muerto’ según la ciencia? - El Financiero",
+		description: "La expresión 'se me subió el muerto' sirve para describir lo que científicamente se conoce como parálisis del sueño.",
+		url: "https://www.elfinanciero.com.mx/salud/2022/10/24/paralisis-del-sueno-esta-es-la-explicacion-cientifica-cuando-sientes-que-se-te-sube-el-muerto/",
+		urlToImage:
+			"https://www.elfinanciero.com.mx/resizer/8w5nsZ_LQbJ680stN1a7nE1zzp0=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2CTR47YMVFFUFDGY5OFVFKGMYI.jpeg",
+		publishedAt: "2022-10-24T18:11:00Z",
+		content:
+			"¿Alguna vez has sentido la terrible sensación de despertar de un sueño y no poder moverte? Cuando una persona experimenta este episodio dice que se le subió el muerto.\r\nEsta expresión popular sirve p… [+2450 chars]",
+	},
+	{
+		category: "science",
+		author: "Gonzalo Hernández",
+		title: '"Escalofriante y tétrico": así es el sonido del campo magnético de la Tierra, que protege al planeta de... - Xataka México',
+		description:
+			"El campo magnético de la Tierra, una parte esencial para proteger la vida en el planeta, no es algo que se pueda ver o escuchar de forma directa, sin embargo,...",
+		url: "https://www.xataka.com.mx/espacio/escalofriante-tetrico-asi-sonido-campo-magnetico-tierra-que-protege-al-planeta-radiacion-cosmica",
+		urlToImage: "https://i.blogs.es/13b2fa/esa-campo-magnetico-tierra/840_560.jpeg",
+		publishedAt: "2022-10-24T18:00:39Z",
+		content:
+			"El campo magnético de la Tierra, una parte esencial para proteger la vida en el planeta, no es algo que se pueda ver o escuchar de forma directa, sin embargo, científicos de la Universidad Técnica de… [+1984 chars]",
+	},
+	{
+		category: "science",
+		author: "Redacción Depor MX",
+		title: "Conoce la virtud que te llevará alto o el defecto que te tumbará en este test visual - Diario Depor",
+		description:
+			"Notarás ahora cuatro figuras que puedas reconocer en el test visual, pero déjate llevar. Responde lo que ves primero y así conocerás más detalles de tu personalidad que te sorprenderán.",
+		url: "https://depor.com/mexico/tendencias-mx/conoce-la-virtud-que-te-llevara-alto-o-el-defecto-que-te-tumbara-en-este-test-visual-prueba-psicologica-trends-virales-tendencia-mexico-mx-noticia/",
+		urlToImage:
+			"https://depor.com/resizer/TETXuxEbvzEf5izNfqlz7xCK8eU=/980x528/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/DMGH5EV5GJG7ZDZ5APIIDYNSO4.jpg",
+		publishedAt: "2022-10-24T17:51:00Z",
+		content:
+			"Apenas des ahora con alguna de las figuras en tu respuesta al acertijo psicológico, conocerás por qué te sientes una persona solitaria. Conocerás más a detalle cuáles son tus puntos más profundos y s… [+4153 chars]",
+	},
+	{
+		category: "science",
+		author: "anónimo",
+		title: "Polio: preocupa el riesgo de regreso de una enfermedad rara y que puede ser mortal - infobae",
+		description:
+			"El virus que azotó el país a mediados del siglo pasado amenaza con regresar con casos registrados en Brasil y EE.UU. y otras regiones. Expertos resaltan la importancia de vacunar para erradicar el virus",
+		url: "https://www.infobae.com/america/ciencia-america/2022/10/24/polio-preocupa-el-riesgo-de-regreso-de-una-enfermedad-rara-y-que-puede-ser-mortal/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/u6TgcsbUysQzM9dNL4EBLFBlxK4=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/LDZL57ET6NDDJAWCEX2EJ523F4.jpg",
+		publishedAt: "2022-10-24T17:47:22Z",
+		content:
+			"El tan temido virus de la polio está de vuelta. La enfermedad que podía paralizar los músculos de los niños o, incluso, matarlos, parece retomar fuerza a medida que caen las tasas de vacunación en el… [+9025 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Este prototipo de módulo de la NASA reduciría costos en Marte | Video - CNN en Español",
+		description:
+			"El módulo experimental Shield utiliza una base plegable en forma de acordeón y funciona de manera similar a las zonas de deformación de un automóvil, que | Tecnología | CNN",
+		url: "https://cnnespanol.cnn.com/video/nasa-nuevo-prototipo-aterrizaje-tecnologia-clix-cnn/",
+		urlToImage:
+			"https://cnnespanol.cnn.com/wp-content/uploads/2022/10/221024132801-clix-nasa-new-landing-full-169-e1666643969877.jpg?quality=100&strip=info",
+		publishedAt: "2022-10-24T17:40:00Z",
+		content:
+			"El módulo experimental Shield utiliza una base plegable en forma de acordeón y funciona de manera similar a las zonas de deformación de un automóvil, que permite absorber la energía de un impacto fue… [+116 chars]",
+	},
+	{
+		category: "science",
+		author: "https://www.facebook.com/DanielmarinEureka/",
+		title: "Primer lanzamiento de la constelación rusa de satélites Sfera - Eureka - Eureka - Daniel Marín",
+		description:
+			"El azar ha querido que poco más de una hora después del lanzamiento de 36 satélites de la constelación OneWeb, Rusia haya lanzado el primer ejemplar de una constelación equivalente, […]",
+		url: "https://danielmarin.naukas.com/2022/10/24/primer-lanzamiento-de-la-constelacion-rusa-de-satelites-sfera/",
+		urlToImage: "https://danielmarin.naukas.com/files/2022/10/sas-1.jpg",
+		publishedAt: "2022-10-24T17:29:18Z",
+		content:
+			"El azar ha querido que poco más de una hora después del lanzamiento de 36 satélites de la constelación OneWeb, Rusia haya lanzado el primer ejemplar de una constelación equivalente, aunque más modest… [+6873 chars]",
+	},
+	{
+		category: "science",
+		author: "Pablo Martínez-Juarez",
+		title: "Un misterio de mil millones de años: hemos descubierto una nube atómica veinte veces más grande que la... - Xataka",
+		description:
+			"El nuevo telescopio esférico de quinientos metros de apertura (Five-hundred-metre Aperture Spherical Telescope o FAST) ha sido recientemente el protagonista...",
+		url: "https://www.xataka.com/espacio/misterio-mil-millones-anos-hemos-descubierto-nube-atomica-veinte-veces-grande-que-via-lactea",
+		urlToImage: "https://i.blogs.es/549660/stephan-quintet-edit/840_560.jpg",
+		publishedAt: "2022-10-24T17:00:39Z",
+		content:
+			"El nuevo telescopio esférico de quinientos metros de apertura (Five-hundred-metre Aperture Spherical Telescope o FAST) ha sido recientemente el protagonista de un descubrimiento de una inmensa nube a… [+4353 chars]",
+	},
+	{
+		category: "science",
+		author: "El Cronista",
+		title: "Eclipse de Sol en Argentina: a qué hora será, cómo verlo y cómo afectará a cada signo del zodiaco - El Cronista",
+		description:
+			"El 25 de octubre tendrá lugar el último eclipse solar previsto para 2022. Enterate cómo, dónde y cuándo verlo. ¿De qué manera la Luna en Escorpio afectará a los signos del zodiaco?",
+		url: "https://www.cronista.com/clase/trendy/eclipse-de-sol-en-argentina-a-que-hora-sera-como-verlo-y-como-afectara-a-cada-signo-del-zodiaco/",
+		urlToImage: "https://www.cronista.com/files/image/413/413822/61aa5b16a5faa_600_315!.jpg?s=c38d449fa99ec4bded534dee09f59322&d=1638555322",
+		publishedAt: "2022-10-24T16:57:02Z",
+		content:
+			"Este ao se produjeron maravillosos eventos astronmicos. Tras la reciente lluvia de estrellas, el 25 de octubre por la maana se podr ver el ltimo eclipse de Sol previsto para el 2022. \r\nDurante el ecl… [+3976 chars]",
+	},
+	{
+		category: "science",
+		author: "anónimo",
+		title: "Dormir más de 7 horas por día es tan importante para cuidar el corazón como dejar de fumar tabaco - infobae",
+		description:
+			"En Estados Unidos se hizo un estudio con 2.000 adultos. Los que dormían poco tenían una mayor prevalencia de factores de riesgo de las enfermedades cardiovasculares. Las claves del estudio",
+		url: "https://www.infobae.com/america/ciencia-america/2022/10/24/dormir-mas-de-7-horas-por-dia-es-tan-importante-para-cuidar-el-corazon-como-dejar-de-fumar-tabaco/",
+		urlToImage:
+			"https://www.infobae.com/new-resizer/QC6RqnMxPmDCc9syVsEUiPxetKY=/1200x628/filters:format(webp):quality(85)//cloudfront-us-east-1.images.arcpublishing.com/infobae/SWT7QYJIW5GZZKL7ZRA5IVY6YA.jpg",
+		publishedAt: "2022-10-24T15:19:55Z",
+		content:
+			"Si se quiere cuidar el corazón, hay que tener muy en cuenta a las horas que se dedican al sueño por las noches y dormir bien. La Asociación Estadounidense del Corazón sumó la duración del sueño a su … [+5673 chars]",
+	},
+	{
+		category: "science",
+		author: "Javier Jiménez",
+		title: "La ciencia y la tecnología están listas para monitorizar nuestra fertilidad. No es lo que hace el Apple... - Xataka",
+		description:
+			"Apple lo ha vuelto a hacer. Sepultada entre la cantidad de novedades que traía el último evento, los de Cupertino han introducido mejoras en el sensor de...",
+		url: "https://www.xataka.com/medicina-y-salud/ciencia-tecnologia-estan-listas-para-monitorizar-nuestra-fertilidad-no-que-hace-apple-watch",
+		urlToImage: "https://i.blogs.es/3d2fbb/1366_2000/840_560.jpeg",
+		publishedAt: "2022-10-24T15:00:38Z",
+		content:
+			"Apple lo ha vuelto a hacer. Sepultada entre la cantidad de novedades que traía el último evento, los de Cupertino han introducido mejoras en el sensor de temperatura del Apple Watch Series 8 con vist… [+3832 chars]",
+	},
+	{
+		category: "science",
+		author: "Cristina Sáez",
+		title: "Descubierto un nuevo tipo de estrella en el universo - La Vanguardia",
+		description:
+			"Tiene tan solo 10 km de radio y una masa inferior a la del Sol. Es la estrella de neutrones más pequeña que se ha descubierto hasta el momento y su existencia supone un desafío para los astrónomos, porque, según la teoría actual de evolución estelar, se trata…",
+		url: "https://www.lavanguardia.com/ciencia/20221024/8579675/descubierto-nuevo-tipo-estrella-universo.html",
+		urlToImage: "https://www.lavanguardia.com/files/og_thumbnail/uploads/2020/04/13/5fa9033182e4d.jpeg",
+		publishedAt: "2022-10-24T15:00:00Z",
+		content:
+			"Tiene tan solo 10 km de radio y una masa inferior a la del Sol. Es la estrella de neutrones más pequeña que se ha descubierto hasta el momento y su existencia supone un desafío para los astrónomos, p… [+3506 chars]",
+	},
+	{
+		category: "science",
+		author: "Estefani Dos Reis",
+		title: "Muestran que la Luna pudo formarse en horas - primicia.com.ve",
+		description: "Una colaboración entre el Centro de Investigación Ames de la Nasa y la Universidad de Durham realizó una simulación.",
+		url: "https://primicia.com.ve/mas/ciencia-y-tecnologia/muestran-que-la-luna-pudo-formarse-en-horas/",
+		urlToImage: "https://primicia.com.ve/wp-content/uploads/2022/10/luna-700x352-1.jpeg",
+		publishedAt: "2022-10-24T14:53:20Z",
+		content:
+			"Hace miles de millones de años, una versión de nuestra Tierra muy diferente a la que vemos hoy fue golpeada por un objeto del tamaño de Marte, llamado Theia, y de esa colisión se formó la Luna. Cómo … [+1090 chars]",
+	},
+	{
+		category: "science",
+		author: "E. García",
+		title: 'Encuentran un agujero negro muy "cerca" de la Tierra - Sport',
+		description: "Por ese motivo, encontrar un agujero muy cercano podría ayudar a su estudio",
+		url: "https://www.sport.es/es/noticias/tecnologia/encuentran-agujero-negro-cerca-tierra-77658156",
+		urlToImage: "https://estaticos-cdn.sport.es/clip/552ae8ac-c9e3-4722-be38-bcb9fbc4d41d_source-aspect-ratio_default_0.jpg",
+		publishedAt: "2022-10-24T14:49:46Z",
+		content:
+			'Un grupo de astrónomos ha descubierto un agujero negro masivo a "tan sólo" 1.550 años luz de distancia, aunque pueda suponer una distancia increíble e inabarcable (que lo es) en términos astronómicos… [+1022 chars]',
+	},
+	{
+		category: "science",
+		author: "Diego Bastarrica",
+		title: "Los astrónomos ven un agujero negro monstruoso «prácticamente en nuestro patio trasero» - Digital Trends Español",
+		description: "Es uno de los agujeros negros más cercanos jamás descubiertos, con una masa 12 veces mayor que la del Sol.",
+		url: "https://es.digitaltrends.com/espacio/agujero-negro-monstruoso-mas-cerca-de-nuestra-galaxia/",
+		urlToImage: "https://es.digitaltrends.com/wp-content/uploads/2020/07/mit-extreme-black-holes-01-press-1.jpg?p=1",
+		publishedAt: "2022-10-24T14:08:58Z",
+		content:
+			"Los agujeros negros vienen en una variedad de tamaños, desde agujeros negros estelares unas pocas veces la masa del sol hasta agujeros negros supermasivos, que son millones de veces la masa del sol y… [+2419 chars]",
+	},
+	{
+		category: "science",
+		author: "Zonacero.com",
+		title: 'Descubren Marshmallow, el nuevo exoplaneta "ultraesponjoso" - Zona Cero',
+		description: "Un inusual planeta similar a Júpiter orbitando alrededor de una fría estrella enana roja.",
+		url: "https://zonacero.com/mundo/descubren-marshmallow-el-nuevo-exoplaneta-ultraesponjoso-201909",
+		urlToImage: "https://zonacero.com/sites/default/files/2022/10/24/foto_detalle/marshmallow_0.jpg",
+		publishedAt: "2022-10-24T14:03:00Z",
+		content:
+			"Las observaciones de distintos telescopios han posibilitado el descubrimiento de un nuevo exoplaneta, Marshmallow, un inusual planeta similar a Júpiter orbitando alrededor de una fría estrella enana … [+1758 chars]",
+	},
+	{
+		category: "science",
+		author: "Enrique Garabetyan",
+		title: "Ballenas muertas: expertos creen que la población se encuentra en un buen estado de conservación - Perfil.com",
+		description:
+			"Un equipo de investigadores del Conicet, el Inidep, el Cenpat y otras instituciones académicas analizaron muestras extraídas de los cuerpos hallados en las playas del Golfo Nuevo en la última quincena. Según los expertos, este episodio se debe a la alta conce…",
+		url: "https://www.perfil.com/noticias/sociedad/ballenas-muertas-expertos-creen-que-la-poblacion-se-encuentra-en-un-buen-estado-de-conservacion.phtml",
+		urlToImage: "https://fotos.perfil.com/2022/10/22/trim/1140/641/20221023ballenasinstitutodeconservaciondeballenasg-1440871.jpg",
+		publishedAt: "2022-10-24T13:52:44Z",
+		content:
+			"Un total de treinta ejemplares de ballena franca austral fueron identificadas en playas aledañas a la zona de Puerto Madryn. Y como la cifra es inusitadamente alta para esta época del año, un grupo i… [+6482 chars]",
+	},
+	{
+		category: "science",
+		author: "ADNSUR",
+		title: "Lunes con fuertes vientos y 21°C de máxima en Comodoro ⛅ - ADN Sur",
+		description:
+			"El Servicio Meteorológico Nacional pronosticó una jornada con ráfagas de hasta 70 km/h en el inicio de semana. Todo indicaría que el viento seguirá presente por varios días en la ciudad.",
+		url: "https://www.adnsur.com.ar/sociedad/lunes-con-fuertes-vientos-y-21-c-de-maxima-en-comodoro--_a63565e28627f3616f3903f51",
+		urlToImage:
+			"https://adnsur-app.tadevel-cdn.com/hostname/www.adnsur.com.ar/api/v1/image/article/63565e28627f3616f3903f51/facebook?v=2c14364e0a5cbe382db82e57ed7c8891&s=394288c3733cb0221d7744075c0449a1",
+		publishedAt: "2022-10-24T13:06:27Z",
+		content:
+			"Este lunes, Comodoro Rivadavia y Rada Tilly esperan una jornada ventosa y con cielo mayormente nublado en el comienzo de la semana.\r\nSegún detalló el Servicio Meteorológico Nacional, la temperatura m… [+376 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Universitario brillante, es perseguido por ser provida y profamilia - Aleteia",
+		description:
+			"Christian Fernando Cortés Pérez es mexicano. Por su brillante desempeño académico, fue elegido este año en la Universidad Autónoma de Baja California para dar el discurso final de graduación en su Facultad. Ahí comenzó su pesadilla",
+		url: "https://es.aleteia.org/2022/10/24/universitario-brillante-es-perseguido-por-ser-provida-y-profamilia/",
+		urlToImage:
+			"https://wp.es.aleteia.org/wp-content/uploads/sites/7/2022/10/Christian-Fernando-Cortes-Perez-Mexico-Baja-California-2.jpeg?crop=0px%2C416px%2C1536px%2C868px&resize=620%2C310&ssl=1",
+		publishedAt: "2022-10-24T12:56:36Z",
+		content:
+			"Al exponer en su discurso de graduación el valor de la familia y de la vida humana, se convirtió en víctima de acoso y persecución por parte de los defensores del relativismo y la cultura de la muert… [+10564 chars]",
+	},
+	{
+		category: "science",
+		author: "As.com",
+		title: "La práctica que puede desencadenar trastornos neurológicos - AS ",
+		description:
+			"Los especialistas sospechan de la fuerte exposición a determinadas toxinas, como elemento clave en el desarrollo de enfermedades y trastornos infantiles.",
+		url: "https://as.com/actualidad/la-practica-que-puede-desencadenar-trastornos-neurologicos-n/",
+		urlToImage:
+			"https://img.asmedia.epimg.net/resizer/U6HvZr8MCQ5DHPueLfhKt04WWF0=/644x362/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/SZHPUQCV4VAI3AZQUNMT27YNCE.jpg",
+		publishedAt: "2022-10-24T12:26:45Z",
+		content:
+			"Detrás de gran cantidad de enfermedades, en muchos casos degenerativas y en otros no tanto, en cualquier caso de tratamiento complicado, se esconden muchas incógnitas. Se trata de enfermedades como p… [+3844 chars]",
+	},
+	{
+		category: "science",
+		author: "ámbito.com",
+		title: "Científicos captaron una misteriosa señal desde el espacio - ámbito.com",
+		description: "La señal fue detectada más de 2.000 veces desde el espacio exterior. Conoce qué piensan los científicos sobre este misterio.",
+		url: "https://www.ambito.com/informacion-general/espacio-exterior/cientificos-captaron-una-misteriosa-senal-el-espacio-n5564537",
+		urlToImage: "https://media.ambito.com/p/cbb330ae7a1d6179ff38a53e4f99ba17/adjuntos/239/imagenes/039/834/0039834652/espaciowebp.png",
+		publishedAt: "2022-10-24T12:00:00Z",
+		content:
+			"De dónde viene la misteriosa señal del espacio\r\nLa mayoría de las pruebas apuntan a una magnetar, una estrella de neutrones con campos magnéticos fuertes que expulsan, en un período equivalente a la … [+1833 chars]",
+	},
+	{
+		category: "science",
+		author: "ámbito.com",
+		title: "NASA: una posible nueva forma de aterrizar en Marte - ámbito.com",
+		description:
+			"La Administración Nacional de Aeronáutica y el Espacio está probando un novedoso método aún más resistente que los anteriores. Entérate de qué se trata.",
+		url: "https://www.ambito.com/informacion-general/nasa/una-posible-nueva-forma-aterrizar-marte-n5564677",
+		urlToImage: "https://media.ambito.com/p/6fc843846e56dfb9042a503864084cef/adjuntos/239/imagenes/040/235/0040235017/martejpg.jpg",
+		publishedAt: "2022-10-24T12:00:00Z",
+		content:
+			"Marte.\r\n¿Cuál será la diferencia con los aterrizajes previos?\r\nExitosamente, la NASA aterrizó nueve veces vehículos espaciales en Marte, implementando un paracaídas de última generación, algunas bols… [+1468 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "Un lanzamiento de SpaceX tuvo que detenerse por un pelo humano - 20minutos.es",
+		description:
+			"El equipo de la misión actuó con rapidez y el lanzamiento pudo efectuarse con normalidad, permitiendo que los astronautas que había dentro de la nave llegasen a la Estación Espacial Internacional al día siguiente.",
+		url: "https://www.20minutos.es/tecnologia/actualidad/un-lanzamiento-de-spacex-tuvo-que-detenerse-por-un-pelo-humano-5071012/",
+		urlToImage:
+			"https://imagenes.20minutos.es/files/og_thumbnail_panoramic/files/og_tecnologia/uploads/imagenes/2022/10/24/crew-dragon-endurance.jpeg",
+		publishedAt: "2022-10-24T11:30:00Z",
+		content:
+			"SpaceX tuvo que interrumpir momentáneamente un lanzamiento tripulado con cuatro astronautas el pasado 5 de octubre. ¿La razón? Un pelo humano se había colado en el sello del pestillo y podría haber o… [+2166 chars]",
+	},
+	{
+		category: "science",
+		author: null,
+		title: "La NASA reveló cuándo y cómo será el fin de la vida en el planeta Tierra - Contexto",
+		description:
+			"Lejos de las películas y de cualquier otra escena de ciencia ficción, el fin de la vida en La Tierra ya tiene fecha. O al menos ...",
+		url: "https://www.contextotucuman.com/nota/280585/la-nasa-revelo-cuando-y-como-sera-el-fin-de-la-vida-en-el-planeta-tierra.html",
+		urlToImage: "https://www.contextotucuman.com/uploads/2022/10/24/16474_tierra.jpg",
+		publishedAt: "2022-10-24T11:08:00Z",
+		content:
+			"Dicho esto, si efectivamente se produce el avance de la fase de secuencia principal, se generará que el calor aumente de manera tal que convertirá a la Tierra en un planeta inhabitable para el ser hu… [+775 chars]",
+	},
 ];
+console.log(JSON.stringify(thenews));
