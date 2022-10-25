@@ -6,6 +6,7 @@ const saveLocalStorage = (key, userInfo) => {
 // Renderizar noticias //
 const renderNews = (news) => {
 	let iconClass = "fa-regular fa-bookmark";
+	console.log(newSaved);
 	// Si la noticia esta en las guardadas entonces carga la marca oscura
 	if (newSaved.includes(news.title)) {
 		iconClass = "fa-solid fa-bookmark";
@@ -15,7 +16,7 @@ const renderNews = (news) => {
 
 	return `
     <div class="new">
-	<i class="${iconClass}" id="${news.id}" data-title="${news.title}"></i>
+	<i class="${iconClass}" id="${news.title}" data-title="${news.title}"></i>
 	<a class="invisibleAnchor" href="${news.url}">
 		<img
 			src="${news.urlToImage || "/assets/img/No_image_available.png"}"
@@ -46,8 +47,8 @@ const saveNew = (e) => {
 	const filterId = e.target.id;
 	const newTitle = e.target.dataset.title;
 	newSaved = [...newSaved, newTitle];
-	saveLocalStorage("newSaved", newSaved);
 	changeStatus(filterId, true);
+	saveLocalStorage("newSaved", newSaved);
 };
 
 // Borrar la noticia //
@@ -65,8 +66,9 @@ const newIsClicked = (e) => {
 	if (e.target.classList.contains("fa-bookmark") && e.target.classList.contains("fa-solid")) return deleteNew(e);
 };
 
-// Guardar noticias //
+// Cambia el icono
 const changeStatus = (newId, isSaved) => {
+	console.log(newId);
 	const icon = document.getElementById(newId);
 	if (isSaved) {
 		icon.classList.remove("fa-regular");
@@ -142,7 +144,6 @@ const getNews = async () => {
 	const data = await response.json();
 	return data;
 };
-
 $goToAccount.addEventListener("click", goToAccount);
 $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);

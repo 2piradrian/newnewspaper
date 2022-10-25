@@ -21,3 +21,5 @@ if (queryParams.section !== "forMe") {
 } else {
 	filterNewsForYou(20);
 }
+
+$newsContainer.addEventListener("click", newIsClicked);
