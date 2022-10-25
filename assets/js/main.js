@@ -11,7 +11,7 @@ const isLogged = () => {
 // Comprobar si esta cargando noticias o redirigiendo //
 const loadOrLogin = () => {
 	if (userData.log) {
-		location.href = "/news.html";
+		location.href = "/news.html?section=forMe";
 	} else {
 		location.href = "/login.html";
 	}
@@ -21,7 +21,6 @@ const loadOrLogin = () => {
 const firstNews = async () => {
 	const dataArray = await getNews();
 	const news = splitProducts(dataArray, 2);
-	console.log(news);
 	mapNews(news[0], $newsContainer);
 };
 
@@ -29,6 +28,7 @@ const mainInit = () => {
 	$newsContainer?.addEventListener("click", newIsClicked);
 	$moreNewsP?.addEventListener("click", loadOrLogin);
 	firstNews();
+	filterNewsForYou(2);
 	isLogged();
 };
 

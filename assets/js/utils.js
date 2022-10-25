@@ -10,6 +10,9 @@ const renderNews = (news) => {
 	if (newSaved.includes(news.title)) {
 		iconClass = "fa-solid fa-bookmark";
 	}
+	// Si la noticia esta incompleta la omite
+	if (!news.content && !news.description) return;
+
 	return `
     <div class="new">
 	<i class="${iconClass}" id="${news.id}" data-title="${news.title}"></i>
@@ -23,7 +26,7 @@ const renderNews = (news) => {
 		<div class="new-content">
 		    <h4 class="new-title">${news.title}</h4>
 			<p class="new-description">
-				${news.content.slice(0, 180)}...
+				${news.content?.slice(0, 180) || news.description}...
 			</p>
 		</div>
 		<button class="showNew">Ver más</button>
@@ -95,6 +98,27 @@ const goToAccount = () => {
 	}
 };
 
+// Guardamos en un array cuales son las categorias deseadas
+const newsForYou = () => {
+	const categories = [];
+	for (let key in userData.preferences.category) {
+		const route = userData["preferences"]["category"][key];
+		if (route) {
+			categories.push(key);
+		}
+	}
+	return categories;
+};
+
+// Funcion que filtra noticias segun parametros
+const filterNewsForYou = async (size) => {
+	let dataArray = await getNews();
+	const categories = newsForYou();
+	dataArray = dataArray.filter((news) => categories.includes(news.category));
+	const news = splitProducts(dataArray, size);
+	mapNews(news[0], $yourNews || $newsContainer);
+};
+
 // Funcion para dividir los productos en subarrays
 const splitProducts = (data, size) => {
 	let dividedProducts = [];
@@ -104,6 +128,7 @@ const splitProducts = (data, size) => {
 	return dividedProducts;
 };
 
+// Controlador de paginación
 const productsController = {
 	dividedProducts: splitProducts(6),
 	nextProductsIndex: 1,

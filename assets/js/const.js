@@ -1,5 +1,6 @@
 // Traer informacion del usuario.
 let newSaved = JSON.parse(localStorage.getItem("newSaved")) || [];
+let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 let userData = JSON.parse(localStorage.getItem("userData")) || {
 	log: false,
 	preferences: {
@@ -14,9 +15,8 @@ let userData = JSON.parse(localStorage.getItem("userData")) || {
 		},
 	},
 };
-let accounts = JSON.parse(localStorage.getItem("accounts")) || { email: undefined, pass: undefined };
 
-let queryParams = {
+const queryParams = {
 	section: "search",
 };
 

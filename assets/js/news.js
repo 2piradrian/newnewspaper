@@ -6,8 +6,18 @@ const getQueryParams = () => {
 	queryParams.section = urlParams.get("section");
 };
 
-const initNews = () => {
-	getQueryParams(true);
+// Funcion que carga las noticias segun la seccion elegida
+const loadNews = async (size) => {
+	let dataArray = await getNews();
+	dataArray = dataArray.filter((news) => news.category == queryParams.section);
+	// Pendiente hacer que cargue con scroll
+	const news = splitProducts(dataArray, size);
+	mapNews(news[0], $newsContainer);
 };
+getQueryParams();
 
-initNews();
+if (queryParams.section !== "forMe") {
+	loadNews(20);
+} else {
+	filterNewsForYou(20);
+}
