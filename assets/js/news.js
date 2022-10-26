@@ -21,7 +21,7 @@ const newsInit = async () => {
 	if (queryParams.section !== "forMe") {
 		loadNews(20);
 	} else {
-		const categories = newsForYou();
+		const categories = yourCategories();
 		if (!categories.length) {
 			$newsContainer.innerHTML = "<h2>Aún no has configurado tus gustos.</h2>";
 		}

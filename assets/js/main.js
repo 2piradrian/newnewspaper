@@ -10,7 +10,7 @@ const isLogged = () => {
 
 // Comprobar si esta cargando noticias o redirigiendo //
 const loadOrLogin = () => {
-	const categories = newsForYou();
+	const categories = yourCategories();
 	if (!userData.log) {
 		location.href = "/login.html";
 	} else if (!categories.length) {
@@ -29,7 +29,7 @@ const firstNews = async () => {
 
 // Funcion que informa que no se han seleccionado preferencias para mostrar noticias personalizadas
 const setPreferences = async () => {
-	const categories = newsForYou();
+	const categories = yourCategories();
 	if (!categories.length) {
 		$yourNews.innerHTML = "<p>Aún no has configurado tus gustos.</p>";
 		$moreNewsP.textContent = "Configurar preferencias";

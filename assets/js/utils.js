@@ -100,7 +100,7 @@ const goToAccount = () => {
 };
 
 // Guardamos en un array cuales son las categorias deseadas
-const newsForYou = () => {
+const yourCategories = () => {
 	const categories = [];
 	for (let key in userData.preferences.category) {
 		const route = userData["preferences"]["category"][key];
@@ -114,7 +114,7 @@ const newsForYou = () => {
 // Funcion que filtra noticias segun parametros
 const filterNewsForYou = async (size) => {
 	let dataArray = await getNews();
-	const categories = newsForYou();
+	const categories = yourCategories();
 	dataArray = dataArray.filter((news) => categories.includes(news.category));
 	const news = splitProducts(dataArray, size);
 	mapNews(news[0], $yourNews || $newsContainer);
