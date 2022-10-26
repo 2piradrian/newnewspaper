@@ -15,13 +15,16 @@ const loadNews = async (size) => {
 	mapNews(news[0], $newsContainer);
 };
 
-const newsInit = () => {
+const newsInit = async () => {
 	getQueryParams();
 
 	if (queryParams.section !== "forMe") {
 		loadNews(20);
 	} else {
-		filterNewsForYou(20);
+		const categories = newsForYou();
+		if (!categories.length) {
+			$newsContainer.innerHTML = "<h2>Aún no has configurado tus gustos.</h2>";
+		}
 	}
 
 	$newsContainer.addEventListener("click", newIsClicked);

@@ -118,6 +118,7 @@ const filterNewsForYou = async (size) => {
 	dataArray = dataArray.filter((news) => categories.includes(news.category));
 	const news = splitProducts(dataArray, size);
 	mapNews(news[0], $yourNews || $newsContainer);
+	return dataArray;
 };
 
 // Funcion para dividir los productos en subarrays

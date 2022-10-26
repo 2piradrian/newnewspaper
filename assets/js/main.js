@@ -10,10 +10,13 @@ const isLogged = () => {
 
 // Comprobar si esta cargando noticias o redirigiendo //
 const loadOrLogin = () => {
-	if (userData.log) {
-		location.href = "/news.html?section=forMe";
-	} else {
+	const categories = newsForYou();
+	if (!userData.log) {
 		location.href = "/login.html";
+	} else if (!categories.length) {
+		location.href = "/account.html";
+	} else {
+		location.href = "/news.html?section=forMe";
 	}
 };
 
@@ -24,6 +27,15 @@ const firstNews = async () => {
 	mapNews(news[0], $newsContainer);
 };
 
+// Funcion que informa que no se han seleccionado preferencias para mostrar noticias personalizadas
+const setPreferences = async () => {
+	const categories = newsForYou();
+	if (!categories.length) {
+		$yourNews.innerHTML = "<p>Aún no has configurado tus gustos.</p>";
+		$moreNewsP.textContent = "Configurar preferencias";
+	}
+};
+
 const mainInit = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
 	$yourNews.addEventListener("click", newIsClicked);
@@ -31,6 +43,7 @@ const mainInit = () => {
 	firstNews();
 	filterNewsForYou(2);
 	isLogged();
+	setPreferences();
 };
 
 mainInit();
