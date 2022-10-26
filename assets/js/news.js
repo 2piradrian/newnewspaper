@@ -24,7 +24,9 @@ const newsInit = async () => {
 		const categories = yourCategories();
 		if (!categories.length) {
 			$newsContainer.innerHTML = "<h2>Aún no has configurado tus gustos.</h2>";
+			return;
 		}
+		filterNewsForYou(2);
 	}
 
 	$newsContainer.addEventListener("click", newIsClicked);
