@@ -41,6 +41,31 @@ const mapNews = (articles, container) => {
 	container.innerHTML += articles.map((article) => renderNews(article)).join("");
 };
 
+// Funcion que filtra las noticias
+const filterNews = async () => {
+	let dataArray = await getNews();
+	load.isFetching = false;
+	// Si nos encontramos en la seccion "Para ti" ->
+	if (queryParams.section == "forMe") {
+		const categories = yourCategories();
+		dataArray = dataArray.filter((news) => categories.includes(news.category));
+	}
+	// Si nos encontramos en otra seccion ->
+	else {
+		dataArray = dataArray.filter((news) => news.category == queryParams.section);
+	}
+	return splitProducts(dataArray, 2);
+};
+
+// Funcion para dividir los productos en subarrays
+const splitProducts = (data, size) => {
+	let dividedProducts = [];
+	for (let i = 0; i < data.length; i += size) {
+		dividedProducts.push(data.slice(i, i + size));
+	}
+	return dividedProducts;
+};
+
 // Guardar la noticia //
 const saveNew = (e) => {
 	const filterId = e.target.id;
@@ -109,32 +134,6 @@ const yourCategories = () => {
 		}
 	}
 	return categories;
-};
-
-// Funcion que filtra noticias segun parametros
-const filterNewsForYou = async (size) => {
-	let dataArray = await getNews();
-	const categories = yourCategories();
-	dataArray = dataArray.filter((news) => categories.includes(news.category));
-	const news = splitProducts(dataArray, size);
-	mapNews(news[0], $yourNews || $newsContainer);
-	return dataArray;
-};
-
-// Funcion para dividir los productos en subarrays
-const splitProducts = (data, size) => {
-	let dividedProducts = [];
-	for (let i = 0; i < data.length; i += size) {
-		dividedProducts.push(data.slice(i, i + size));
-	}
-	return dividedProducts;
-};
-
-// Controlador de paginación
-const productsController = {
-	dividedProducts: splitProducts(6),
-	nextProductsIndex: 1,
-	productsLimit: splitProducts(6).length,
 };
 
 // LLamada a la base de datos

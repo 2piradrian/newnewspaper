@@ -385,6 +385,9 @@ input[type="checkbox"] {
 .formFilterMenu label {
 	margin: 5px;
 }
+.noSetting {
+	margin: 50px;
+}
 
 @media only screen and (min-width: 470px) {
 	.formSettings h3 {

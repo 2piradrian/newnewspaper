@@ -17,10 +17,16 @@ let userData = JSON.parse(localStorage.getItem("userData")) || {
 };
 
 const queryParams = {
-	section: "search",
+	section: undefined,
 };
 
 let news = [];
+
+const load = {
+	next: 1,
+	limit: undefined,
+	isFetching: false,
+};
 
 // Nav //
 const $burguerMenu = document.getElementById("barsMenu");

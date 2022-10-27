@@ -6,30 +6,36 @@ const getQueryParams = () => {
 	queryParams.section = urlParams.get("section");
 };
 
-// Funcion que carga las noticias segun la seccion elegida
-const loadNews = async (size) => {
-	let dataArray = await getNews();
-	dataArray = dataArray.filter((news) => news.category == queryParams.section);
-	// Pendiente hacer que cargue con scroll
-	const news = splitProducts(dataArray, size);
-	mapNews(news[0], $newsContainer);
+// Funcion que carga noticias al hacer scroll
+const scrollLoad = async (e) => {
+	const { scrollTop, clientHeight, scrollHeight } = document.documentElement;
+	const bottom = scrollTop + clientHeight >= scrollHeight - 1;
+	if (bottom && !load.isFetching) {
+		load.next++;
+		load.isFetching = false;
+		if (load.next < load.limit) {
+			const newsToLoad = await filterNews();
+			mapNews(newsToLoad[load.next], $newsContainer);
+		}
+	}
 };
 
 const newsInit = async () => {
 	getQueryParams();
-
-	if (queryParams.section !== "forMe") {
-		loadNews(20);
-	} else {
-		const categories = yourCategories();
-		if (!categories.length) {
-			$newsContainer.innerHTML = "<h2>Aún no has configurado tus gustos.</h2>";
-			return;
-		}
-		filterNewsForYou(2);
+	const categories = yourCategories();
+	if (!categories.length && queryParams.section == "forMe") {
+		$newsContainer.innerHTML = '<h2 class="noSetting">Aún no has configurado tus gustos.</h2>';
+		return;
 	}
+	const newsToLoad = await filterNews();
 
+	mapNews(newsToLoad[0], $newsContainer);
+
+	load.limit = newsToLoad.length;
+
+	// Eventos
 	$newsContainer.addEventListener("click", newIsClicked);
+	window.addEventListener("scroll", scrollLoad);
 };
 
 newsInit();

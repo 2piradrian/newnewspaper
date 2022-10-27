@@ -21,11 +21,11 @@ const loadOrLogin = () => {
 };
 
 // Funcion para cargar las noticias principales //
-const firstNews = async () => {
+/* const firstNews = async () => {
 	const dataArray = await getNews();
 	const news = splitProducts(dataArray, 2);
 	mapNews(news[0], $newsContainer);
-};
+}; */
 
 // Funcion que informa que no se han seleccionado preferencias para mostrar noticias personalizadas
 const setPreferences = async () => {
@@ -40,8 +40,8 @@ const mainInit = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
 	$yourNews.addEventListener("click", newIsClicked);
 	$moreNewsP.addEventListener("click", loadOrLogin);
-	firstNews();
-	filterNewsForYou(2);
+	/* firstNews();
+	filterNewsForYou(2); */
 	isLogged();
 	setPreferences();
 };
