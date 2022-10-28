@@ -20,28 +20,39 @@ const loadOrLogin = () => {
 	}
 };
 
-// Funcion para cargar las noticias principales //
-/* const firstNews = async () => {
-	const dataArray = await getNews();
-	const news = splitProducts(dataArray, 2);
-	mapNews(news[0], $newsContainer);
-}; */
-
 // Funcion que informa que no se han seleccionado preferencias para mostrar noticias personalizadas
 const setPreferences = async () => {
 	const categories = yourCategories();
-	if (!categories.length) {
+	if (!categories.length && userData.log) {
 		$yourNews.innerHTML = "<p>Aún no has configurado tus gustos.</p>";
 		$moreNewsP.textContent = "Configurar preferencias";
+		return;
 	}
+};
+
+// Funcion que carga las noticias del inicio
+const loadFirstNews = async () => {
+	const newsToLoad = await getNews();
+	const categories = yourCategories();
+
+	const general = splitProducts(
+		newsToLoad.filter((news) => news.category === "general"),
+		2
+	);
+	const forYou = splitProducts(
+		newsToLoad.filter((news) => categories.includes(news.category)),
+		2
+	);
+
+	mapNews(general[0], $newsContainer);
+	mapNews(forYou[0], $yourNews);
 };
 
 const mainInit = () => {
 	$newsContainer.addEventListener("click", newIsClicked);
 	$yourNews.addEventListener("click", newIsClicked);
 	$moreNewsP.addEventListener("click", loadOrLogin);
-	/* firstNews();
-	filterNewsForYou(2); */
+	loadFirstNews();
 	isLogged();
 	setPreferences();
 };
