@@ -119,7 +119,7 @@ const saveSettings = (e) => {
 	showConfirmModal();
 	saveLocalStorage("userData", userData);
 };
-
+// Funcion que carga las noticias guardadas
 const loadSavedNews = async () => {
 	if (!newSaved) {
 	}
@@ -135,6 +135,7 @@ pd: usa esta informacion para que nadie mas sufra
 const accountInit = () => {
 	$form?.addEventListener("submit", validateForm);
 	$formSttings?.addEventListener("submit", saveSettings);
+	$savedNews?.addEventListener("click", newIsClicked);
 	$formSttings ? restoreStatus() : console.log("we aren´t in the account manager");
 	loadSavedNews();
 };
