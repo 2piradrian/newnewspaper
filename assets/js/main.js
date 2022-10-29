@@ -39,13 +39,16 @@ const loadFirstNews = async () => {
 		newsToLoad.filter((news) => news.category === "general"),
 		2
 	);
-	const forYou = splitProducts(
-		newsToLoad.filter((news) => categories.includes(news.category)),
-		2
-	);
 
 	mapNews(general[0], $newsContainer);
-	mapNews(forYou[0], $yourNews);
+
+	if (userData.log) {
+		const forYou = splitProducts(
+			newsToLoad.filter((news) => categories.includes(news.category)),
+			2
+		);
+		mapNews(forYou[0], $yourNews);
+	}
 };
 
 const mainInit = () => {
