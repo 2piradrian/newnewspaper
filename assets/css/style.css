@@ -525,6 +525,15 @@ input[type="checkbox"] {
 	}
 }
 
+@media only screen and (min-width: 1300px) {
+	body {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+}
+
 @media only screen and (min-width: 1450px) {
 	.categories {
 		justify-content: center;

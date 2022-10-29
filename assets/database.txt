@@ -2640,17 +2640,6 @@
 		"content": "El agenciero neuquino, Miguel \"El Ruso\" Auer, quien fue baleado con al menos dos disparos en pleno centro de la ciudad, salió del quirófano. El hombre permanece internado en el hospital Castro Rendón… [+1981 chars]"
 	},
 	{
-		"id": 240,
-		"category": "health",
-		"author": null,
-		"title": "El consumo de estas vitaminas puede afectar los riñones - Revista Semana",
-		"description": "Todos los seres humanos pierden parte de la función renal mientras van envejeciendo.",
-		"url": "https://www.semana.com/vida-moderna/articulo/el-consumo-de-estas-vitaminas-puede-afectar-los-rinones/202220/",
-		"urlToImage": "https://www.semana.com/resizer/V5ZugPQBNXr0UITX8F_Oq7x8omQ=/1200x646/filters:format(jpg):quality(50)/cloudfront-us-east-1.images.arcpublishing.com/semana/3GP2OTORBNEBFDHYY5WI4XQJF4.jpg",
-		"publishedAt": "2022-10-24T22:29:27Z",
-		"content": "Los riñones filtran los desechos y el exceso de agua de la sangre, lo que se vuelve orina, de acuerdo con MedlinePlus, la Biblioteca Nacional de Medicina de Estados.\r\nAdicionalmente, el Instituto Nac… [+3216 chars]"
-	},
-	{
 		"id": 241,
 		"category": "health",
 		"author": "Lucía Córdova",
