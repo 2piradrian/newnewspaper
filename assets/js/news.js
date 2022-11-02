@@ -24,7 +24,21 @@ const newsInit = async () => {
 	getQueryParams();
 	const categories = yourCategories();
 	if (!categories.length && queryParams.section == "forMe") {
-		$newsContainer.innerHTML = '<h2 class="noSetting">Aún no has configurado tus gustos.</h2>';
+		$newsContainer.innerHTML = `
+		<div class="forMeBox">
+			<h2 class="noSetting">Aún no has configurado tus gustos.</h2>
+			<p>Cuentanos que tipo de noticias te gustan para mejorar tu experiencia.</p>
+			<p class="forMeBox-p">¿O acaso querés ver noticias del tio del marido de Pampita?</p>
+			<small></small>
+			<a 
+				href="${userData.log ? "/account.html" : "/register.html"}" 
+				class="invisibleAnchor">
+			<button>
+				Configurar mi cuenta.
+			</button>
+			</a>
+		</div>
+		`;
 		return;
 	}
 	const newsToLoad = await filterNews();

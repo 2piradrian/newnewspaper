@@ -386,7 +386,12 @@ input[type="checkbox"] {
 	margin: 5px;
 }
 .noSetting {
-	margin: 50px;
+	margin: 50px 0px 20px 0px;
+}
+
+.forMeBox-p {
+	margin: 15px;
+	font-size: 12px;
 }
 
 .modal {

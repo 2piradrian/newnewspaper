@@ -121,7 +121,9 @@ const saveSettings = (e) => {
 };
 // Funcion que carga las noticias guardadas
 const loadSavedNews = async () => {
-	if (!newSaved) {
+	if (!newSaved.length) {
+		$savedNews.innerHTML = "<p>Aún no tienes noticias guardadas 🐎</p>";
+		return;
 	}
 	mapNews(newSaved, $savedNews);
 };

@@ -32,6 +32,10 @@ button {
 	margin: 30px;
 }
 
+small {
+	margin-top: 10px;
+}
+
 .realAnchor {
 	color: var(--mainColor);
 }
