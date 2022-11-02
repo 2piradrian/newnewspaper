@@ -62,5 +62,9 @@ const $savedNews = document.getElementById("savedNews");
 // Modal //
 const $modalConfirm = document.querySelector(".modalConfirm");
 
+const $registerModal = document.getElementById("registerModal");
+const $iconCloseModal = document.getElementById("iconCloseModal");
+const $showRegister = document.querySelector(".showRegister");
+
 // News //
 const $formFilterMenu = document.getElementById("formFilterMenu");

@@ -390,13 +390,13 @@ input[type="checkbox"] {
 }
 
 .modal {
+	display: none;
 	height: 100%;
 	width: 100%;
 	overflow: auto;
 	position: fixed;
 	top: 0;
 	left: 0;
-	display: flex;
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
@@ -415,7 +415,8 @@ input[type="checkbox"] {
 	align-items: center;
 	justify-content: center;
 	gap: 20px;
-	border: 1px solid var(--contrast);
+	/* 	border: 1px solid var(--contrast);
+ */
 }
 
 .modalContainer > h2 {

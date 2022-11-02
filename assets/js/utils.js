@@ -68,10 +68,13 @@ const splitProducts = (data, size) => {
 
 // Guardar la noticia //
 const saveNew = (e) => {
+	if (!userData.log) {
+		openModal();
+		return;
+	}
 	const filterId = e.target.id;
 	const newToBeSaved = news.filter((news) => news.title === filterId);
 	newSaved.push(newToBeSaved[0]);
-	console.log(newSaved);
 	changeStatus(filterId, true);
 	saveLocalStorage("newSaved", newSaved);
 };
@@ -80,7 +83,6 @@ const saveNew = (e) => {
 const deleteNew = (e) => {
 	const filterId = e.target.id;
 	newSaved = newSaved.filter((n) => n.title !== filterId);
-	console.log(newSaved);
 	saveLocalStorage("newSaved", newSaved);
 	changeStatus(filterId, false);
 };
@@ -136,6 +138,34 @@ const yourCategories = () => {
 	return categories;
 };
 
+// Abrir modal
+const openModal = () => {
+	$registerModal.style.display = "flex";
+	disableScroll();
+};
+// Cerrar modal
+const closeModal = () => {
+	$registerModal.style.display = "none";
+	enableScroll();
+};
+const showBeneficts = () => {
+	closeModal();
+	console.log(1);
+	location.href = "/index.html#beMember";
+};
+
+const disableScroll = () => {
+	scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+	(scrollLeft = window.pageXOffset || document.documentElement.scrollLeft),
+		(window.onscroll = () => {
+			window.scrollTo(scrollLeft, scrollTop);
+		});
+};
+
+function enableScroll() {
+	window.onscroll = () => {};
+}
+
 // LLamada a la base de datos
 const getNews = async () => {
 	const url = `/assets/database.txt`;
@@ -144,6 +174,10 @@ const getNews = async () => {
 	news = data;
 	return data;
 };
+
 $goToAccount.addEventListener("click", goToAccount);
 $burguerMenu.addEventListener("click", animateBurguerMenu);
 $navBar.addEventListener("click", animateBurguerMenu);
+
+$iconCloseModal?.addEventListener("click", closeModal);
+$showRegister?.addEventListener("click", showBeneficts);
