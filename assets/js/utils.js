@@ -75,7 +75,6 @@ const saveNew = (e) => {
 	}
 	const filterId = e.target.dataset.id;
 	const newToBeSaved = news.filter((news) => news.id == filterId);
-	console.log(newToBeSaved);
 	newSaved.push(newToBeSaved[0]);
 	changeStatus(filterId, true);
 	saveLocalStorage("newSaved", newSaved);
