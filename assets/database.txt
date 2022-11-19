@@ -836,20 +836,9 @@
 		"category": "entertainment"
 	},
 	{
-		"id": 76,
-		"author": "Tomás Grego",
-		"title": "\"Desde los 12\": la sincera confesión de Nicole Neumann - Minuto Neuquen",
-		"description": "Con una historia de Instagram la modelo rememoró su pasado.",
-		"url": "https://www.minutoneuquen.com/entretenimiento/2022/10/22/desde-los-12-la-sincera-confesion-de-nicole-neumann-322332.html",
-		"urlToImage": "https://www.minutoneuquen.com/u/fotografias/m/2022/10/22/f1280x720-573634_705309_5050.jpg",
-		"publishedAt": "2022-10-22T19:34:00Z",
-		"content": "Nicole Neumann es una figura indiscutible de la farándula argentina. La modelo tiene una longeva carrera, ya que arrancó desde muy pequeña y logró ampliar su carrera más allá de la pasarela en varias… [+1879 chars]",
-		"category": "entertainment"
-	},
-	{
 		"id": 77,
 		"author": "Andrea Albertano",
-		"title": "El as en la manga de Jey Mammón para \"La Peña de Morfi\" - Minuto Neuquen",
+		"title": "El as en la manga de Jey Mammón para La Peña de Morfi - Minuto Neuquen",
 		"description": "El programa de Telefe le dará la bienvenida a una cantante muy esperada.",
 		"url": "https://www.minutoneuquen.com/entretenimiento/2022/10/22/el-as-en-la-manga-de-jey-mammon-para-la-pena-de-morfi-322331.html",
 		"urlToImage": "https://www.minutoneuquen.com/u/fotografias/m/2022/10/22/f1280x720-573625_705300_5050.jpg",

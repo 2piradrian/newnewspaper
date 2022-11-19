@@ -15,7 +15,7 @@ const renderNews = (news) => {
 
 	return `
     <div class="new">
-	<i class="${iconClass}" id="${news.title}" data-title="${news.title}"></i>
+	<i class="${iconClass}" id="${news.id}" data-id="${news.id}"></i>
 	<a class="invisibleAnchor" href="${news.url}">
 		<img
 			src="${news.urlToImage || "/assets/img/No_image_available.png"}"
@@ -73,8 +73,9 @@ const saveNew = (e) => {
 		openModal();
 		return;
 	}
-	const filterId = e.target.id;
-	const newToBeSaved = news.filter((news) => news.title === filterId);
+	const filterId = e.target.dataset.id;
+	const newToBeSaved = news.filter((news) => news.id == filterId);
+	console.log(newToBeSaved);
 	newSaved.push(newToBeSaved[0]);
 	changeStatus(filterId, true);
 	saveLocalStorage("newSaved", newSaved);
@@ -82,8 +83,8 @@ const saveNew = (e) => {
 
 // Borrar la noticia //
 const deleteNew = (e) => {
-	const filterId = e.target.id;
-	newSaved = newSaved.filter((n) => n.title !== filterId);
+	const filterId = e.target.dataset.id;
+	newSaved = newSaved.filter((n) => n.id !== filterId);
 	saveLocalStorage("newSaved", newSaved);
 	changeStatus(filterId, false);
 };
