@@ -14,6 +14,7 @@ const scrollLoad = async (e) => {
 		load.isFetching = false;
 		if (load.next < load.limit) {
 			load.next++;
+			console.log(load.next);
 			const newsToLoad = await filterNews();
 			mapNews(newsToLoad[load.next], $newsContainer);
 			return;
