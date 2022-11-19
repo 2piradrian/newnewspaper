@@ -7,15 +7,15 @@ const getQueryParams = () => {
 };
 
 // Funcion que carga noticias al hacer scroll
-const scrollLoad = async (e) => {
+const scrollLoad = async () => {
 	const { scrollTop, clientHeight, scrollHeight } = document.documentElement;
 	const bottom = scrollTop + clientHeight >= scrollHeight - 1;
 	if (bottom && !load.isFetching) {
 		load.isFetching = false;
 		if (load.next < load.limit) {
-			load.next++;
 			const newsToLoad = await filterNews();
-			setTimeout(mapNews(newsToLoad[load.next], $newsContainer), 500);
+			setTimeout(mapNews(newsToLoad[load.next], $newsContainer), 800);
+			load.next++;
 		}
 	}
 };
