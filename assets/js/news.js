@@ -11,11 +11,12 @@ const scrollLoad = async (e) => {
 	const { scrollTop, clientHeight, scrollHeight } = document.documentElement;
 	const bottom = scrollTop + clientHeight >= scrollHeight - 1;
 	if (bottom && !load.isFetching) {
-		load.next++;
 		load.isFetching = false;
 		if (load.next < load.limit) {
+			load.next++;
 			const newsToLoad = await filterNews();
 			mapNews(newsToLoad[load.next], $newsContainer);
+			return;
 		}
 	}
 };

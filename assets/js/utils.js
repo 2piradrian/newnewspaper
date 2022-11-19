@@ -38,6 +38,7 @@ const renderNews = (news) => {
 
 // Enviar noticias a ser renderizadas //
 const mapNews = (articles, container) => {
+	console.log(articles);
 	container.innerHTML += articles.map((article) => renderNews(article)).join("");
 };
 
