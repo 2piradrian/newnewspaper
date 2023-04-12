@@ -55,7 +55,7 @@ const filterNews = async () => {
 	else {
 		dataArray = dataArray.filter((news) => news.category == queryParams.section);
 	}
-	return splitProducts(dataArray, 8);
+	return splitProducts(dataArray, 10);
 };
 
 // Funcion para dividir los productos en subarrays
